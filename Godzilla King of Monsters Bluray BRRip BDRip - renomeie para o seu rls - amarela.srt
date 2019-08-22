@@ -1,5 +1,5 @@
-1
-00:00:26,445 --> 00:00:29,525
+1 
+0 0:00:26,445 --> 00:00:29,525
 <font color=#FFFF00><i><b>WTFSubs
 Monstruosamente Apresenta:</b></i></font>
 
@@ -10,27 +10,27 @@ Rei dos Monstros</b></font>
 
 3
 00:00:32,991 --> 00:00:34,791
-<font color=#FFFF00><i><b>TraduÁ„o:
+<font color=#FFFF00><i><b>Tradu√ß√£o:
 Lu Colorada | CondeVlad</b></i></font>
 
 4
 00:00:34,792 --> 00:00:36,792
-<font color=#FFFF00><i><b>TraduÁ„o:
+<font color=#FFFF00><i><b>Tradu√ß√£o:
 Doug | vegafloyd | Malucat</b></i></font>
 
 5
 00:00:36,793 --> 00:00:38,593
-<font color=#FFFF00><i><b>TraduÁ„o:
+<font color=#FFFF00><i><b>Tradu√ß√£o:
 LikaPoetisa | Chei | Monk</b></i></font>
 
 6
 00:00:38,594 --> 00:00:40,394
-<font color=#FFFF00><i><b>TraduÁ„o:
+<font color=#FFFF00><i><b>Tradu√ß√£o:
 Pazolline | Soma</b></i></font>
 
 7
 00:00:40,395 --> 00:00:42,195
-<font color=#FFFF00><i><b>Revis„o:
+<font color=#FFFF00><i><b>Revis√£o:
 vegafloyd | Moicano</b></i></font>
 
 8
@@ -39,7 +39,7 @@ vegafloyd | Moicano</b></i></font>
 
 9
 00:00:48,147 --> 00:00:51,070
-<font color=#FFFF00>S√O FRANCISCO, 2014</font>
+<font color=#FFFF00>S√ÉO FRANCISCO, 2014</font>
 
 10
 00:00:51,071 --> 00:00:54,143
@@ -56,11 +56,11 @@ vegafloyd | Moicano</b></i></font>
 13
 00:01:40,504 --> 00:01:43,162
 <font color=#FFFF00><i>Milhares se reuniram
-na BaÌa ontem ‡ noite</i></font>
+na Ba√≠a ontem √† noite</i></font>
 
 14
 00:01:43,163 --> 00:01:46,065
-<font color=#FFFF00><i>para honrar as vÌtimas
+<font color=#FFFF00><i>para honrar as v√≠timas
 dos ataques de 2014.</i></font>
 
 15
@@ -70,8 +70,8 @@ de memoriais e protestos</i></font>
 
 16
 00:01:49,011 --> 00:01:52,545
-<font color=#FFFF00><i>exigindo que a coligaÁ„o secreta
-de caÁa ao monstro,</i></font>
+<font color=#FFFF00><i>exigindo que a coliga√ß√£o secreta
+de ca√ßa ao monstro,</i></font>
 
 17
 00:01:52,546 --> 00:01:55,000
@@ -80,7 +80,7 @@ seja responsabilizada.</i></font>
 
 18
 00:01:55,001 --> 00:01:58,527
-<font color=#FFFF00><i>O recente aumento de extinÁıes
+<font color=#FFFF00><i>O recente aumento de extin√ß√µes
 nos oceanos do mundo</i></font>
 
 19
@@ -90,18 +90,18 @@ na busca pelo Godzilla</i></font>
 
 20
 00:02:01,757 --> 00:02:04,323
-<font color=#FFFF00><i>que n„o È visto
-h· mais de cinco anos.</i></font>
+<font color=#FFFF00><i>que n√£o √© visto
+h√° mais de cinco anos.</i></font>
 
 21
 00:02:04,324 --> 00:02:06,859
-<font color=#FFFF00><i>A c˙pula da misteriosa
-organizaÁ„o Monarca</i></font>
+<font color=#FFFF00><i>A c√∫pula da misteriosa
+organiza√ß√£o Monarca</i></font>
 
 22
 00:02:06,860 --> 00:02:09,069
-<font color=#FFFF00><i>enfrentar·
-outro interrogatÛrio intenso</i></font>
+<font color=#FFFF00><i>enfrentar√°
+outro interrogat√≥rio intenso</i></font>
 
 23
 00:02:09,070 --> 00:02:11,142
@@ -110,7 +110,7 @@ continua a pressionar</i></font>
 
 24
 00:02:11,143 --> 00:02:13,058
-<font color=#FFFF00><i>pelo extermÌnio dos Tit„s.</i></font>
+<font color=#FFFF00><i>pelo exterm√≠nio dos Tit√£s.</i></font>
 
 25
 00:02:13,059 --> 00:02:16,385
@@ -124,7 +124,7 @@ durante os ataques de 2014.</i></font>
 
 27
 00:02:19,277 --> 00:02:22,831
-<font color=#FFFF00><i>Uma tragÈdia histÛrica que mudou
+<font color=#FFFF00><i>Uma trag√©dia hist√≥rica que mudou
 nosso mundo para sempre.</i></font>
 
 28
@@ -133,12 +133,12 @@ nosso mundo para sempre.</i></font>
 
 29
 00:02:24,478 --> 00:02:27,077
-<font color=#FFFF00><i>que monstros s„o reais.</i></font>
+<font color=#FFFF00><i>que monstros s√£o reais.</i></font>
 
 30
 00:02:36,516 --> 00:02:38,516
 <font color=#FFFF00>OI, MADISON.
-N√O TENHO NOTÕCIAS H¡ MESES.</font>
+N√ÉO TENHO NOT√çCIAS H√Å MESES.</font>
 
 31
 00:02:38,517 --> 00:02:40,117
@@ -147,28 +147,28 @@ SE DIVERTINDO.</font>
 
 32
 00:02:40,118 --> 00:02:42,718
-<font color=#FFFF00>AQUI V√O ALGUMAS FOTOS DOS LOBOS
+<font color=#FFFF00>AQUI V√ÉO ALGUMAS FOTOS DOS LOBOS
 QUE ESTOU ESTUDANDO.</font>
 
 33
 00:02:42,719 --> 00:02:44,219
-<font color=#FFFF00>N√O S√O LINDOS?
+<font color=#FFFF00>N√ÉO S√ÉO LINDOS?
 COM AMOR, PAI.</font>
 
 34
 00:02:49,206 --> 00:02:51,656
-<font color=#FFFF00>OI, PAI. DESCULPE N√O ESCREVER.
+<font color=#FFFF00>OI, PAI. DESCULPE N√ÉO ESCREVER.
 SINTO SUA FALTA.</font>
 
 35
 00:02:51,657 --> 00:02:53,557
 <font color=#FFFF00>MAS TEM ALGO
-QUE QUERO FALAR COM VOC .</font>
+QUE QUERO FALAR COM VOC√ä.</font>
 
 36
 00:02:56,036 --> 00:02:58,161
 <font color=#FFFF00>ESTOU PREOCUPADA
-COM A MAM√E</font>
+COM A MAM√ÉE</font>
 
 37
 00:03:00,372 --> 00:03:03,801
@@ -181,12 +181,12 @@ COM A MAM√E</font>
 
 39
 00:03:07,674 --> 00:03:10,264
-<font color=#FFFF00>- Bom dia, m„e.
+<font color=#FFFF00>- Bom dia, m√£e.
 - Meu Deus.</font>
 
 40
 00:03:12,889 --> 00:03:14,824
-<font color=#FFFF00>Eu fiz cafÈ da manh„.</font>
+<font color=#FFFF00>Eu fiz caf√© da manh√£.</font>
 
 41
 00:03:15,337 --> 00:03:16,913
@@ -199,7 +199,7 @@ e o que devia ser bacon.</font>
 
 43
 00:03:21,919 --> 00:03:23,537
-<font color=#FFFF00>E o que vocÍ recomenda?</font>
+<font color=#FFFF00>E o que voc√™ recomenda?</font>
 
 44
 00:03:23,538 --> 00:03:25,211
@@ -211,11 +211,11 @@ e o que devia ser bacon.</font>
 
 46
 00:03:30,659 --> 00:03:31,990
-<font color=#FFFF00>CafÈ?</font>
+<font color=#FFFF00>Caf√©?</font>
 
 47
 00:03:35,729 --> 00:03:37,384
-<font color=#FFFF00>No que vocÍ estava
+<font color=#FFFF00>No que voc√™ estava
 trabalhando?</font>
 
 48
@@ -235,16 +235,16 @@ alguns e-mails.</font>
 51
 00:03:47,008 --> 00:03:49,739
 <font color=#FFFF00>Ele parece estar bem.
-Saud·vel.</font>
+Saud√°vel.</font>
 
 52
 00:03:52,107 --> 00:03:54,550
-<font color=#FFFF00>- VocÍ respondeu?
-- Ainda n„o.</font>
+<font color=#FFFF00>- Voc√™ respondeu?
+- Ainda n√£o.</font>
 
 53
 00:03:54,551 --> 00:03:56,643
-<font color=#FFFF00>Madison, sÛ n„o quero
+<font color=#FFFF00>Madison, s√≥ n√£o quero
 que se magoe.</font>
 
 54
@@ -254,13 +254,13 @@ que se magoe.</font>
 
 55
 00:03:58,379 --> 00:04:00,254
-<font color=#FFFF00>- que est· acontecendo.
-- M„e, eu sei.</font>
+<font color=#FFFF00>- que est√° acontecendo.
+- M√£e, eu sei.</font>
 
 56
 00:04:05,105 --> 00:04:07,816
-<font color=#FFFF00>Sei que as coisas n„o tÍm
-sido f·ceis para vocÍ.</font>
+<font color=#FFFF00>Sei que as coisas n√£o t√™m
+sido f√°ceis para voc√™.</font>
 
 57
 00:04:08,668 --> 00:04:10,971
@@ -273,16 +273,16 @@ sido f·ceis para vocÍ.</font>
 59
 00:04:12,567 --> 00:04:14,703
 <font color=#FFFF00>Tem certeza
-de que ele ficar· bem?</font>
+de que ele ficar√° bem?</font>
 
 60
 00:04:14,704 --> 00:04:18,125
-<font color=#FFFF00>Ele est· no lugar mais seguro
+<font color=#FFFF00>Ele est√° no lugar mais seguro
 que poderia estar agora.</font>
 
 61
 00:04:20,291 --> 00:04:22,129
-<font color=#FFFF00>Quer ouvir boas notÌcias?</font>
+<font color=#FFFF00>Quer ouvir boas not√≠cias?</font>
 
 62
 00:04:23,808 --> 00:04:25,403
@@ -290,7 +290,7 @@ que poderia estar agora.</font>
 
 63
 00:04:25,404 --> 00:04:26,820
-<font color=#FFFF00>SÈrio?</font>
+<font color=#FFFF00>S√©rio?</font>
 
 64
 00:04:29,373 --> 00:04:31,383
@@ -302,12 +302,12 @@ que poderia estar agora.</font>
 
 66
 00:04:55,137 --> 00:04:56,886
-<font color=#FFFF00>Ficar· tudo bem.</font>
+<font color=#FFFF00>Ficar√° tudo bem.</font>
 
 67
 00:04:58,532 --> 00:05:01,378
 <font color=#FFFF00><i>Dra. Russell, precisamos
-de vocÍ no confinamento.</i></font>
+de voc√™ no confinamento.</i></font>
 
 68
 00:05:02,586 --> 00:05:04,176
@@ -315,22 +315,22 @@ de vocÍ no confinamento.</i></font>
 
 69
 00:05:11,687 --> 00:05:16,444
-<font color=#FFFF00>POSTO AVAN«ADO MONARCA 61
+<font color=#FFFF00>POSTO AVAN√áADO MONARCA 61
 FLORESTA YUNANN, CHINA</font>
 
 70
 00:05:16,819 --> 00:05:18,896
 <font color=#FFFF00>- Que diabos aconteceu?
-- N„o tenho ideia.</font>
+- N√£o tenho ideia.</font>
 
 71
 00:05:18,897 --> 00:05:21,437
-<font color=#FFFF00>Ela dormia feito um bebÍ
-atÈ uma hora e ent„o...</font>
+<font color=#FFFF00>Ela dormia feito um beb√™
+at√© uma hora e ent√£o...</font>
 
 72
 00:05:21,438 --> 00:05:23,189
-<font color=#FFFF00>os nÌveis de radiaÁ„o
+<font color=#FFFF00>os n√≠veis de radia√ß√£o
 deram um pico.</font>
 
 73
@@ -345,17 +345,17 @@ tivesse provocado.</font>
 75
 00:05:26,076 --> 00:05:28,132
 <font color=#FFFF00>Posso assumir daqui.
-Por que n„o descansa?</font>
+Por que n√£o descansa?</font>
 
 76
 00:05:28,133 --> 00:05:31,370
-<font color=#FFFF00>N„o mesmo. Mesmo sem dormir,
-n„o perderei isso.</font>
+<font color=#FFFF00>N√£o mesmo. Mesmo sem dormir,
+n√£o perderei isso.</font>
 
 77
 00:05:45,369 --> 00:05:47,902
 <font color=#FFFF00><i>Equipe de confinamento,
-assumam posiÁ„o prim·ria.</i></font>
+assumam posi√ß√£o prim√°ria.</i></font>
 
 78
 00:05:49,605 --> 00:05:51,469
@@ -368,13 +368,13 @@ assumam posiÁ„o prim·ria.</i></font>
 
 80
 00:05:56,386 --> 00:05:58,384
-<font color=#FFFF00><i>Protocolos de emergÍncia
+<font color=#FFFF00><i>Protocolos de emerg√™ncia
 em vigor.</i></font>
 
 81
 00:05:58,385 --> 00:06:00,659
 <font color=#FFFF00><i>Dois para auxiliarem
-a equipe prim·ria.</i></font>
+a equipe prim√°ria.</i></font>
 
 82
 00:06:00,660 --> 00:06:02,143
@@ -382,7 +382,7 @@ a equipe prim·ria.</i></font>
 
 83
 00:06:30,800 --> 00:06:32,895
-<font color=#FFFF00>ConheÁa <i>Titanus Mosura</i>.</font>
+<font color=#FFFF00>Conhe√ßa <i>Titanus Mosura</i>.</font>
 
 84
 00:06:32,896 --> 00:06:35,420
@@ -391,7 +391,7 @@ a equipe prim·ria.</i></font>
 
 85
 00:06:36,096 --> 00:06:37,404
-<font color=#FFFF00>IncrÌvel.</font>
+<font color=#FFFF00>Incr√≠vel.</font>
 
 86
 00:06:37,405 --> 00:06:39,987
@@ -400,7 +400,7 @@ de confinamento.</i></font>
 
 87
 00:06:48,774 --> 00:06:50,081
-<font color=#FFFF00>O que est· havendo?</font>
+<font color=#FFFF00>O que est√° havendo?</font>
 
 88
 00:06:54,364 --> 00:06:55,935
@@ -408,7 +408,7 @@ de confinamento.</i></font>
 
 89
 00:06:55,936 --> 00:06:57,559
-<font color=#FFFF00>Os sistemas est„o falhando.</font>
+<font color=#FFFF00>Os sistemas est√£o falhando.</font>
 
 90
 00:06:57,560 --> 00:07:00,033
@@ -418,12 +418,12 @@ a rede enlouqueceu.</font>
 91
 00:07:00,034 --> 00:07:01,457
 <font color=#FFFF00>Como assim?
-Como È possÌvel?</font>
+Como √© poss√≠vel?</font>
 
 92
 00:07:01,458 --> 00:07:03,624
-<font color=#FFFF00>Emma, acho que alguÈm
-est· fazendo isso.</font>
+<font color=#FFFF00>Emma, acho que algu√©m
+est√° fazendo isso.</font>
 
 93
 00:07:07,427 --> 00:07:09,033
@@ -433,17 +433,17 @@ recuar.</i></font>
 94
 00:07:09,034 --> 00:07:11,498
 <font color=#FFFF00>Repito, recuar.
-Est„o assustando ela.</font>
+Est√£o assustando ela.</font>
 
 95
 00:07:37,785 --> 00:07:39,522
-<font color=#FFFF00>- N„o!
+<font color=#FFFF00>- N√£o!
 - Dra. Russel, lamento.</font>
 
 96
 00:07:39,523 --> 00:07:41,213
 <font color=#FFFF00>Sabe as normas.
-Temos que mat·-la.</font>
+Temos que mat√°-la.</font>
 
 97
 00:07:41,214 --> 00:07:42,577
@@ -451,7 +451,7 @@ Temos que mat·-la.</font>
 
 98
 00:07:43,632 --> 00:07:45,130
-<font color=#FFFF00>M„e, n„o!</font>
+<font color=#FFFF00>M√£e, n√£o!</font>
 
 99
 00:07:45,131 --> 00:07:47,290
@@ -464,20 +464,20 @@ Vai funcionar.</font>
 
 101
 00:08:00,718 --> 00:08:02,039
-<font color=#FFFF00>Est· tudo bem.</font>
+<font color=#FFFF00>Est√° tudo bem.</font>
 
 102
 00:08:29,939 --> 00:08:31,539
-<font color=#FFFF00>ANALISANDO BIOAC⁄STICA
-DA ESP…CIE</font>
+<font color=#FFFF00>ANALISANDO BIOAC√öSTICA
+DA ESP√âCIE</font>
 
 103
 00:08:40,052 --> 00:08:41,378
-<font color=#FFFF00>M„e!</font>
+<font color=#FFFF00>M√£e!</font>
 
 104
 00:08:47,424 --> 00:08:48,798
-<font color=#FFFF00>M„e!</font>
+<font color=#FFFF00>M√£e!</font>
 
 105
 00:08:49,486 --> 00:08:51,026
@@ -501,15 +501,15 @@ DA ESP…CIE</font>
 
 110
 00:09:04,399 --> 00:09:05,711
-<font color=#FFFF00>M„e...</font>
+<font color=#FFFF00>M√£e...</font>
 
 111
 00:09:16,391 --> 00:09:17,735
-<font color=#FFFF00>FREQU NCIA ALFA ENCONTRADA</font>
+<font color=#FFFF00>FREQU√äNCIA ALFA ENCONTRADA</font>
 
 112
 00:09:40,521 --> 00:09:41,885
-<font color=#FFFF00>Filha da m„e.</font>
+<font color=#FFFF00>Filha da m√£e.</font>
 
 113
 00:09:42,695 --> 00:09:44,222
@@ -517,7 +517,7 @@ DA ESP…CIE</font>
 
 114
 00:10:41,021 --> 00:10:42,466
-<font color=#FFFF00>M„e...</font>
+<font color=#FFFF00>M√£e...</font>
 
 115
 00:10:56,811 --> 00:10:59,786
@@ -526,16 +526,16 @@ senadores...</font>
 
 116
 00:10:59,787 --> 00:11:02,089
-<font color=#FFFF00>È o retorno
+<font color=#FFFF00>√© o retorno
 de uma ancestral</font>
 
 117
 00:11:02,090 --> 00:11:04,515
-<font color=#FFFF00>e esquecida superespÈcie.</font>
+<font color=#FFFF00>e esquecida superesp√©cie.</font>
 
 118
 00:11:04,516 --> 00:11:06,970
-<font color=#FFFF00>AUDI NCIA DO SENADO MONARCA
+<font color=#FFFF00>AUDI√äNCIA DO SENADO MONARCA
 - Godzilla, os MUTOs,</font>
 
 119
@@ -546,7 +546,7 @@ de uma ancestral</font>
 120
 00:11:08,305 --> 00:11:10,936
 <font color=#FFFF00>Acreditamos
-que esses Tit„s</font>
+que esses Tit√£s</font>
 
 121
 00:11:10,937 --> 00:11:12,791
@@ -555,48 +555,48 @@ oferecem</font>
 
 122
 00:11:12,792 --> 00:11:14,960
-<font color=#FFFF00>um equilÌbrio essencial
+<font color=#FFFF00>um equil√≠brio essencial
 ao nosso mundo.</font>
 
 123
 00:11:14,961 --> 00:11:17,159
 <font color=#FFFF00>E, enquanto alguns,
-representem uma ameaÁa</font>
+representem uma amea√ßa</font>
 
 124
 00:11:17,160 --> 00:11:20,405
-<font color=#FFFF00>a Monarca È unicamente
+<font color=#FFFF00>a Monarca √© unicamente
 preparada para determinar</font>
 
 125
 00:11:20,406 --> 00:11:23,132
-<font color=#FFFF00>quais desses Tit„s est„o aqui
-para nos ameaÁar</font>
+<font color=#FFFF00>quais desses Tit√£s est√£o aqui
+para nos amea√ßar</font>
 
 126
 00:11:23,133 --> 00:11:25,997
-<font color=#FFFF00>e quais desses Tit„s est„o aqui
+<font color=#FFFF00>e quais desses Tit√£s est√£o aqui
 para nos proteger.</font>
 
 127
 00:11:25,998 --> 00:11:29,218
-<font color=#FFFF00>Obrigada pela liÁ„o de histÛria
-prim·ria, Sr. Coleman.</font>
+<font color=#FFFF00>Obrigada pela li√ß√£o de hist√≥ria
+prim√°ria, Sr. Coleman.</font>
 
 128
 00:11:29,219 --> 00:11:31,577
-<font color=#FFFF00>Mais ainda n„o ouvimos
+<font color=#FFFF00>Mais ainda n√£o ouvimos
 um bom motivo</font>
 
 129
 00:11:31,578 --> 00:11:34,788
-<font color=#FFFF00>pelo qual a Monarca n„o deveria
-passar para jurisdiÁ„o militar</font>
+<font color=#FFFF00>pelo qual a Monarca n√£o deveria
+passar para jurisdi√ß√£o militar</font>
 
 130
 00:11:34,789 --> 00:11:37,591
-<font color=#FFFF00>ou por quÍ essas criaturas
-n„o deviam ser exterminadas.</font>
+<font color=#FFFF00>ou por qu√™ essas criaturas
+n√£o deviam ser exterminadas.</font>
 
 131
 00:11:37,592 --> 00:11:39,193
@@ -609,22 +609,22 @@ esses monstros radioativos.</font>
 
 133
 00:11:42,502 --> 00:11:44,822
-<font color=#FFFF00>Mas vocÍs n„o podem
-ou n„o querem</font>
+<font color=#FFFF00>Mas voc√™s n√£o podem
+ou n√£o querem</font>
 
 134
 00:11:44,823 --> 00:11:47,821
 <font color=#FFFF00>nos contar quantos existem
-ou por que est„o aparecendo.</font>
+ou por que est√£o aparecendo.</font>
 
 135
 00:11:47,822 --> 00:11:51,381
-<font color=#FFFF00>Ent„o, talvez seja hora
-do exÈrcito mat·-los.</font>
+<font color=#FFFF00>Ent√£o, talvez seja hora
+do ex√©rcito mat√°-los.</font>
 
 136
 00:11:51,382 --> 00:11:53,365
-<font color=#FFFF00>Mat·-los seria um erro.</font>
+<font color=#FFFF00>Mat√°-los seria um erro.</font>
 
 137
 00:11:53,366 --> 00:11:55,889
@@ -633,7 +633,7 @@ por nossa causa.</font>
 
 138
 00:11:55,890 --> 00:11:59,545
-<font color=#FFFF00>Foi nosso teste atÙmico
+<font color=#FFFF00>Foi nosso teste at√¥mico
 que acordou o Godzilla.</font>
 
 139
@@ -643,21 +643,21 @@ como os MUTOs</font>
 
 140
 00:12:01,866 --> 00:12:04,740
-<font color=#FFFF00>surgiram pela mineraÁ„o
-e de pesquisas sÌsmicas.</font>
+<font color=#FFFF00>surgiram pela minera√ß√£o
+e de pesquisas s√≠smicas.</font>
 
 141
 00:12:04,741 --> 00:12:07,403
-<font color=#FFFF00>Mas esses n„o s„o monstros.</font>
+<font color=#FFFF00>Mas esses n√£o s√£o monstros.</font>
 
 142
 00:12:07,404 --> 00:12:10,946
-<font color=#FFFF00>S„o animais reivindicando
-um mundo que j· foi deles.</font>
+<font color=#FFFF00>S√£o animais reivindicando
+um mundo que j√° foi deles.</font>
 
 143
 00:12:10,947 --> 00:12:14,537
-<font color=#FFFF00>Parece atÈ que os est·
+<font color=#FFFF00>Parece at√© que os est√°
 protegendo, Dr. Serizawa.</font>
 
 144
@@ -677,7 +677,7 @@ se esperamos sobreviver,</font>
 147
 00:12:22,396 --> 00:12:26,035
 <font color=#FFFF00>temos que achar maneiras
-de coexistir com os Tit„s.</font>
+de coexistir com os Tit√£s.</font>
 
 148
 00:12:26,036 --> 00:12:28,230
@@ -686,48 +686,48 @@ de coexistir com os Tit„s.</font>
 149
 00:12:28,231 --> 00:12:31,637
 <font color=#FFFF00>Um tipo de relacionamento
-simbiÛtico, se preferirem.</font>
+simbi√≥tico, se preferirem.</font>
 
 150
 00:12:33,012 --> 00:12:36,635
-<font color=#FFFF00>- Como o Le„o e o Rato.
-- Ou O Escorpi„o e o Sapo.</font>
+<font color=#FFFF00>- Como o Le√£o e o Rato.
+- Ou O Escorpi√£o e o Sapo.</font>
 
 151
 00:12:36,636 --> 00:12:39,473
-<font color=#FFFF00>Ent„o, quer fazer do Godzilla
-nosso animal de estimaÁ„o?</font>
+<font color=#FFFF00>Ent√£o, quer fazer do Godzilla
+nosso animal de estima√ß√£o?</font>
 
 152
 00:12:39,474 --> 00:12:40,862
-<font color=#FFFF00>N„o.</font>
+<font color=#FFFF00>N√£o.</font>
 
 153
 00:12:41,182 --> 00:12:42,944
-<font color=#FFFF00>NÛs serÌamos o dele.</font>
+<font color=#FFFF00>N√≥s ser√≠amos o dele.</font>
 
 154
 00:12:48,014 --> 00:12:50,071
-<font color=#FFFF00>N„o. N„o, na verdade.</font>
+<font color=#FFFF00>N√£o. N√£o, na verdade.</font>
 
 155
 00:12:50,072 --> 00:12:52,459
-<font color=#FFFF00>N„o È isso que o Dr. Serizawa
+<font color=#FFFF00>N√£o √© isso que o Dr. Serizawa
 quis dizer.</font>
 
 156
 00:12:52,460 --> 00:12:53,828
-<font color=#FFFF00>NinguÈm insinuou que...</font>
+<font color=#FFFF00>Ningu√©m insinuou que...</font>
 
 157
 00:12:53,829 --> 00:12:55,704
 <font color=#FFFF00>- Godzilla ou outros...
-- Com licenÁa.</font>
+- Com licen√ßa.</font>
 
 158
 00:12:55,705 --> 00:12:59,277
 <font color=#FFFF00>Dr. Serizawa, Dr. Graham,
-essa audiÁ„o n„o foi adiada.</font>
+essa audi√ß√£o n√£o foi adiada.</font>
 
 159
 00:12:59,278 --> 00:13:01,781
@@ -736,7 +736,7 @@ Espero que entenda</font>
 
 160
 00:13:01,782 --> 00:13:04,551
-<font color=#FFFF00>as consequÍncias
+<font color=#FFFF00>as consequ√™ncias
 de sair por essa porta.</font>
 
 161
@@ -747,31 +747,31 @@ enquanto consulto os colegas</font>
 162
 00:13:07,516 --> 00:13:09,403
 <font color=#FFFF00>os deixarei
-com um brevÌssimo</font>
+com um brev√≠ssimo</font>
 
 163
 00:13:09,404 --> 00:13:12,222
-<font color=#FFFF00>e divertido document·rio
-sobre a reproduÁ„o dos Tit„s.</font>
+<font color=#FFFF00>e divertido document√°rio
+sobre a reprodu√ß√£o dos Tit√£s.</font>
 
 164
 00:13:12,223 --> 00:13:14,706
 <font color=#FFFF00>Acho que nesse
-os genitais est„o borrados.</font>
+os genitais est√£o borrados.</font>
 
 165
 00:13:14,707 --> 00:13:17,824
-<font color=#FFFF00>Sen„o, deixem coment·rios
+<font color=#FFFF00>Sen√£o, deixem coment√°rios
 com minha assistente.</font>
 
 166
 00:14:19,811 --> 00:14:21,475
-<font color=#FFFF00>A gravaÁ„o acaba aqui.</font>
+<font color=#FFFF00>A grava√ß√£o acaba aqui.</font>
 
 167
 00:14:22,218 --> 00:14:23,982
 <font color=#FFFF00>Os que sobraram
-n„o nos deram</font>
+n√£o nos deram</font>
 
 168
 00:14:23,983 --> 00:14:26,101
@@ -780,8 +780,8 @@ do que a filmagem mostra.</font>
 
 169
 00:14:26,473 --> 00:14:29,477
-<font color=#FFFF00>SÛ que Emma e Madison
-foram as ˙nicas levadas.</font>
+<font color=#FFFF00>S√≥ que Emma e Madison
+foram as √∫nicas levadas.</font>
 
 170
 00:14:31,058 --> 00:14:32,487
@@ -789,12 +789,12 @@ foram as ˙nicas levadas.</font>
 
 171
 00:14:32,932 --> 00:14:34,497
-<font color=#FFFF00>Eu devia estar l·.</font>
+<font color=#FFFF00>Eu devia estar l√°.</font>
 
 172
 00:14:37,178 --> 00:14:39,195
-<font color=#FFFF00>- Quem s„o?
-- N„o sabemos ainda.</font>
+<font color=#FFFF00>- Quem s√£o?
+- N√£o sabemos ainda.</font>
 
 173
 00:14:40,494 --> 00:14:41,794
@@ -802,12 +802,12 @@ foram as ˙nicas levadas.</font>
 
 174
 00:14:42,484 --> 00:14:44,032
-<font color=#FFFF00>Que estavam atr·s disso.</font>
+<font color=#FFFF00>Que estavam atr√°s disso.</font>
 
 175
 00:14:46,820 --> 00:14:48,763
-<font color=#FFFF00>- VocÍs n„o...
-- … o Orca.</font>
+<font color=#FFFF00>- Voc√™s n√£o...
+- √â o Orca.</font>
 
 176
 00:14:48,764 --> 00:14:50,955
@@ -817,21 +817,21 @@ que precisam da Emma.</font>
 177
 00:14:50,956 --> 00:14:53,158
 <font color=#FFFF00>Ela acreditava
-que se pudÈssemos replicar</font>
+que se pud√©ssemos replicar</font>
 
 178
 00:14:53,159 --> 00:14:55,264
-<font color=#FFFF00>o sonar que os Tit„s usam
-na comunicaÁ„o...</font>
+<font color=#FFFF00>o sonar que os Tit√£s usam
+na comunica√ß√£o...</font>
 
 179
 00:14:55,265 --> 00:14:57,491
-<font color=#FFFF00>Sei o que È.
-Ajudei a construir o protÛtipo.</font>
+<font color=#FFFF00>Sei o que √©.
+Ajudei a construir o prot√≥tipo.</font>
 
 180
 00:14:59,043 --> 00:15:00,948
-<font color=#FFFF00>- Quem È ele?
+<font color=#FFFF00>- Quem √© ele?
 - Sam Coleman.</font>
 
 181
@@ -842,11 +842,11 @@ Cheguei...</font>
 182
 00:15:02,925 --> 00:15:05,127
 <font color=#FFFF00>na Monarca
-logo apÛs vocÍ sair.</font>
+logo ap√≥s voc√™ sair.</font>
 
 183
 00:15:05,128 --> 00:15:07,713
-<font color=#FFFF00>Sou um grande f„ do trabalho
+<font color=#FFFF00>Sou um grande f√£ do trabalho
 da sua esposa e seu.</font>
 
 184
@@ -857,16 +857,16 @@ Desculpe.</font>
 185
 00:15:09,585 --> 00:15:11,190
 <font color=#FFFF00>Ela e eu
-destruÌmos o protÛtipo.</font>
+destru√≠mos o prot√≥tipo.</font>
 
 186
 00:15:11,191 --> 00:15:13,779
-<font color=#FFFF00>AtÈ Emma decidir
-reconstruÌ-lo.</font>
+<font color=#FFFF00>At√© Emma decidir
+reconstru√≠-lo.</font>
 
 187
 00:15:14,576 --> 00:15:16,731
-<font color=#FFFF00>Depois de S„o Francisco,
+<font color=#FFFF00>Depois de S√£o Francisco,
 ela foi a Boston</font>
 
 188
@@ -880,11 +880,11 @@ ela foi a Boston</font>
 
 190
 00:15:20,974 --> 00:15:22,754
-<font color=#FFFF00>N„o, a evitar outro ataque.</font>
+<font color=#FFFF00>N√£o, a evitar outro ataque.</font>
 
 191
 00:15:22,755 --> 00:15:25,379
-<font color=#FFFF00>Orca era um projeto de ciÍncia
+<font color=#FFFF00>Orca era um projeto de ci√™ncia
 escolar para...</font>
 
 192
@@ -894,27 +894,27 @@ longe da praia.</font>
 
 193
 00:15:27,262 --> 00:15:29,761
-<font color=#FFFF00>N„o para conversar
+<font color=#FFFF00>N√£o para conversar
 com suas criaturas.</font>
 
 194
 00:15:29,762 --> 00:15:32,506
 <font color=#FFFF00>Escute.
-Achar„o que È um deles.</font>
+Achar√£o que √© um deles.</font>
 
 195
 00:15:32,824 --> 00:15:35,510
-<font color=#FFFF00>Se usar a frequÍncia errada
+<font color=#FFFF00>Se usar a frequ√™ncia errada
 em um deles...</font>
 
 196
 00:15:35,810 --> 00:15:38,734
-<font color=#FFFF00>ser· respons·vel
-por milhares de S„o Franciscos.</font>
+<font color=#FFFF00>ser√° respons√°vel
+por milhares de S√£o Franciscos.</font>
 
 197
 00:15:38,735 --> 00:15:41,142
-<font color=#FFFF00>E È por isso
+<font color=#FFFF00>E √© por isso
 que precisamos pegar de volta.</font>
 
 198
@@ -923,8 +923,8 @@ que precisamos pegar de volta.</font>
 
 199
 00:15:43,025 --> 00:15:45,366
-<font color=#FFFF00>"ninguÈm conhecia o Orca
-melhor que vocÍ".</font>
+<font color=#FFFF00>"ningu√©m conhecia o Orca
+melhor que voc√™".</font>
 
 200
 00:15:45,367 --> 00:15:47,453
@@ -933,27 +933,27 @@ melhor que vocÍ".</font>
 201
 00:15:47,454 --> 00:15:50,774
 <font color=#FFFF00>Talvez, Mark,
-mas caiu em m„os erradas.</font>
+mas caiu em m√£os erradas.</font>
 
 202
 00:15:50,775 --> 00:15:53,121
 <font color=#FFFF00>E agora,
-o Orca È a ˙nica coisa</font>
+o Orca √© a √∫nica coisa</font>
 
 203
 00:15:53,122 --> 00:15:55,920
-<font color=#FFFF00>que mantÈm
+<font color=#FFFF00>que mant√©m
 Emma e Madison vivas.</font>
 
 204
 00:15:55,921 --> 00:15:57,755
 <font color=#FFFF00>Mark,
-sabemos que est· sofrendo.</font>
+sabemos que est√° sofrendo.</font>
 
 205
 00:15:58,315 --> 00:16:01,161
 <font color=#FFFF00>Mas se encontrarmos o Orca,
-encontraremos sua famÌlia.</font>
+encontraremos sua fam√≠lia.</font>
 
 206
 00:16:02,637 --> 00:16:03,937
@@ -961,17 +961,17 @@ encontraremos sua famÌlia.</font>
 
 207
 00:16:13,809 --> 00:16:16,099
-<font color=#FFFF00>Quando foi a ˙ltima vez
+<font color=#FFFF00>Quando foi a √∫ltima vez
 que falou com Emma?</font>
 
 208
 00:16:17,234 --> 00:16:18,942
-<font color=#FFFF00>Uns trÍs anos atr·s.</font>
+<font color=#FFFF00>Uns tr√™s anos atr√°s.</font>
 
 209
 00:16:19,738 --> 00:16:21,791
-<font color=#FFFF00>Depois de S„o Francisco,
-nÛs...</font>
+<font color=#FFFF00>Depois de S√£o Francisco,
+n√≥s...</font>
 
 210
 00:16:21,792 --> 00:16:23,497
@@ -992,7 +992,7 @@ obcecando em salvar o mundo.</font>
 
 214
 00:16:35,936 --> 00:16:38,052
-<font color=#FFFF00>N„o posso dizer
+<font color=#FFFF00>N√£o posso dizer
 o quanto eu me odiei</font>
 
 215
@@ -1012,8 +1012,8 @@ ver isso.</font>
 
 218
 00:16:49,109 --> 00:16:52,280
-<font color=#FFFF00>Emma combinou a bioac˙stica
-de Tit„s diferentes</font>
+<font color=#FFFF00>Emma combinou a bioac√∫stica
+de Tit√£s diferentes</font>
 
 219
 00:16:52,281 --> 00:16:54,008
@@ -1021,7 +1021,7 @@ de Tit„s diferentes</font>
 
 220
 00:16:54,009 --> 00:16:56,211
-<font color=#FFFF00>Um tipo de frequÍncia b·sica</font>
+<font color=#FFFF00>Um tipo de frequ√™ncia b√°sica</font>
 
 221
 00:16:56,212 --> 00:16:58,180
@@ -1031,26 +1031,26 @@ respondem.</font>
 222
 00:16:58,181 --> 00:17:01,098
 <font color=#FFFF00>Atraindo eles,
-repelindo eles e atÈ mesmo...</font>
+repelindo eles e at√© mesmo...</font>
 
 223
 00:17:01,099 --> 00:17:03,129
-<font color=#FFFF00>‡s vezes, acalmando eles.</font>
+<font color=#FFFF00>√†s vezes, acalmando eles.</font>
 
 224
 00:17:03,130 --> 00:17:04,840
-<font color=#FFFF00>… bastante not·vel,
+<font color=#FFFF00>√â bastante not√°vel,
 na verdade.</font>
 
 225
 00:17:04,841 --> 00:17:07,754
-<font color=#FFFF00>O problema È que n„o sabemos
-quais Tit„s ela combinou.</font>
+<font color=#FFFF00>O problema √© que n√£o sabemos
+quais Tit√£s ela combinou.</font>
 
 226
 00:17:07,755 --> 00:17:10,872
-<font color=#FFFF00>Mas se vocÍ identificar
-essas frequÍncias...</font>
+<font color=#FFFF00>Mas se voc√™ identificar
+essas frequ√™ncias...</font>
 
 227
 00:17:10,873 --> 00:17:13,059
@@ -1076,13 +1076,13 @@ existem?</font>
 
 232
 00:17:20,575 --> 00:17:23,511
-<font color=#FFFF00>- E contando, alÈm do <i>Gojira</i>.
+<font color=#FFFF00>- E contando, al√©m do <i>Gojira</i>.
 - Dezessete?</font>
 
 233
 00:17:23,512 --> 00:17:25,832
 <font color=#FFFF00>A maioria foi descoberta
-em hibernaÁ„o total.</font>
+em hiberna√ß√£o total.</font>
 
 234
 00:17:25,833 --> 00:17:29,285
@@ -1091,21 +1091,21 @@ em locais secretos pelo mundo.</font>
 
 235
 00:17:29,286 --> 00:17:32,076
-<font color=#FFFF00>Camboja, MÈxico,
+<font color=#FFFF00>Camboja, M√©xico,
 Ilha da Caveira.</font>
 
 236
 00:17:32,077 --> 00:17:34,118
-<font color=#FFFF00>AtÈ encontramos um
+<font color=#FFFF00>At√© encontramos um
 em Wyoming.</font>
 
 237
 00:17:34,543 --> 00:17:35,906
-<font color=#FFFF00>Est„o em todos os lugares.</font>
+<font color=#FFFF00>Est√£o em todos os lugares.</font>
 
 238
 00:17:35,907 --> 00:17:37,251
-<font color=#FFFF00>Por que n„o matam eles?</font>
+<font color=#FFFF00>Por que n√£o matam eles?</font>
 
 239
 00:17:37,252 --> 00:17:38,934
@@ -1114,7 +1114,7 @@ em Wyoming.</font>
 240
 00:17:39,432 --> 00:17:42,231
 <font color=#FFFF00>Mas Emma e eu acreditamos
-que alguns s„o...</font>
+que alguns s√£o...</font>
 
 241
 00:17:42,232 --> 00:17:43,830
@@ -1122,22 +1122,22 @@ que alguns s„o...</font>
 
 242
 00:17:45,774 --> 00:17:47,337
-<font color=#FFFF00>N„o se engane.</font>
+<font color=#FFFF00>N√£o se engane.</font>
 
 243
 00:17:50,335 --> 00:17:52,225
-<font color=#FFFF00>Ei, olha sÛ isso.
+<font color=#FFFF00>Ei, olha s√≥ isso.
 Chegamos.</font>
 
 244
 00:18:03,460 --> 00:18:06,702
-<font color=#FFFF00><i>Castle Bravo, aqui È Raptor Um
-em aproximaÁ„o direta.</i></font>
+<font color=#FFFF00><i>Castle Bravo, aqui √© Raptor Um
+em aproxima√ß√£o direta.</i></font>
 
 245
 00:18:08,704 --> 00:18:10,604
 <font color=#FFFF00>CASTLE BRAVO
-POSTO AVAN«ADO MONARCA 54</font>
+POSTO AVAN√áADO MONARCA 54</font>
 
 246
 00:18:10,605 --> 00:18:12,388
@@ -1145,22 +1145,22 @@ POSTO AVAN«ADO MONARCA 54</font>
 
 247
 00:18:12,389 --> 00:18:17,030
-<font color=#FFFF00><i>Raptor Um, est· liberado
+<font color=#FFFF00><i>Raptor Um, est√° liberado
 para descida no Ponto 4.</i></font>
 
 248
 00:18:25,858 --> 00:18:27,537
 <font color=#FFFF00><i>Sensores ajustados
-em trÍs metros.</i></font>
+em tr√™s metros.</i></font>
 
 249
 00:18:27,538 --> 00:18:29,493
 <font color=#FFFF00><i>Iniciando descida
-subsuperfÌcie.</i></font>
+subsuperf√≠cie.</i></font>
 
 250
 00:18:31,881 --> 00:18:33,214
-<font color=#FFFF00>Isso È novidade.</font>
+<font color=#FFFF00>Isso √© novidade.</font>
 
 251
 00:18:34,231 --> 00:18:36,144
@@ -1168,13 +1168,13 @@ subsuperfÌcie.</i></font>
 
 252
 00:18:36,145 --> 00:18:38,241
-<font color=#FFFF00>Nossa nova instalaÁ„o
+<font color=#FFFF00>Nossa nova instala√ß√£o
 principal.</font>
 
 253
 00:18:38,242 --> 00:18:41,823
 <font color=#FFFF00>Feita para rastrear e estudar
-o Godzilla em ambiente prÛprio.</font>
+o Godzilla em ambiente pr√≥prio.</font>
 
 254
 00:18:41,824 --> 00:18:43,342
@@ -1182,7 +1182,7 @@ o Godzilla em ambiente prÛprio.</font>
 
 255
 00:18:43,343 --> 00:18:45,704
-<font color=#FFFF00>SÛ se vocÍ n„o souber
+<font color=#FFFF00>S√≥ se voc√™ n√£o souber
 onde procurar.</font>
 
 256
@@ -1192,7 +1192,7 @@ em aproximadamente sete horas</font>
 
 257
 00:18:59,576 --> 00:19:01,263
-<font color=#FFFF00>nosso local de contenÁ„o</font>
+<font color=#FFFF00>nosso local de conten√ß√£o</font>
 
 258
 00:19:01,264 --> 00:19:03,853
@@ -1201,13 +1201,13 @@ na China foi invadido.</font>
 
 259
 00:19:03,854 --> 00:19:06,924
-<font color=#FFFF00>O espÈcime chamado Mothra
+<font color=#FFFF00>O esp√©cime chamado Mothra
 fugiu.</font>
 
 260
 00:19:06,925 --> 00:19:10,221
 <font color=#FFFF00>E formou um casulo
-sob uma cachoeira prÛxima.</font>
+sob uma cachoeira pr√≥xima.</font>
 
 261
 00:19:10,222 --> 00:19:12,291
@@ -1216,11 +1216,11 @@ sob uma cachoeira prÛxima.</font>
 262
 00:19:12,292 --> 00:19:14,841
 <font color=#FFFF00>e sua filha Madison
-foram feitas refÈns.</font>
+foram feitas ref√©ns.</font>
 
 263
 00:19:14,842 --> 00:19:17,534
-<font color=#FFFF00>Esse È o homem respons·vel.</font>
+<font color=#FFFF00>Esse √© o homem respons√°vel.</font>
 
 264
 00:19:17,535 --> 00:19:19,018
@@ -1228,7 +1228,7 @@ foram feitas refÈns.</font>
 
 265
 00:19:19,019 --> 00:19:22,292
-<font color=#FFFF00>Um ex-coronel do exÈrcito inglÍs
+<font color=#FFFF00>Um ex-coronel do ex√©rcito ingl√™s
 que virou ecoterrorista.</font>
 
 266
@@ -1239,66 +1239,66 @@ a ordem natural.</font>
 267
 00:19:24,799 --> 00:19:26,517
 <font color=#FFFF00>E para financiar
-suas operaÁıes</font>
+suas opera√ß√µes</font>
 
 268
 00:19:26,518 --> 00:19:30,145
-<font color=#FFFF00>ele comeÁou a traficar
+<font color=#FFFF00>ele come√ßou a traficar
 em um novo e perigoso mercado.</font>
 
 269
 00:19:30,146 --> 00:19:32,342
-<font color=#FFFF00>- De DNA de Tit„.
-- O que alguÈm faria</font>
+<font color=#FFFF00>- De DNA de Tit√£.
+- O que algu√©m faria</font>
 
 270
 00:19:32,343 --> 00:19:34,722
 <font color=#FFFF00>- com vermes gigantes?
-- Fala sÈrio, Martinez?</font>
+- Fala s√©rio, Martinez?</font>
 
 271
 00:19:34,723 --> 00:19:36,854
-<font color=#FFFF00>O que n„o fariam?
-RemÈdios...</font>
+<font color=#FFFF00>O que n√£o fariam?
+Rem√©dios...</font>
 
 272
 00:19:36,855 --> 00:19:38,868
-<font color=#FFFF00>Armas biolÛgicas, comida...</font>
+<font color=#FFFF00>Armas biol√≥gicas, comida...</font>
 
 273
 00:19:38,869 --> 00:19:42,048
-<font color=#FFFF00>N„o h· paÌs ou empresa
+<font color=#FFFF00>N√£o h√° pa√≠s ou empresa
 no planeta</font>
 
 274
 00:19:42,049 --> 00:19:44,392
-<font color=#FFFF00>que n„o queira pÙr as m„os
+<font color=#FFFF00>que n√£o queira p√¥r as m√£os
 nessas belezuras.</font>
 
 275
 00:19:44,393 --> 00:19:47,015
 <font color=#FFFF00>E lembre-se
-que essa È sÛ uma larva.</font>
+que essa √© s√≥ uma larva.</font>
 
 276
 00:19:47,016 --> 00:19:50,234
-<font color=#FFFF00>… um bebÍ.
+<font color=#FFFF00>√â um beb√™.
 Depois do casulo...</font>
 
 277
 00:19:50,235 --> 00:19:53,559
-<font color=#FFFF00>Outra coisa sair· dali.
+<font color=#FFFF00>Outra coisa sair√° dali.
 Algo maior.</font>
 
 278
 00:19:53,560 --> 00:19:55,430
 <font color=#FFFF00>- Mais malvado.
-- N„o sabemos, Rick.</font>
+- N√£o sabemos, Rick.</font>
 
 279
 00:19:55,431 --> 00:19:58,109
 <font color=#FFFF00>Mesmo?
-SÛ espere, Chen.</font>
+S√≥ espere, Chen.</font>
 
 280
 00:19:58,110 --> 00:19:59,687
@@ -1307,7 +1307,7 @@ SÛ espere, Chen.</font>
 281
 00:19:59,688 --> 00:20:01,913
 <font color=#FFFF00>que Jonah quer capturar
-esse espÈcime.</font>
+esse esp√©cime.</font>
 
 282
 00:20:01,914 --> 00:20:03,548
@@ -1316,17 +1316,17 @@ O que significa...</font>
 
 283
 00:20:03,549 --> 00:20:05,749
-<font color=#FFFF00>que ele e os mercen·rios
-n„o estar„o longe.</font>
+<font color=#FFFF00>que ele e os mercen√°rios
+n√£o estar√£o longe.</font>
 
 284
 00:20:05,750 --> 00:20:08,805
-<font color=#FFFF00>¿s cinco horas,
-lanÁaremos uma operaÁ„o...</font>
+<font color=#FFFF00>√Äs cinco horas,
+lan√ßaremos uma opera√ß√£o...</font>
 
 285
 00:20:08,806 --> 00:20:10,249
-<font color=#FFFF00>N„o me daria o trabalho.</font>
+<font color=#FFFF00>N√£o me daria o trabalho.</font>
 
 286
 00:20:10,663 --> 00:20:13,017
@@ -1336,17 +1336,17 @@ lanÁaremos uma operaÁ„o...</font>
 287
 00:20:13,018 --> 00:20:16,413
 <font color=#FFFF00>- Mark, deixe a coronel...
-- Um chamariz, uma distraÁ„o.</font>
+- Um chamariz, uma distra√ß√£o.</font>
 
 288
 00:20:17,785 --> 00:20:19,865
-<font color=#FFFF00>Olha, eles j· tÍm
+<font color=#FFFF00>Olha, eles j√° t√™m
 Emma e o Orca.</font>
 
 289
 00:20:19,866 --> 00:20:22,312
-<font color=#FFFF00>Por que iriam querer sÛ esse
-quando tÍm as chaves</font>
+<font color=#FFFF00>Por que iriam querer s√≥ esse
+quando t√™m as chaves</font>
 
 290
 00:20:22,313 --> 00:20:24,878
@@ -1355,8 +1355,8 @@ de horror escondido?</font>
 
 291
 00:20:25,619 --> 00:20:28,255
-<font color=#FFFF00>Acho que querem que v·
-atr·s dessa Mothra</font>
+<font color=#FFFF00>Acho que querem que v√°
+atr√°s dessa Mothra</font>
 
 292
 00:20:28,256 --> 00:20:29,847
@@ -1373,32 +1373,32 @@ o que querem.</font>
 
 295
 00:20:33,925 --> 00:20:37,544
-<font color=#FFFF00>Mark, esse n„o È o primeiro
-espÈcime que capturaram.</font>
+<font color=#FFFF00>Mark, esse n√£o √© o primeiro
+esp√©cime que capturaram.</font>
 
 296
 00:20:37,545 --> 00:20:39,864
 <font color=#FFFF00>- Sabem o que fazem.
-- N„o È sÛ um espÈcime.</font>
+- N√£o √© s√≥ um esp√©cime.</font>
 
 297
 00:20:39,865 --> 00:20:42,302
 <font color=#FFFF00>Tenho uma ex-mulher
-e minha filha l·.</font>
+e minha filha l√°.</font>
 
 298
 00:20:42,303 --> 00:20:45,513
 <font color=#FFFF00>- Caso tenha esquecido.
-- NinguÈm esqueceu, Mark.</font>
+- Ningu√©m esqueceu, Mark.</font>
 
 299
 00:20:45,514 --> 00:20:49,905
-<font color=#FFFF00>Mas lembre-se que est· aqui para
+<font color=#FFFF00>Mas lembre-se que est√° aqui para
 encontrar o Orca e nos ajudar.</font>
 
 300
 00:20:49,906 --> 00:20:53,209
-<font color=#FFFF00>Minha sugest„o È que matem
+<font color=#FFFF00>Minha sugest√£o √© que matem
 essas coisas. Todas elas.</font>
 
 301
@@ -1407,17 +1407,17 @@ essas coisas. Todas elas.</font>
 
 302
 00:20:55,005 --> 00:20:57,334
-<font color=#FFFF00>Quer garantir que n„o caia
-nas m„os erradas?</font>
+<font color=#FFFF00>Quer garantir que n√£o caia
+nas m√£os erradas?</font>
 
 303
 00:20:57,335 --> 00:20:59,541
 <font color=#FFFF00>Mate-os.
-e o Orca ser· in˙til.</font>
+e o Orca ser√° in√∫til.</font>
 
 304
 00:20:59,542 --> 00:21:01,455
-<font color=#FFFF00>Emma n„o iria querer isso.</font>
+<font color=#FFFF00>Emma n√£o iria querer isso.</font>
 
 305
 00:21:01,915 --> 00:21:03,468
@@ -1426,45 +1426,45 @@ para salvar ela.</font>
 
 306
 00:21:03,469 --> 00:21:07,171
-<font color=#FFFF00>N„o seria a primeira vez
-que ela n„o se prioriza.</font>
+<font color=#FFFF00>N√£o seria a primeira vez
+que ela n√£o se prioriza.</font>
 
 307
 00:21:07,172 --> 00:21:09,031
-<font color=#FFFF00>Ou a prÛpria famÌlia, n„o È?</font>
+<font color=#FFFF00>Ou a pr√≥pria fam√≠lia, n√£o √©?</font>
 
 308
 00:21:13,962 --> 00:21:15,426
-<font color=#FFFF00>O cara odeia Tit„s.</font>
+<font color=#FFFF00>O cara odeia Tit√£s.</font>
 
 309
 00:21:16,238 --> 00:21:18,317
-<font color=#FFFF00>VocÍ tambÈm odiaria
+<font color=#FFFF00>Voc√™ tamb√©m odiaria
 se fosse ele.</font>
 
 310
 00:21:24,117 --> 00:21:25,915
 <font color=#FFFF00><i>Posto 32,
-aqui È Raptor Cinco</i></font>
+aqui √© Raptor Cinco</i></font>
 
 311
 00:21:25,916 --> 00:21:28,067
 <font color=#FFFF00><i>se aproximando com suprimentos
-e reforÁos.</i></font>
+e refor√ßos.</i></font>
 
 312
 00:21:28,068 --> 00:21:29,681
-<font color=#FFFF00><i>Permiss„o para pousar.</i></font>
+<font color=#FFFF00><i>Permiss√£o para pousar.</i></font>
 
 313
 00:21:29,682 --> 00:21:32,033
-<font color=#FFFF00><i>Serizawa est· em
-alerta m·ximo.</i></font>
+<font color=#FFFF00><i>Serizawa est√° em
+alerta m√°ximo.</i></font>
 
 314
 00:21:32,034 --> 00:21:34,516
-<font color=#FFFF00><i>Transmitiremos os cÛdigos
-de emergÍncia agora.</i></font>
+<font color=#FFFF00><i>Transmitiremos os c√≥digos
+de emerg√™ncia agora.</i></font>
 
 315
 00:21:34,517 --> 00:21:36,229
@@ -1472,17 +1472,17 @@ de emergÍncia agora.</i></font>
 
 316
 00:21:36,640 --> 00:21:39,046
-<font color=#FFFF00><i>Os cÛdigos est„o certos.
-Bom tÍ-lo de volta.</i></font>
+<font color=#FFFF00><i>Os c√≥digos est√£o certos.
+Bom t√™-lo de volta.</i></font>
 
 317
 00:21:39,662 --> 00:21:43,562
-<font color=#FFFF00>ANT¡RTICA
-POSTO AVAN«ADO MONARCA 32</font>
+<font color=#FFFF00>ANT√ÅRTICA
+POSTO AVAN√áADO MONARCA 32</font>
 
 318
 00:21:45,810 --> 00:21:47,155
-<font color=#FFFF00>V„o.</font>
+<font color=#FFFF00>V√£o.</font>
 
 319
 00:21:53,836 --> 00:21:55,204
@@ -1491,11 +1491,11 @@ POSTO AVAN«ADO MONARCA 32</font>
 320
 00:21:55,205 --> 00:21:57,284
 <font color=#FFFF00>- Precisa de ajuda?
-- N„o, sem problemas.</font>
+- N√£o, sem problemas.</font>
 
 321
 00:22:00,790 --> 00:22:02,509
-<font color=#FFFF00><i>Vamos colocar na baÌa cinco.</i></font>
+<font color=#FFFF00><i>Vamos colocar na ba√≠a cinco.</i></font>
 
 322
 00:22:02,510 --> 00:22:05,052
@@ -1512,7 +1512,7 @@ POSTO AVAN«ADO MONARCA 32</font>
 
 325
 00:22:16,198 --> 00:22:17,729
-<font color=#FFFF00>Eu sei. Eu tambÈm.</font>
+<font color=#FFFF00>Eu sei. Eu tamb√©m.</font>
 
 326
 00:22:22,722 --> 00:22:24,085
@@ -1536,11 +1536,11 @@ POSTO AVAN«ADO MONARCA 32</font>
 
 331
 00:23:22,709 --> 00:23:24,267
-<font color=#FFFF00>M„e de Deus.</font>
+<font color=#FFFF00>M√£e de Deus.</font>
 
 332
 00:23:24,824 --> 00:23:27,061
-<font color=#FFFF00>Ela n„o tem nada
+<font color=#FFFF00>Ela n√£o tem nada
 a ver com isso.</font>
 
 333
@@ -1550,16 +1550,16 @@ a ver com isso.</font>
 334
 00:24:00,851 --> 00:24:03,188
 <font color=#FFFF00>- Algum sobrevivente?
-- N„o.</font>
+- N√£o.</font>
 
 335
 00:24:03,189 --> 00:24:06,155
 <font color=#FFFF00>Tentaram emitir o sinal
-de emergÍncia, mas impedimos.</font>
+de emerg√™ncia, mas impedimos.</font>
 
 336
 00:24:06,156 --> 00:24:07,956
-<font color=#FFFF00>Eles v„o descobrir.</font>
+<font color=#FFFF00>Eles v√£o descobrir.</font>
 
 337
 00:24:07,957 --> 00:24:09,562
@@ -1571,21 +1571,21 @@ de emergÍncia, mas impedimos.</font>
 
 339
 00:24:13,806 --> 00:24:15,197
-<font color=#FFFF00>”timo.</font>
+<font color=#FFFF00>√ìtimo.</font>
 
 340
 00:24:15,198 --> 00:24:17,128
-<font color=#FFFF00>Vamos comeÁar.</font>
+<font color=#FFFF00>Vamos come√ßar.</font>
 
 341
 00:24:28,138 --> 00:24:29,939
-<font color=#FFFF00>ANALISANDO BIOAC⁄STICA
-DA ESP…CIE</font>
+<font color=#FFFF00>ANALISANDO BIOAC√öSTICA
+DA ESP√âCIE</font>
 
 342
 00:24:43,084 --> 00:24:46,777
-<font color=#FFFF00><i>Temos uma situaÁ„o complicada
-aqui no sÛt„o.</i></font>
+<font color=#FFFF00><i>Temos uma situa√ß√£o complicada
+aqui no s√≥t√£o.</i></font>
 
 343
 00:24:46,778 --> 00:24:48,319
@@ -1597,12 +1597,12 @@ aqui no sÛt„o.</i></font>
 
 345
 00:24:49,821 --> 00:24:51,876
-<font color=#FFFF00><i>N„o, vocÍ n„o pode
+<font color=#FFFF00><i>N√£o, voc√™ n√£o pode
 comer meus cavalos...</i></font>
 
 346
 00:24:51,877 --> 00:24:53,185
-<font color=#FFFF00><i>Isso n„o È...</i></font>
+<font color=#FFFF00><i>Isso n√£o √©...</i></font>
 
 347
 00:24:53,186 --> 00:24:54,805
@@ -1615,7 +1615,7 @@ comer meus cavalos...</i></font>
 349
 00:24:57,297 --> 00:24:59,809
 <font color=#FFFF00><i>- Pegue-a!
-- N„o! N„o me peguem!</i></font>
+- N√£o! N√£o me peguem!</i></font>
 
 350
 00:24:59,810 --> 00:25:01,995
@@ -1631,47 +1631,47 @@ comer meus cavalos...</i></font>
 
 353
 00:25:15,810 --> 00:25:19,907
-<font color=#FFFF00><i>Todos se reportem as estaÁıes
-de batalha. CÛdigo Vermelho.</i></font>
+<font color=#FFFF00><i>Todos se reportem as esta√ß√µes
+de batalha. C√≥digo Vermelho.</i></font>
 
 354
 00:25:20,301 --> 00:25:24,215
-<font color=#FFFF00><i>Todos se reportem as estaÁıes
-de batalha. CÛdigo Vermelho.</i></font>
+<font color=#FFFF00><i>Todos se reportem as esta√ß√µes
+de batalha. C√≥digo Vermelho.</i></font>
 
 355
 00:25:24,216 --> 00:25:26,438
-<font color=#FFFF00><i>Isso n„o È uma simulaÁ„o.</i></font>
+<font color=#FFFF00><i>Isso n√£o √© uma simula√ß√£o.</i></font>
 
 356
 00:25:26,439 --> 00:25:30,143
-<font color=#FFFF00><i>Todos se reportem as estaÁıes
-de batalha. CÛdigo Vermelho.</i></font>
+<font color=#FFFF00><i>Todos se reportem as esta√ß√µes
+de batalha. C√≥digo Vermelho.</i></font>
 
 357
 00:25:33,303 --> 00:25:35,797
-<font color=#FFFF00>- O que est· havendo?
-- Algo est· errado.</font>
+<font color=#FFFF00>- O que est√° havendo?
+- Algo est√° errado.</font>
 
 358
 00:25:35,798 --> 00:25:37,787
 <font color=#FFFF00>Ele nunca esteve
-t„o prÛximo antes.</font>
+t√£o pr√≥ximo antes.</font>
 
 359
 00:25:37,788 --> 00:25:39,729
-<font color=#FFFF00>- Quem È ele?
-- Quem vocÍ acha?</font>
+<font color=#FFFF00>- Quem √© ele?
+- Quem voc√™ acha?</font>
 
 360
 00:25:41,938 --> 00:25:43,933
-<font color=#FFFF00>Ele est· derrubando
+<font color=#FFFF00>Ele est√° derrubando
 nossos drones.</font>
 
 361
 00:25:43,934 --> 00:25:46,222
-<font color=#FFFF00>- TrajetÛria?
-- Direto para nÛs.</font>
+<font color=#FFFF00>- Trajet√≥ria?
+- Direto para n√≥s.</font>
 
 362
 00:25:46,223 --> 00:25:48,614
@@ -1685,7 +1685,7 @@ Barnes, Martinez, Hendrix!</font>
 
 364
 00:25:50,613 --> 00:25:52,457
-<font color=#FFFF00>Quero vocÍs armados agora!</font>
+<font color=#FFFF00>Quero voc√™s armados agora!</font>
 
 365
 00:25:52,458 --> 00:25:54,445
@@ -1694,42 +1694,42 @@ Mexam-se!</font>
 
 366
 00:26:04,729 --> 00:26:08,500
-<font color=#FFFF00>- Dr. Stanton, e a bioac˙stica?
-- Ac˙stica chegando.</font>
+<font color=#FFFF00>- Dr. Stanton, e a bioac√∫stica?
+- Ac√∫stica chegando.</font>
 
 367
 00:26:09,682 --> 00:26:12,445
-<font color=#FFFF00>Certo, est· se aproximando,
+<font color=#FFFF00>Certo, est√° se aproximando,
 800 metros.</font>
 
 368
 00:26:12,446 --> 00:26:13,907
-<font color=#FFFF00>A movimentaÁ„o est·
-err·tica.</font>
+<font color=#FFFF00>A movimenta√ß√£o est√°
+err√°tica.</font>
 
 369
 00:26:13,908 --> 00:26:15,495
-<font color=#FFFF00>CoraÁ„o e respiraÁ„o
+<font color=#FFFF00>Cora√ß√£o e respira√ß√£o
 acelerados.</font>
 
 370
 00:26:15,496 --> 00:26:17,333
-<font color=#FFFF00>Ele n„o est· feliz
+<font color=#FFFF00>Ele n√£o est√° feliz
 com alguma coisa.</font>
 
 371
 00:26:17,915 --> 00:26:19,684
-<font color=#FFFF00>Como est„o vendo tudo disso?</font>
+<font color=#FFFF00>Como est√£o vendo tudo disso?</font>
 
 372
 00:26:19,685 --> 00:26:23,009
-<font color=#FFFF00>Emma isolou a bioac˙stica
+<font color=#FFFF00>Emma isolou a bioac√∫stica
 do Godzilla.</font>
 
 373
 00:26:23,010 --> 00:26:26,765
 <font color=#FFFF00>Permite que monitoremos
-atÈ seus sinais vitais.</font>
+at√© seus sinais vitais.</font>
 
 374
 00:26:30,353 --> 00:26:32,751
@@ -1742,7 +1742,7 @@ Aproximando-se a 200 metros.</font>
 
 376
 00:26:34,189 --> 00:26:36,183
-<font color=#FFFF00>Equipes em posiÁ„o.
+<font color=#FFFF00>Equipes em posi√ß√£o.
 Armas engatilhadas.</font>
 
 377
@@ -1756,16 +1756,16 @@ ao comando.</font>
 
 379
 00:26:41,620 --> 00:26:42,983
-<font color=#FFFF00>N„o atirem!</font>
+<font color=#FFFF00>N√£o atirem!</font>
 
 380
 00:26:42,984 --> 00:26:44,658
-<font color=#FFFF00>N„o sabemos se ele
+<font color=#FFFF00>N√£o sabemos se ele
 vai atacar.</font>
 
 381
 00:26:45,079 --> 00:26:47,368
-<font color=#FFFF00>Ele ir· se ficar
+<font color=#FFFF00>Ele ir√° se ficar
 apontando essas armas.</font>
 
 382
@@ -1775,7 +1775,7 @@ mais que tudo,</font>
 
 383
 00:26:49,022 --> 00:26:51,136
-<font color=#FFFF00>mas se n„o pode
+<font color=#FFFF00>mas se n√£o pode
 ganhar essa batalha</font>
 
 384
@@ -1789,7 +1789,7 @@ recuem.</font>
 
 386
 00:27:01,301 --> 00:27:03,438
-<font color=#FFFF00>- N„o pode estar falando sÈrio.
+<font color=#FFFF00>- N√£o pode estar falando s√©rio.
 - Estou.</font>
 
 387
@@ -1803,7 +1803,7 @@ recuem.</font>
 389
 00:27:10,059 --> 00:27:12,695
 <font color=#FFFF00>Repito, guardem as armas.
-N„o ataquem.</font>
+N√£o ataquem.</font>
 
 390
 00:27:16,984 --> 00:27:18,310
@@ -1811,8 +1811,8 @@ N„o ataquem.</font>
 
 391
 00:27:20,035 --> 00:27:22,672
-<font color=#FFFF00>O batimento cardÌaco
-est· desacelerando.</font>
+<font color=#FFFF00>O batimento card√≠aco
+est√° desacelerando.</font>
 
 392
 00:27:29,747 --> 00:27:31,051
@@ -1821,12 +1821,12 @@ est· desacelerando.</font>
 393
 00:27:32,560 --> 00:27:36,334
 <font color=#FFFF00>Claro, chame para uma gelada.
-Est· maluco?</font>
+Est√° maluco?</font>
 
 394
 00:27:37,027 --> 00:27:38,965
 <font color=#FFFF00>Deixe-o saber
-que n„o somos uma ameaÁa.</font>
+que n√£o somos uma amea√ßa.</font>
 
 395
 00:27:39,981 --> 00:27:41,551
@@ -1834,7 +1834,7 @@ que n„o somos uma ameaÁa.</font>
 
 396
 00:27:47,415 --> 00:27:48,719
-<font color=#FFFF00>FaÁam isso.</font>
+<font color=#FFFF00>Fa√ßam isso.</font>
 
 397
 00:28:22,993 --> 00:28:24,515
@@ -1842,7 +1842,7 @@ que n„o somos uma ameaÁa.</font>
 
 398
 00:28:25,379 --> 00:28:27,218
-<font color=#FFFF00>… para intimidar.</font>
+<font color=#FFFF00>√â para intimidar.</font>
 
 399
 00:28:28,534 --> 00:28:30,804
@@ -1856,11 +1856,11 @@ bem intimidados.</font>
 
 401
 00:28:36,062 --> 00:28:37,985
-<font color=#FFFF00>N„o acho que È para nÛs.</font>
+<font color=#FFFF00>N√£o acho que √© para n√≥s.</font>
 
 402
 00:28:47,020 --> 00:28:48,445
-<font color=#FFFF00>O que est· fazendo, cara?</font>
+<font color=#FFFF00>O que est√° fazendo, cara?</font>
 
 403
 00:29:16,722 --> 00:29:18,115
@@ -1868,7 +1868,7 @@ bem intimidados.</font>
 
 404
 00:29:30,032 --> 00:29:32,277
-<font color=#FFFF00>N„o podemos subir
+<font color=#FFFF00>N√£o podemos subir
 o escudo agora?</font>
 
 405
@@ -1877,7 +1877,7 @@ o escudo agora?</font>
 
 406
 00:29:35,823 --> 00:29:37,154
-<font color=#FFFF00>Por quÍ?</font>
+<font color=#FFFF00>Por qu√™?</font>
 
 407
 00:29:37,155 --> 00:29:39,490
@@ -1891,27 +1891,27 @@ Mostre-me!</font>
 409
 00:29:41,699 --> 00:29:43,740
 <font color=#FFFF00>Pode nos dizer
-o que est· procurando?</font>
+o que est√° procurando?</font>
 
 410
 00:29:43,741 --> 00:29:45,568
 <font color=#FFFF00>Quando um animal
-deixa seu territÛrio</font>
+deixa seu territ√≥rio</font>
 
 411
 00:29:45,569 --> 00:29:47,497
-<font color=#FFFF00>È porque est· sendo
-ameaÁado por algo.</font>
+<font color=#FFFF00>√© porque est√° sendo
+amea√ßado por algo.</font>
 
 412
 00:29:47,498 --> 00:29:50,422
 <font color=#FFFF00>- Projete sua rota.
-- Temos que ir atr·s dele.</font>
+- Temos que ir atr√°s dele.</font>
 
 413
 00:29:50,423 --> 00:29:52,797
-<font color=#FFFF00>Ele est· procurando algo
-l· fora.</font>
+<font color=#FFFF00>Ele est√° procurando algo
+l√° fora.</font>
 
 414
 00:29:53,371 --> 00:29:54,783
@@ -1920,7 +1920,7 @@ l· fora.</font>
 415
 00:29:57,706 --> 00:30:00,301
 <font color=#FFFF00>Dr. Stanton,
-qual sua projeÁ„o?</font>
+qual sua proje√ß√£o?</font>
 
 416
 00:30:00,302 --> 00:30:03,229
@@ -1929,18 +1929,18 @@ levam ao mesmo lugar.</font>
 
 417
 00:30:05,083 --> 00:30:07,391
-<font color=#FFFF00>- Ant·rtica.
-- Bom, ent„o.</font>
+<font color=#FFFF00>- Ant√°rtica.
+- Bom, ent√£o.</font>
 
 418
 00:30:08,099 --> 00:30:10,464
 <font color=#FFFF00>Quero dizer, vamos.
-Vamos atr·s dele.</font>
+Vamos atr√°s dele.</font>
 
 419
 00:30:11,908 --> 00:30:15,025
 <font color=#FFFF00>Espera,
-o que tem na Ant·rtica?</font>
+o que tem na Ant√°rtica?</font>
 
 420
 00:30:15,026 --> 00:30:17,932
@@ -1953,23 +1953,23 @@ Contate o Argo.</font>
 
 422
 00:30:22,705 --> 00:30:25,878
-<font color=#FFFF00>ANT¡RTICA
-POSTO AVAN«ADO 32</font>
+<font color=#FFFF00>ANT√ÅRTICA
+POSTO AVAN√áADO 32</font>
 
 423
 00:30:28,848 --> 00:30:30,659
 <font color=#FFFF00>USS ARGO
-AVI√O DE COMANDO MONARCA</font>
+AVI√ÉO DE COMANDO MONARCA</font>
 
 424
 00:30:30,660 --> 00:30:34,597
-<font color=#FFFF00>O espÈcime nessa regi„o
-est· fora do radar.</font>
+<font color=#FFFF00>O esp√©cime nessa regi√£o
+est√° fora do radar.</font>
 
 425
 00:30:34,598 --> 00:30:38,473
-<font color=#FFFF00>Como È uma descoberta recente,
-nossos dados s„o limitados.</font>
+<font color=#FFFF00>Como √© uma descoberta recente,
+nossos dados s√£o limitados.</font>
 
 426
 00:30:39,136 --> 00:30:41,775
@@ -1989,7 +1989,7 @@ um rival alfa do Godzilla</font>
 429
 00:30:46,877 --> 00:30:49,622
 <font color=#FFFF00>em uma disputa para dominar
-os outros Tit„s.</font>
+os outros Tit√£s.</font>
 
 430
 00:30:49,623 --> 00:30:50,968
@@ -1997,7 +1997,7 @@ os outros Tit„s.</font>
 
 431
 00:30:50,969 --> 00:30:55,155
-<font color=#FFFF00>Pesquisei os milÍnios
+<font color=#FFFF00>Pesquisei os mil√™nios
 de mitos e lendas.</font>
 
 432
@@ -2013,12 +2013,12 @@ ser esquecido.</font>
 434
 00:31:01,460 --> 00:31:04,029
 <font color=#FFFF00>Odeio arruinar a festa,
-mas tenho m·s notÌcias.</font>
+mas tenho m√°s not√≠cias.</font>
 
 435
 00:31:04,030 --> 00:31:05,989
-<font color=#FFFF00>Diga sÛ "notÌcias",
-s„o sempre ruins.</font>
+<font color=#FFFF00>Diga s√≥ "not√≠cias",
+s√£o sempre ruins.</font>
 
 436
 00:31:05,990 --> 00:31:07,427
@@ -2036,16 +2036,16 @@ perto da Venezuela.</font>
 
 439
 00:31:11,850 --> 00:31:13,841
-<font color=#FFFF00>A Terra È oca.
+<font color=#FFFF00>A Terra √© oca.
 Por isso,</font>
 
 440
 00:31:13,842 --> 00:31:15,638
-<font color=#FFFF00>ele se move r·pido.</font>
+<font color=#FFFF00>ele se move r√°pido.</font>
 
 441
 00:31:15,639 --> 00:31:18,520
-<font color=#FFFF00>Ele usa t˙neis subaqu·ticos
+<font color=#FFFF00>Ele usa t√∫neis subaqu√°ticos
 como buracos de minhoca.</font>
 
 442
@@ -2059,12 +2059,12 @@ como buracos de minhoca.</font>
 
 444
 00:31:33,614 --> 00:31:36,098
-<font color=#FFFF00>- Est„o aqui.
+<font color=#FFFF00>- Est√£o aqui.
 - Mantenha-os ocupados.</font>
 
 445
 00:31:36,473 --> 00:31:39,037
-<font color=#FFFF00>- Fundir forÁa de reaÁ„o.
+<font color=#FFFF00>- Fundir for√ßa de rea√ß√£o.
 - Mexam-se!</font>
 
 446
@@ -2075,12 +2075,12 @@ vamos nessa!</i></font>
 447
 00:32:01,827 --> 00:32:04,428
 <font color=#FFFF00>Se o Jonah quer colher
-material genÈtico</font>
+material gen√©tico</font>
 
 448
 00:32:04,429 --> 00:32:06,585
-<font color=#FFFF00>estar„o aqui,
-nos biolaboratÛrios.</font>
+<font color=#FFFF00>estar√£o aqui,
+nos biolaborat√≥rios.</font>
 
 449
 00:32:06,921 --> 00:32:08,314
@@ -2089,12 +2089,12 @@ nos biolaboratÛrios.</font>
 450
 00:32:08,315 --> 00:32:10,517
 <font color=#FFFF00>Chequem o equipamento.
-Fiquem perto da saÌda.</font>
+Fiquem perto da sa√≠da.</font>
 
 451
 00:32:28,983 --> 00:32:31,295
 <font color=#FFFF00>Vai, Ash,
-faÁa tudo estalar.</font>
+fa√ßa tudo estalar.</font>
 
 452
 00:32:32,858 --> 00:32:34,795
@@ -2116,7 +2116,7 @@ Tem aliados aqui.</font>
 
 456
 00:33:00,689 --> 00:33:02,424
-<font color=#FFFF00><i>Indo atÈ o t˙nel dois.</i></font>
+<font color=#FFFF00><i>Indo at√© o t√∫nel dois.</i></font>
 
 457
 00:33:02,425 --> 00:33:04,011
@@ -2147,11 +2147,11 @@ muitas baixas.</i></font>
 463
 00:33:37,073 --> 00:33:39,875
 <font color=#FFFF00><i>Cessar fogo!
-S„o aliados!</i></font>
+S√£o aliados!</i></font>
 
 464
 00:33:39,876 --> 00:33:41,183
-<font color=#FFFF00><i>N„o!</i></font>
+<font color=#FFFF00><i>N√£o!</i></font>
 
 465
 00:33:41,938 --> 00:33:43,281
@@ -2159,8 +2159,8 @@ S„o aliados!</i></font>
 
 466
 00:33:44,604 --> 00:33:46,760
-<font color=#FFFF00>DesÁa e ajude o Barnes.
-Vou atr·s deles.</font>
+<font color=#FFFF00>Des√ßa e ajude o Barnes.
+Vou atr√°s deles.</font>
 
 467
 00:33:46,761 --> 00:33:48,061
@@ -2184,7 +2184,7 @@ Vou atr·s deles.</font>
 
 472
 00:34:21,606 --> 00:34:23,436
-<font color=#FFFF00><i>Barnes, È a Foster.</i></font>
+<font color=#FFFF00><i>Barnes, √© a Foster.</i></font>
 
 473
 00:34:23,437 --> 00:34:26,927
@@ -2217,16 +2217,16 @@ Repito: alvo visualizado.</font>
 
 479
 00:34:46,579 --> 00:34:48,486
-<font color=#FFFF00>Maddie, venha atÈ mim!</font>
+<font color=#FFFF00>Maddie, venha at√© mim!</font>
 
 480
 00:34:48,487 --> 00:34:50,329
-<font color=#FFFF00>Ande atÈ aqui agora.</font>
+<font color=#FFFF00>Ande at√© aqui agora.</font>
 
 481
 00:34:50,330 --> 00:34:52,321
 <font color=#FFFF00>- Vem, amor.
-- Barnes, s„o dois refÈns</font>
+- Barnes, s√£o dois ref√©ns</font>
 
 482
 00:34:52,322 --> 00:34:54,477
@@ -2239,7 +2239,7 @@ Estou sem mira.</font>
 
 484
 00:34:56,434 --> 00:34:58,242
-<font color=#FFFF00>Emma, o que est· fazendo?
+<font color=#FFFF00>Emma, o que est√° fazendo?
 Vamos logo!</font>
 
 485
@@ -2287,7 +2287,7 @@ Vamos logo!</font>
 495
 00:36:28,615 --> 00:36:30,015
 <font color=#FFFF00><i>- Vamos!
-- Aguente aÌ!</i></font>
+- Aguente a√≠!</i></font>
 
 496
 00:36:30,361 --> 00:36:32,261
@@ -2315,12 +2315,12 @@ Vamos logo!</font>
 501
 00:37:01,969 --> 00:37:04,777
 <font color=#FFFF00><i>- Sem tempo para checar agora.
-- Verifique o espaÁo.</i></font>
+- Verifique o espa√ßo.</i></font>
 
 502
 00:37:05,176 --> 00:37:07,562
-<font color=#FFFF00>- Por que o papai est· aqui?
-- N„o sei, amor.</font>
+<font color=#FFFF00>- Por que o papai est√° aqui?
+- N√£o sei, amor.</font>
 
 503
 00:37:07,563 --> 00:37:08,863
@@ -2328,11 +2328,11 @@ Vamos logo!</font>
 
 504
 00:37:11,907 --> 00:37:13,525
-<font color=#FFFF00>N„o podemos deix·-lo.</font>
+<font color=#FFFF00>N√£o podemos deix√°-lo.</font>
 
 505
 00:37:13,526 --> 00:37:16,093
-<font color=#FFFF00>O que est· esperando?
+<font color=#FFFF00>O que est√° esperando?
 Acorde-o.</font>
 
 506
@@ -2341,7 +2341,7 @@ Acorde-o.</font>
 
 507
 00:38:57,513 --> 00:38:59,561
-<font color=#FFFF00>VocÍ t· me zoando.</font>
+<font color=#FFFF00>Voc√™ t√° me zoando.</font>
 
 508
 00:39:12,367 --> 00:39:13,845
@@ -2349,7 +2349,7 @@ Acorde-o.</font>
 
 509
 00:39:13,846 --> 00:39:15,554
-<font color=#FFFF00>Para o helicÛptero!</font>
+<font color=#FFFF00>Para o helic√≥ptero!</font>
 
 510
 00:39:21,673 --> 00:39:23,106
@@ -2366,12 +2366,12 @@ Acorde-o.</font>
 513
 00:39:39,318 --> 00:39:42,328
 <font color=#FFFF00>- Vamos logo!
-- Ser· uma subida de emergÍncia</font>
+- Ser√° uma subida de emerg√™ncia</font>
 
 514
 00:39:42,329 --> 00:39:45,310
-<font color=#FFFF00>com rotaÁıes m·ximas.
-O n˙mero dois ligou.</font>
+<font color=#FFFF00>com rota√ß√µes m√°ximas.
+O n√∫mero dois ligou.</font>
 
 515
 00:39:58,819 --> 00:40:00,371
@@ -2379,17 +2379,17 @@ O n˙mero dois ligou.</font>
 
 516
 00:40:23,871 --> 00:40:25,629
-<font color=#FFFF00>Aqui È o Raptor Um
+<font color=#FFFF00>Aqui √© o Raptor Um
 para Argos!</font>
 
 517
 00:40:25,630 --> 00:40:27,596
-<font color=#FFFF00>Pedindo extraÁ„o urgente
+<font color=#FFFF00>Pedindo extra√ß√£o urgente
 imediata!</font>
 
 518
 00:40:27,597 --> 00:40:31,129
-<font color=#FFFF00>- Repito, extraÁ„o urgente!
+<font color=#FFFF00>- Repito, extra√ß√£o urgente!
 - Griffin, tira a gente daqui!</font>
 
 519
@@ -2398,11 +2398,11 @@ imediata!</font>
 
 520
 00:40:35,576 --> 00:40:37,269
-<font color=#FFFF00>Madison, n„o!</font>
+<font color=#FFFF00>Madison, n√£o!</font>
 
 521
 00:40:45,235 --> 00:40:47,292
-<font color=#FFFF00>- O que est· fazendo?
+<font color=#FFFF00>- O que est√° fazendo?
 - Deixa ele!</font>
 
 522
@@ -2412,12 +2412,12 @@ imediata!</font>
 
 523
 00:41:22,485 --> 00:41:24,705
-<font color=#FFFF00>Argo, aqui È o Raptor Um.
+<font color=#FFFF00>Argo, aqui √© o Raptor Um.
 Fomos atingidos!</font>
 
 524
 00:41:24,706 --> 00:41:26,301
-<font color=#FFFF00>Os sistemas j· eram.</font>
+<font color=#FFFF00>Os sistemas j√° eram.</font>
 
 525
 00:41:28,820 --> 00:41:30,135
@@ -2447,12 +2447,12 @@ Vamos!</font>
 
 531
 00:43:41,222 --> 00:43:44,081
-<font color=#FFFF00>- VocÍ est· bem?
+<font color=#FFFF00>- Voc√™ est√° bem?
 - Eu consigo. Vamos!</font>
 
 532
 00:45:34,521 --> 00:45:35,936
-<font color=#FFFF00>Tem algo nos satÈlites?</font>
+<font color=#FFFF00>Tem algo nos sat√©lites?</font>
 
 533
 00:45:35,937 --> 00:45:38,459
@@ -2467,12 +2467,12 @@ em uma tempestade no Brasil.</font>
 535
 00:45:42,147 --> 00:45:44,286
 <font color=#FFFF00>Estamos checando
-o hemisfÈrio Sul todo.</font>
+o hemisf√©rio Sul todo.</font>
 
 536
 00:45:44,287 --> 00:45:46,323
-<font color=#FFFF00>- AtÈ agora, nada.
-- Ent„o, veja o Norte.</font>
+<font color=#FFFF00>- At√© agora, nada.
+- Ent√£o, veja o Norte.</font>
 
 537
 00:45:46,324 --> 00:45:48,633
@@ -2491,7 +2491,7 @@ Viu errado.</font>
 
 540
 00:45:53,511 --> 00:45:54,924
-<font color=#FFFF00>Ela n„o faria isso, certo?</font>
+<font color=#FFFF00>Ela n√£o faria isso, certo?</font>
 
 541
 00:45:54,925 --> 00:45:56,820
@@ -2500,7 +2500,7 @@ todo mundo aqui.</font>
 
 542
 00:45:56,821 --> 00:45:58,542
-<font color=#FFFF00>Talvez o Jonah a forÁou.</font>
+<font color=#FFFF00>Talvez o Jonah a for√ßou.</font>
 
 543
 00:45:58,543 --> 00:46:01,667
@@ -2509,7 +2509,7 @@ a Madison como chantagem.</font>
 
 544
 00:46:01,668 --> 00:46:03,361
-<font color=#FFFF00>N„o, deve ter sido
+<font color=#FFFF00>N√£o, deve ter sido
 outra pessoa.</font>
 
 545
@@ -2526,7 +2526,7 @@ outra pessoa.</font>
 
 548
 00:46:11,671 --> 00:46:13,533
-<font color=#FFFF00>Foi ela, ninguÈm a forÁou.</font>
+<font color=#FFFF00>Foi ela, ningu√©m a for√ßou.</font>
 
 549
 00:46:13,534 --> 00:46:14,972
@@ -2542,8 +2542,8 @@ outra pessoa.</font>
 
 552
 00:46:20,684 --> 00:46:24,700
-<font color=#FFFF00>- Mais alguÈm vÍ o padr„o?
-- Sim, mas n„o È bom.</font>
+<font color=#FFFF00>- Mais algu√©m v√™ o padr√£o?
+- Sim, mas n√£o √© bom.</font>
 
 553
 00:46:24,701 --> 00:46:27,559
@@ -2552,7 +2552,7 @@ um despertar em massa.</font>
 
 554
 00:46:27,560 --> 00:46:29,897
-<font color=#FFFF00>… uma pena que ninguÈm
+<font color=#FFFF00>√â uma pena que ningu√©m
 tentou te avisar</font>
 
 555
@@ -2566,7 +2566,7 @@ Por que diabos</font>
 
 557
 00:46:33,149 --> 00:46:34,798
-<font color=#FFFF00>ela ia querer libert·-los?</font>
+<font color=#FFFF00>ela ia querer libert√°-los?</font>
 
 558
 00:46:34,799 --> 00:46:38,509
@@ -2583,7 +2583,7 @@ para fazer isso?</font>
 
 561
 00:46:42,660 --> 00:46:44,335
-<font color=#FFFF00>Ent„o...</font>
+<font color=#FFFF00>Ent√£o...</font>
 
 562
 00:46:44,336 --> 00:46:45,977
@@ -2602,45 +2602,45 @@ da Osprey da Emma,</font>
 565
 00:47:03,921 --> 00:47:06,474
 <font color=#FFFF00>indo do Norte
-da AmÈrica do Sul atÈ aqui.</font>
+da Am√©rica do Sul at√© aqui.</font>
 
 566
 00:47:06,475 --> 00:47:09,437
-<font color=#FFFF00>O Posto AvanÁado 56
-na Ilha de Mara, MÈxico.</font>
+<font color=#FFFF00>O Posto Avan√ßado 56
+na Ilha de Mara, M√©xico.</font>
 
 567
 00:47:09,438 --> 00:47:11,643
-<font color=#FFFF00>Aterrissaremos l·
+<font color=#FFFF00>Aterrissaremos l√°
 em dez minutos.</font>
 
 568
 00:47:11,644 --> 00:47:13,413
-<font color=#FFFF00>E a populaÁ„o?</font>
+<font color=#FFFF00>E a popula√ß√£o?</font>
 
 569
 00:47:13,414 --> 00:47:14,978
-<font color=#FFFF00>O quÍ?</font>
+<font color=#FFFF00>O qu√™?</font>
 
 570
 00:47:14,979 --> 00:47:17,178
-<font color=#FFFF00>A populaÁ„o.
+<font color=#FFFF00>A popula√ß√£o.
 As pessoas do povoado</font>
 
 571
 00:47:17,179 --> 00:47:19,517
-<font color=#FFFF00>que n„o sabem que ser„o
-a refeiÁ„o do dia.</font>
+<font color=#FFFF00>que n√£o sabem que ser√£o
+a refei√ß√£o do dia.</font>
 
 572
 00:47:19,518 --> 00:47:22,020
 <font color=#FFFF00>Mandamos uma equipe
-para iniciar a evacuaÁ„o.</font>
+para iniciar a evacua√ß√£o.</font>
 
 573
 00:47:22,021 --> 00:47:24,729
 <font color=#FFFF00>Dr. Serizawa, temos uma chamada
-na linha de emergÍncia</font>
+na linha de emerg√™ncia</font>
 
 574
 00:47:24,730 --> 00:47:27,065
@@ -2650,16 +2650,16 @@ na linha de emergÍncia</font>
 575
 00:47:36,173 --> 00:47:38,953
 <font color=#FFFF00><i>- Acho que devo falar primeiro.</i>
-- Onde est· a Madison?</font>
+- Onde est√° a Madison?</font>
 
 576
 00:47:38,954 --> 00:47:41,553
-<font color=#FFFF00><i>- Est· aqui comigo.
-- Pai, vocÍ est· bem?</i></font>
+<font color=#FFFF00><i>- Est√° aqui comigo.
+- Pai, voc√™ est√° bem?</i></font>
 
 577
 00:47:41,888 --> 00:47:44,552
-<font color=#FFFF00>- Madison, est· bem, querida?
+<font color=#FFFF00>- Madison, est√° bem, querida?
 <i>- Pai...</i></font>
 
 578
@@ -2668,8 +2668,8 @@ na linha de emergÍncia</font>
 
 579
 00:47:48,257 --> 00:47:50,725
-<font color=#FFFF00>- N„o precisa se desculpar.
-<i>- Est· tudo bem.</i></font>
+<font color=#FFFF00>- N√£o precisa se desculpar.
+<i>- Est√° tudo bem.</i></font>
 
 580
 00:47:50,726 --> 00:47:52,055
@@ -2677,12 +2677,12 @@ na linha de emergÍncia</font>
 
 581
 00:47:52,056 --> 00:47:53,766
-<font color=#FFFF00>Ela est· bem, Mark.
+<font color=#FFFF00>Ela est√° bem, Mark.
 Confie em mim.</font>
 
 582
 00:47:53,767 --> 00:47:56,446
-<font color=#FFFF00><i>DifÌcil confiar em vocÍ,
+<font color=#FFFF00><i>Dif√≠cil confiar em voc√™,
 Dra. Russell.</i></font>
 
 583
@@ -2697,7 +2697,7 @@ depois do que fez.</font>
 585
 00:47:59,588 --> 00:48:03,329
 <font color=#FFFF00>E apenas posso imaginar
-o que est„o pensando.</font>
+o que est√£o pensando.</font>
 
 586
 00:48:03,736 --> 00:48:06,289
@@ -2710,7 +2710,7 @@ outra forma de fazer isso...</i></font>
 
 588
 00:48:07,836 --> 00:48:09,412
-<font color=#FFFF00>Fazer o quÍ, Emma?</font>
+<font color=#FFFF00>Fazer o qu√™, Emma?</font>
 
 589
 00:48:10,434 --> 00:48:12,178
@@ -2719,7 +2719,7 @@ outra forma de fazer isso...</i></font>
 590
 00:48:12,179 --> 00:48:14,488
 <font color=#FFFF00>Libertando aquelas coisas?
-N„o faz sentido.</font>
+N√£o faz sentido.</font>
 
 591
 00:48:14,489 --> 00:48:17,338
@@ -2738,26 +2738,26 @@ o Andrew,</i></font>
 594
 00:48:21,874 --> 00:48:24,912
 <font color=#FFFF00><i>prometi que a morte dele
-n„o seria em v„o.</i></font>
+n√£o seria em v√£o.</i></font>
 
 595
 00:48:24,913 --> 00:48:26,948
 <font color=#FFFF00><i>Que eu encontraria
-uma explicaÁ„o.</i></font>
+uma explica√ß√£o.</i></font>
 
 596
 00:48:26,949 --> 00:48:29,619
-<font color=#FFFF00><i>Uma explicaÁ„o do porquÍ
-os Tit„s estarem surgindo.</i></font>
+<font color=#FFFF00><i>Uma explica√ß√£o do porqu√™
+os Tit√£s estarem surgindo.</i></font>
 
 597
 00:48:29,620 --> 00:48:32,636
-<font color=#FFFF00><i>Mas apÛs muita pesquisa,
+<font color=#FFFF00><i>Mas ap√≥s muita pesquisa,
 percebi que...</i></font>
 
 598
 00:48:32,637 --> 00:48:34,904
-<font color=#FFFF00><i>Eles vieram por uma raz„o.</i></font>
+<font color=#FFFF00><i>Eles vieram por uma raz√£o.</i></font>
 
 599
 00:48:34,905 --> 00:48:38,928
@@ -2775,8 +2775,8 @@ encarar a verdade.</i></font>
 
 602
 00:48:44,217 --> 00:48:46,208
-<font color=#FFFF00>Os humanos tÍm sido
-a espÈcie dominante</font>
+<font color=#FFFF00>Os humanos t√™m sido
+a esp√©cie dominante</font>
 
 603
 00:48:46,209 --> 00:48:49,160
@@ -2785,11 +2785,11 @@ e veja o que aconteceu.</font>
 
 604
 00:48:49,161 --> 00:48:50,982
-<font color=#FFFF00>SuperpopulaÁ„o.</font>
+<font color=#FFFF00>Superpopula√ß√£o.</font>
 
 605
 00:48:51,451 --> 00:48:52,987
-<font color=#FFFF00><i>PoluiÁ„o.</i></font>
+<font color=#FFFF00><i>Polui√ß√£o.</i></font>
 
 606
 00:48:53,403 --> 00:48:54,742
@@ -2797,8 +2797,8 @@ e veja o que aconteceu.</font>
 
 607
 00:48:54,743 --> 00:48:58,921
-<font color=#FFFF00><i>A extinÁ„o em massa
-que temÌamos j· comeÁou.</i></font>
+<font color=#FFFF00><i>A extin√ß√£o em massa
+que tem√≠amos j√° come√ßou.</i></font>
 
 608
 00:48:59,233 --> 00:49:01,346
@@ -2806,7 +2806,7 @@ que temÌamos j· comeÁou.</i></font>
 
 609
 00:49:02,303 --> 00:49:05,257
-<font color=#FFFF00><i>Somos a infecÁ„o.</i></font>
+<font color=#FFFF00><i>Somos a infec√ß√£o.</i></font>
 
 610
 00:49:05,258 --> 00:49:07,281
@@ -2816,16 +2816,16 @@ como todo organismo vivo,</i></font>
 611
 00:49:07,282 --> 00:49:10,876
 <font color=#FFFF00><i>a Terra gerou uma febre
-para combater essa infecÁ„o.</i></font>
+para combater essa infec√ß√£o.</i></font>
 
 612
 00:49:10,877 --> 00:49:14,219
 <font color=#FFFF00><i>Seus governantes
-originais e legÌtimos.</i></font>
+originais e leg√≠timos.</i></font>
 
 613
 00:49:14,731 --> 00:49:16,335
-<font color=#FFFF00><i>Os Tit„s.</i></font>
+<font color=#FFFF00><i>Os Tit√£s.</i></font>
 
 614
 00:49:16,336 --> 00:49:19,698
@@ -2839,22 +2839,22 @@ de proteger o planeta.</i></font>
 
 616
 00:49:21,740 --> 00:49:23,684
-<font color=#FFFF00><i>De manter seu equilÌbrio.</i></font>
+<font color=#FFFF00><i>De manter seu equil√≠brio.</i></font>
 
 617
 00:49:23,685 --> 00:49:26,894
 <font color=#FFFF00><i>Mas se os governos
-podem aprision·-los,</i></font>
+podem aprision√°-los,</i></font>
 
 618
 00:49:26,895 --> 00:49:29,897
-<font color=#FFFF00><i>ou destruÌ-los,
-ou us·-los para guerra,</i></font>
+<font color=#FFFF00><i>ou destru√≠-los,
+ou us√°-los para guerra,</i></font>
 
 619
 00:49:29,898 --> 00:49:32,868
-<font color=#FFFF00><i>a infecÁ„o humana
-sÛ continuar· a se espalhar.</i></font>
+<font color=#FFFF00><i>a infec√ß√£o humana
+s√≥ continuar√° a se espalhar.</i></font>
 
 620
 00:49:32,869 --> 00:49:35,235
@@ -2863,20 +2863,20 @@ tempo de vida...</i></font>
 
 621
 00:49:35,737 --> 00:49:38,003
-<font color=#FFFF00><i>Nosso planeta perecer·.</i></font>
+<font color=#FFFF00><i>Nosso planeta perecer√°.</i></font>
 
 622
 00:49:39,172 --> 00:49:40,977
-<font color=#FFFF00><i>Assim como nÛs.</i></font>
+<font color=#FFFF00><i>Assim como n√≥s.</i></font>
 
 623
 00:49:40,978 --> 00:49:44,034
 <font color=#FFFF00>A menos que restauremos
-o equilÌbrio.</font>
+o equil√≠brio.</font>
 
 624
 00:49:44,035 --> 00:49:46,211
-<font color=#FFFF00><i>E o que restar·,
+<font color=#FFFF00><i>E o que restar√°,
 se fizer isso?</i></font>
 
 625
@@ -2886,46 +2886,46 @@ dominado por monstros?</i></font>
 
 626
 00:49:49,642 --> 00:49:52,759
-<font color=#FFFF00><i>N„o, Dr. Stanton,
-o exato contr·rio.</i></font>
+<font color=#FFFF00><i>N√£o, Dr. Stanton,
+o exato contr√°rio.</i></font>
 
 627
 00:49:52,760 --> 00:49:55,795
-<font color=#FFFF00><i>Assim como um incÍndio florestal
+<font color=#FFFF00><i>Assim como um inc√™ndio florestal
 reabastece o solo</i></font>
 
 628
 00:49:55,796 --> 00:49:58,578
-<font color=#FFFF00><i>ou como um vulc„o
+<font color=#FFFF00><i>ou como um vulc√£o
 gera novos solos,</i></font>
 
 629
 00:49:58,579 --> 00:50:01,601
-<font color=#FFFF00><i>temos indÌcios de que
-essas criaturas far„o o mesmo.</i></font>
+<font color=#FFFF00><i>temos ind√≠cios de que
+essas criaturas far√£o o mesmo.</i></font>
 
 630
 00:50:01,602 --> 00:50:05,293
-<font color=#FFFF00><i>S„o Francisco, Las Vegas.
-Onde quer que os Tit„s apareÁam,</i></font>
+<font color=#FFFF00><i>S√£o Francisco, Las Vegas.
+Onde quer que os Tit√£s apare√ßam,</i></font>
 
 631
 00:50:05,294 --> 00:50:08,529
 <font color=#FFFF00><i>a vida continua,
-movida pela radiaÁ„o.</i></font>
+movida pela radia√ß√£o.</i></font>
 
 632
 00:50:08,530 --> 00:50:10,153
-<font color=#FFFF00><i>Eles s„o a ˙nica coisa</i></font>
+<font color=#FFFF00><i>Eles s√£o a √∫nica coisa</i></font>
 
 633
 00:50:10,154 --> 00:50:12,544
 <font color=#FFFF00><i>que pode reverter
-a destruiÁ„o que causamos.</i></font>
+a destrui√ß√£o que causamos.</i></font>
 
 634
 00:50:12,545 --> 00:50:16,707
-<font color=#FFFF00><i>S„o a ˙nica garantia
+<font color=#FFFF00><i>S√£o a √∫nica garantia
 da continuidade da vida.</i></font>
 
 635
@@ -2934,18 +2934,18 @@ da continuidade da vida.</i></font>
 
 636
 00:50:18,668 --> 00:50:21,535
-<font color=#FFFF00><i>- Precisamos libert·-los.</i>
-- Est· assassinando o mundo.</font>
+<font color=#FFFF00><i>- Precisamos libert√°-los.</i>
+- Est√° assassinando o mundo.</font>
 
 637
 00:50:21,536 --> 00:50:25,239
-<font color=#FFFF00><i>N„o, por mais
-difÌcil que isso seja,</i></font>
+<font color=#FFFF00><i>N√£o, por mais
+dif√≠cil que isso seja,</i></font>
 
 638
 00:50:25,240 --> 00:50:28,256
 <font color=#FFFF00><i>prometo, a humanidade
-n„o ser· extinta.</i></font>
+n√£o ser√° extinta.</i></font>
 
 639
 00:50:28,257 --> 00:50:32,067
@@ -2959,7 +2959,7 @@ na qual coexistimos</i></font>
 
 641
 00:50:34,278 --> 00:50:36,833
-<font color=#FFFF00><i>em harmonia com os Tit„s.</i></font>
+<font color=#FFFF00><i>em harmonia com os Tit√£s.</i></font>
 
 642
 00:50:37,306 --> 00:50:38,781
@@ -2967,26 +2967,26 @@ na qual coexistimos</i></font>
 
 643
 00:50:38,782 --> 00:50:40,963
-<font color=#FFFF00>Este È um caminho perigoso.</font>
+<font color=#FFFF00>Este √© um caminho perigoso.</font>
 
 644
 00:50:41,575 --> 00:50:44,882
-<font color=#FFFF00>Est· mexendo com forÁas
-alÈm da nossa compreens„o.</font>
+<font color=#FFFF00>Est√° mexendo com for√ßas
+al√©m da nossa compreens√£o.</font>
 
 645
 00:50:44,883 --> 00:50:46,768
 <font color=#FFFF00>Arriscando a vida
-de bilhıes.</font>
+de bilh√µes.</font>
 
 646
 00:50:46,769 --> 00:50:48,922
-<font color=#FFFF00><i>E o que vocÍ
-est· arriscando, Serizawa?</i></font>
+<font color=#FFFF00><i>E o que voc√™
+est√° arriscando, Serizawa?</i></font>
 
 647
 00:50:48,923 --> 00:50:50,369
-<font color=#FFFF00><i>A Monarca est· falindo.</i></font>
+<font color=#FFFF00><i>A Monarca est√° falindo.</i></font>
 
 648
 00:50:50,370 --> 00:50:52,810
@@ -2995,35 +2995,35 @@ pelos governantes,</i></font>
 
 649
 00:50:52,811 --> 00:50:55,475
-<font color=#FFFF00><i>que sÛ pensam em erradicar
+<font color=#FFFF00><i>que s√≥ pensam em erradicar
 essas criaturas.</i></font>
 
 650
 00:50:55,476 --> 00:50:58,229
-<font color=#FFFF00><i>E caso isso aconteÁa,
-quais ser„o as nossas chances?</i></font>
+<font color=#FFFF00><i>E caso isso aconte√ßa,
+quais ser√£o as nossas chances?</i></font>
 
 651
 00:50:58,230 --> 00:51:00,343
-<font color=#FFFF00>VocÍ est· maluca!</font>
+<font color=#FFFF00>Voc√™ est√° maluca!</font>
 
 652
 00:51:00,344 --> 00:51:02,150
-<font color=#FFFF00><i>Primeiro, pÙs nossa filha
+<font color=#FFFF00><i>Primeiro, p√¥s nossa filha
 em perigo.</i></font>
 
 653
 00:51:02,151 --> 00:51:04,166
 <font color=#FFFF00><i>Agora, decide o destino
-do mundo. ”timo.</i></font>
+do mundo. √ìtimo.</i></font>
 
 654
 00:51:04,167 --> 00:51:06,278
-<font color=#FFFF00><i>N„o poderia estar mais s„.</i></font>
+<font color=#FFFF00><i>N√£o poderia estar mais s√£.</i></font>
 
 655
 00:51:06,279 --> 00:51:08,497
-<font color=#FFFF00><i>E Madison n„o poderia
+<font color=#FFFF00><i>E Madison n√£o poderia
 estar mais forte.</i></font>
 
 656
@@ -3034,46 +3034,46 @@ a treinei para sobreviver.</i></font>
 657
 00:51:11,683 --> 00:51:14,166
 <font color=#FFFF00><i>Pelo menos, agora,
-ela ter· uma chance de lutar.</i></font>
+ela ter√° uma chance de lutar.</i></font>
 
 658
 00:51:14,167 --> 00:51:16,903
 <font color=#FFFF00>Chance de lutar?
-N„o pensa no que est· falando?</font>
+N√£o pensa no que est√° falando?</font>
 
 659
 00:51:16,904 --> 00:51:18,768
-<font color=#FFFF00><i>Nem tudo È matem·tica,
+<font color=#FFFF00><i>Nem tudo √© matem√°tica,
 Emma.</i></font>
 
 660
 00:51:18,769 --> 00:51:20,289
-<font color=#FFFF00><i>H· coisas incontrol·veis.</i></font>
+<font color=#FFFF00><i>H√° coisas incontrol√°veis.</i></font>
 
 661
 00:51:20,290 --> 00:51:23,111
-<font color=#FFFF00><i>E h· coisas das quais
-n„o podemos fugir.</i></font>
+<font color=#FFFF00><i>E h√° coisas das quais
+n√£o podemos fugir.</i></font>
 
 662
 00:51:24,694 --> 00:51:26,950
-<font color=#FFFF00>Isso n„o o trar·
-de volta para nÛs.</font>
+<font color=#FFFF00>Isso n√£o o trar√°
+de volta para n√≥s.</font>
 
 663
 00:51:41,483 --> 00:51:44,139
 <font color=#FFFF00><i>Vou apenas insistir
-que busquem ref˙gio.</i></font>
+que busquem ref√∫gio.</i></font>
 
 664
 00:51:45,420 --> 00:51:48,914
-<font color=#FFFF00><i>Nos ˙ltimos 60 anos,
+<font color=#FFFF00><i>Nos √∫ltimos 60 anos,
 a Monarca tem feito abrigos</i></font>
 
 665
 00:51:48,915 --> 00:51:51,880
 <font color=#FFFF00><i>pelo mundo todo para salvar
-e restaurar a civilizaÁ„o.</i></font>
+e restaurar a civiliza√ß√£o.</i></font>
 
 666
 00:51:52,255 --> 00:51:54,052
@@ -3086,36 +3086,36 @@ e restaurar a civilizaÁ„o.</i></font>
 668
 00:52:03,086 --> 00:52:05,345
 <font color=#FFFF00>Quanto tempo
-atÈ essa coisa pousar?</font>
+at√© essa coisa pousar?</font>
 
 669
 00:52:05,346 --> 00:52:06,744
-<font color=#FFFF00>TrÍs minutos.</font>
+<font color=#FFFF00>Tr√™s minutos.</font>
 
 670
 00:52:06,745 --> 00:52:09,427
 <font color=#FFFF00>- Talvez seja melhor rever isso.
-- Por quÍ?</font>
+- Por qu√™?</font>
 
 671
 00:52:09,428 --> 00:52:11,934
-<font color=#FFFF00>H· algo errado.
+<font color=#FFFF00>H√° algo errado.
 Olhe isso.</font>
 
 672
 00:52:11,935 --> 00:52:13,822
-<font color=#FFFF00>Emma n„o est·
+<font color=#FFFF00>Emma n√£o est√°
 na Ilha de Mara.</font>
 
 673
 00:52:13,823 --> 00:52:16,517
-<font color=#FFFF00>O sinal est· muito fraco
+<font color=#FFFF00>O sinal est√° muito fraco
 para ser daqui.</font>
 
 674
 00:52:16,518 --> 00:52:18,431
-<font color=#FFFF00>Ela est· usando
-os nossos satÈlites.</font>
+<font color=#FFFF00>Ela est√° usando
+os nossos sat√©lites.</font>
 
 675
 00:52:18,432 --> 00:52:20,822
@@ -3129,12 +3129,12 @@ em qualquer lugar.</font>
 
 677
 00:52:23,327 --> 00:52:24,664
-<font color=#FFFF00>O que È isso?</font>
+<font color=#FFFF00>O que √© isso?</font>
 
 678
 00:52:26,359 --> 00:52:29,024
 <font color=#FFFF00>Jesus! Ela desativou
-o sistema de contenÁ„o.</font>
+o sistema de conten√ß√£o.</font>
 
 679
 00:52:29,025 --> 00:52:30,929
@@ -3142,7 +3142,7 @@ o sistema de contenÁ„o.</font>
 
 680
 00:52:31,911 --> 00:52:34,493
-<font color=#FFFF00>Sistema de contenÁ„o contornado.
+<font color=#FFFF00>Sistema de conten√ß√£o contornado.
 Estamos conectados.</font>
 
 681
@@ -3156,8 +3156,8 @@ do Orca.</font>
 
 683
 00:52:53,304 --> 00:52:55,172
-<font color=#FFFF00>- M„e, n„o!
-- Perd„o!</font>
+<font color=#FFFF00>- M√£e, n√£o!
+- Perd√£o!</font>
 
 684
 00:52:55,173 --> 00:52:57,314
@@ -3167,7 +3167,7 @@ ordens?</font>
 685
 00:52:57,315 --> 00:52:59,286
 <font color=#FFFF00>O pai pode estar certo
-e h· outra forma.</font>
+e h√° outra forma.</font>
 
 686
 00:52:59,287 --> 00:53:02,991
@@ -3177,22 +3177,22 @@ vamos repensar o nosso plano.</font>
 687
 00:53:02,992 --> 00:53:04,907
 <font color=#FFFF00>Especialmente
-apÛs ter contado tudo.</font>
+ap√≥s ter contado tudo.</font>
 
 688
 00:53:04,908 --> 00:53:07,922
 <font color=#FFFF00>- Madison, falamos sobre isso.
-- N„o! Disse que ajudaria.</font>
+- N√£o! Disse que ajudaria.</font>
 
 689
 00:53:07,923 --> 00:53:11,443
 <font color=#FFFF00>- Que os deixaria...
-- N„o temos tempo para isso!</font>
+- N√£o temos tempo para isso!</font>
 
 690
 00:53:12,584 --> 00:53:15,090
 <font color=#FFFF00>Achou mesmo
-que isso seria f·cil, indolor?</font>
+que isso seria f√°cil, indolor?</font>
 
 691
 00:53:15,091 --> 00:53:16,867
@@ -3201,13 +3201,13 @@ que isso seria f·cil, indolor?</font>
 
 692
 00:53:16,868 --> 00:53:19,512
-<font color=#FFFF00>Por quÍ?
-VocÍ que a meteu nisso.</font>
+<font color=#FFFF00>Por qu√™?
+Voc√™ que a meteu nisso.</font>
 
 693
 00:53:19,513 --> 00:53:23,255
 <font color=#FFFF00>Madison, diga-me
-o que a mam„e te contou.</font>
+o que a mam√£e te contou.</font>
 
 694
 00:53:23,256 --> 00:53:24,970
@@ -3221,34 +3221,34 @@ em plena harmonia?</font>
 696
 00:53:28,076 --> 00:53:30,539
 <font color=#FFFF00>Senhor,
-eles est„o tentando nos trancar.</font>
+eles est√£o tentando nos trancar.</font>
 
 697
 00:53:30,540 --> 00:53:31,852
-<font color=#FFFF00>… agora ou nunca.</font>
+<font color=#FFFF00>√â agora ou nunca.</font>
 
 698
 00:53:31,853 --> 00:53:34,439
-<font color=#FFFF00>Emma, vocÍ veio atÈ mim.</font>
+<font color=#FFFF00>Emma, voc√™ veio at√© mim.</font>
 
 699
 00:53:35,103 --> 00:53:36,692
-<font color=#FFFF00>Este È o seu plano.</font>
+<font color=#FFFF00>Este √© o seu plano.</font>
 
 700
 00:53:36,693 --> 00:53:39,910
 <font color=#FFFF00>Ambos queremos salvar o planeta,
-mas tudo ir· morrer</font>
+mas tudo ir√° morrer</font>
 
 701
 00:53:39,911 --> 00:53:42,747
-<font color=#FFFF00>- se n„o formos atÈ o fim.
+<font color=#FFFF00>- se n√£o formos at√© o fim.
 - Por favor.</font>
 
 702
 00:53:43,774 --> 00:53:45,964
 <font color=#FFFF00>Ao menos,
-deixe-os ficar em seguranÁa.</font>
+deixe-os ficar em seguran√ßa.</font>
 
 703
 00:53:47,269 --> 00:53:48,870
@@ -3256,11 +3256,11 @@ deixe-os ficar em seguranÁa.</font>
 
 704
 00:53:48,871 --> 00:53:50,574
-<font color=#FFFF00>O tempo est· acabando.</font>
+<font color=#FFFF00>O tempo est√° acabando.</font>
 
 705
 00:53:52,028 --> 00:53:53,328
-<font color=#FFFF00>M„e.</font>
+<font color=#FFFF00>M√£e.</font>
 
 706
 00:53:56,700 --> 00:53:58,298
@@ -3268,13 +3268,13 @@ deixe-os ficar em seguranÁa.</font>
 
 707
 00:53:58,299 --> 00:54:00,253
-<font color=#FFFF00>Isso È maior
-do que vocÍ e eu.</font>
+<font color=#FFFF00>Isso √© maior
+do que voc√™ e eu.</font>
 
 708
 00:54:12,114 --> 00:54:16,733
-<font color=#FFFF00>ILHA DE MARA, M…XICO
-POSTO AVAN«ADO MONARCA 56</font>
+<font color=#FFFF00>ILHA DE MARA, M√âXICO
+POSTO AVAN√áADO MONARCA 56</font>
 
 709
 00:54:26,155 --> 00:54:29,259
@@ -3298,7 +3298,7 @@ chamam isso de <i>Rodan</i>,</font>
 
 713
 00:55:49,293 --> 00:55:52,259
-<font color=#FFFF00>- O DemÙnio do Fogo.
+<font color=#FFFF00>- O Dem√¥nio do Fogo.
 - Que reconfortante.</font>
 
 714
@@ -3313,40 +3313,40 @@ o Monstro Zero?</font>
 
 716
 00:55:57,449 --> 00:55:59,745
-<font color=#FFFF00>Est· mudando de direÁ„o e...</font>
+<font color=#FFFF00>Est√° mudando de dire√ß√£o e...</font>
 
 717
 00:55:59,746 --> 00:56:01,370
 <font color=#FFFF00>adivinhem aonde
-est· indo agora.</font>
+est√° indo agora.</font>
 
 718
 00:56:01,371 --> 00:56:03,247
-<font color=#FFFF00>Isso n„o È possÌvel.</font>
+<font color=#FFFF00>Isso n√£o √© poss√≠vel.</font>
 
 719
 00:56:03,248 --> 00:56:05,170
 <font color=#FFFF00>Nenhuma tempestade
-se move t„o r·pido.</font>
+se move t√£o r√°pido.</font>
 
 720
 00:56:05,171 --> 00:56:07,231
-<font color=#FFFF00>A menos que n„o seja
+<font color=#FFFF00>A menos que n√£o seja
 uma tempestade.</font>
 
 721
 00:56:09,555 --> 00:56:11,228
-<font color=#FFFF00>- Essa n„o.
+<font color=#FFFF00>- Essa n√£o.
 - Precisamos de tempo</font>
 
 722
 00:56:11,229 --> 00:56:12,643
-<font color=#FFFF00>para terminar a evacuaÁ„o.</font>
+<font color=#FFFF00>para terminar a evacua√ß√£o.</font>
 
 723
 00:56:12,644 --> 00:56:15,168
-<font color=#FFFF00>… melhor se apressar,
-est· se aproximando r·pido.</font>
+<font color=#FFFF00>√â melhor se apressar,
+est√° se aproximando r√°pido.</font>
 
 724
 00:56:15,169 --> 00:56:16,517
@@ -3354,32 +3354,32 @@ est· se aproximando r·pido.</font>
 
 725
 00:56:16,518 --> 00:56:19,325
-<font color=#FFFF00>n„o È coincidÍncia
-o Monstro Zero vir para c·.</font>
+<font color=#FFFF00>n√£o √© coincid√™ncia
+o Monstro Zero vir para c√°.</font>
 
 726
 00:56:19,326 --> 00:56:21,233
-<font color=#FFFF00>… reaÁ„o aos gritos
+<font color=#FFFF00>√â rea√ß√£o aos gritos
 do "Garibaldo".</font>
 
 727
 00:56:21,234 --> 00:56:23,548
-<font color=#FFFF00>Ent„o, vem pela comida,
+<font color=#FFFF00>Ent√£o, vem pela comida,
 pela briga ou...</font>
 
 728
 00:56:24,255 --> 00:56:27,174
-<font color=#FFFF00>- Algo mais Ìntimo.
-- O que vocÍ sugere?</font>
+<font color=#FFFF00>- Algo mais √≠ntimo.
+- O que voc√™ sugere?</font>
 
 729
 00:56:29,344 --> 00:56:32,080
-<font color=#FFFF00><i>Todos os caÁas,
-lanÁar carga.</i></font>
+<font color=#FFFF00><i>Todos os ca√ßas,
+lan√ßar carga.</i></font>
 
 730
 00:56:55,279 --> 00:56:56,865
-<font color=#FFFF00>Chamamos a atenÁ„o dele.</font>
+<font color=#FFFF00>Chamamos a aten√ß√£o dele.</font>
 
 731
 00:56:56,866 --> 00:56:58,351
@@ -3404,7 +3404,7 @@ sigam nosso comando.</font>
 
 736
 00:57:59,382 --> 00:58:01,032
-<font color=#FFFF00>Argo para Esquadr„o de Ouro.</font>
+<font color=#FFFF00>Argo para Esquadr√£o de Ouro.</font>
 
 737
 00:58:01,033 --> 00:58:03,285
@@ -3418,7 +3418,7 @@ Estimativa, dois minutos.</font>
 
 739
 00:58:05,887 --> 00:58:07,554
-<font color=#FFFF00>Esquadr„o de Ouro,
+<font color=#FFFF00>Esquadr√£o de Ouro,
 ajude-nos aqui.</font>
 
 740
@@ -3429,12 +3429,12 @@ Iniciando contagem.</i></font>
 741
 00:58:27,393 --> 00:58:29,364
 <font color=#FFFF00><i>Inimigo vindo com tudo
-‡ esquerda.</i></font>
+√† esquerda.</i></font>
 
 742
 00:58:36,502 --> 00:58:40,072
-<font color=#FFFF00>Raptor 223, saia daÌ.
-<i>Ele est· na sua cola, saia daÌ!</i></font>
+<font color=#FFFF00>Raptor 223, saia da√≠.
+<i>Ele est√° na sua cola, saia da√≠!</i></font>
 
 743
 00:58:48,283 --> 00:58:50,414
@@ -3457,7 +3457,7 @@ Estou perdendo...</font>
 
 747
 00:59:17,676 --> 00:59:19,053
-<font color=#FFFF00>Perdemos o Esquadr„o.</font>
+<font color=#FFFF00>Perdemos o Esquadr√£o.</font>
 
 748
 00:59:19,054 --> 00:59:21,890
@@ -3474,7 +3474,7 @@ Estou perdendo...</font>
 
 751
 01:00:28,644 --> 01:00:30,046
-<font color=#FFFF00>Nossa, est„o se matando!</font>
+<font color=#FFFF00>Nossa, est√£o se matando!</font>
 
 752
 01:00:30,047 --> 01:00:32,141
@@ -3493,7 +3493,7 @@ Raptor Um para Argo.</i></font>
 
 755
 01:00:36,374 --> 01:00:37,733
-<font color=#FFFF00><i>Temos crianÁas a bordo.</i></font>
+<font color=#FFFF00><i>Temos crian√ßas a bordo.</i></font>
 
 756
 01:00:37,734 --> 01:00:39,546
@@ -3503,17 +3503,17 @@ imediato.</font>
 757
 01:00:39,547 --> 01:00:42,566
 <font color=#FFFF00>Gruda neles e prepare o hangar
-para pouso de emergÍncia.</font>
+para pouso de emerg√™ncia.</font>
 
 758
 01:00:42,567 --> 01:00:44,304
 <font color=#FFFF00>As portas do hangar
-n„o respondem.</font>
+n√£o respondem.</font>
 
 759
 01:00:44,305 --> 01:00:46,389
 <font color=#FFFF00>- Controle manual?
-- Est„o travados!</font>
+- Est√£o travados!</font>
 
 760
 01:00:48,386 --> 01:00:49,692
@@ -3522,7 +3522,7 @@ n„o respondem.</font>
 761
 01:00:49,693 --> 01:00:51,990
 <font color=#FFFF00>- Posso te mostrar.
-- Mais alguÈm?</font>
+- Mais algu√©m?</font>
 
 762
 01:00:52,482 --> 01:00:54,896
@@ -3536,11 +3536,11 @@ uma alavanca grande.</font>
 
 764
 01:01:05,639 --> 01:01:07,051
-<font color=#FFFF00>Qual È o problema?</font>
+<font color=#FFFF00>Qual √© o problema?</font>
 
 765
 01:01:07,052 --> 01:01:08,960
-<font color=#FFFF00>Sistemas hidr·ulicos
+<font color=#FFFF00>Sistemas hidr√°ulicos
 travados.</font>
 
 766
@@ -3550,11 +3550,11 @@ a energia.</font>
 
 767
 01:01:10,774 --> 01:01:12,349
-<font color=#FFFF00>N„o est· dando certo.</font>
+<font color=#FFFF00>N√£o est√° dando certo.</font>
 
 768
 01:01:21,095 --> 01:01:22,885
-<font color=#FFFF00>… o almirante Stenz.</font>
+<font color=#FFFF00>√â o almirante Stenz.</font>
 
 769
 01:01:23,934 --> 01:01:26,464
@@ -3563,26 +3563,26 @@ a energia.</font>
 
 770
 01:01:26,465 --> 01:01:29,301
-<font color=#FFFF00><i>preciso que vocÍs e suas forÁas
+<font color=#FFFF00><i>preciso que voc√™s e suas for√ßas
 desacoplem imediatamente</i></font>
 
 771
 01:01:29,302 --> 01:01:31,002
 <font color=#FFFF00><i>e fiquem
-a uma dist‚ncia segura.</i></font>
+a uma dist√¢ncia segura.</i></font>
 
 772
 01:01:31,003 --> 01:01:32,594
-<font color=#FFFF00>Almirante, eu n„o entendo.</font>
+<font color=#FFFF00>Almirante, eu n√£o entendo.</font>
 
 773
 01:01:32,595 --> 01:01:36,161
-<font color=#FFFF00><i>Desenvolvemos um protÛtipo
+<font color=#FFFF00><i>Desenvolvemos um prot√≥tipo
 para uma nova arma.</i></font>
 
 774
 01:01:36,762 --> 01:01:38,562
-<font color=#FFFF00><i>Um destruidor de oxigÍnio.</i></font>
+<font color=#FFFF00><i>Um destruidor de oxig√™nio.</i></font>
 
 775
 01:01:38,563 --> 01:01:43,015
@@ -3592,40 +3592,40 @@ qualquer vida num raio de 3km.</i></font>
 776
 01:01:43,016 --> 01:01:44,815
 <font color=#FFFF00><i>Com sorte,
-isso matar· essas coisas</i></font>
+isso matar√° essas coisas</i></font>
 
 777
 01:01:44,816 --> 01:01:46,883
 <font color=#FFFF00><i>e esse pesadelo
-finalmente terminar·.</i></font>
+finalmente terminar√°.</i></font>
 
 778
 01:01:46,884 --> 01:01:49,404
 <font color=#FFFF00>Almirante, devemos manter
-nossa fÈ no <i>Gojira</i>.</font>
+nossa f√© no <i>Gojira</i>.</font>
 
 779
 01:01:49,405 --> 01:01:51,540
 <font color=#FFFF00><i>Desculpe, doutor,
-vocÍ teve sua chance.</i></font>
+voc√™ teve sua chance.</i></font>
 
 780
 01:01:51,541 --> 01:01:53,892
-<font color=#FFFF00><i>O mÌssil j· est· a caminho.</i></font>
+<font color=#FFFF00><i>O m√≠ssil j√° est√° a caminho.</i></font>
 
 781
 01:01:53,893 --> 01:01:55,909
-<font color=#FFFF00><i>Que Deus tenha misericÛrdia
-de todos nÛs.</i></font>
+<font color=#FFFF00><i>Que Deus tenha miseric√≥rdia
+de todos n√≥s.</i></font>
 
 782
 01:01:59,659 --> 01:02:02,081
-<font color=#FFFF00>Ele n„o est· mentindo.
-Est· vindo com tudo.</font>
+<font color=#FFFF00>Ele n√£o est√° mentindo.
+Est√° vindo com tudo.</font>
 
 783
 01:02:03,092 --> 01:02:05,403
-<font color=#FFFF00><i>Argo, faÁa essa ·guia
+<font color=#FFFF00><i>Argo, fa√ßa essa √°guia
 voar direito, agora!</i></font>
 
 784
@@ -3635,7 +3635,7 @@ se prepararem!</font>
 
 785
 01:02:13,167 --> 01:02:15,271
-<font color=#FFFF00>Que diabos est· fazendo?</font>
+<font color=#FFFF00>Que diabos est√° fazendo?</font>
 
 786
 01:02:18,489 --> 01:02:19,789
@@ -3655,16 +3655,16 @@ se prepararem!</font>
 
 790
 01:02:49,875 --> 01:02:51,649
-<font color=#FFFF00>… disso que estou falando,
+<font color=#FFFF00>√â disso que estou falando,
 Griff!</font>
 
 791
 01:02:51,650 --> 01:02:53,391
-<font color=#FFFF00>Est· todo mundo bem?</font>
+<font color=#FFFF00>Est√° todo mundo bem?</font>
 
 792
 01:02:55,167 --> 01:02:56,626
-<font color=#FFFF00>V„o l· para o fundo.</font>
+<font color=#FFFF00>V√£o l√° para o fundo.</font>
 
 793
 01:02:56,627 --> 01:02:58,235
@@ -3685,12 +3685,12 @@ Griff!</font>
 797
 01:03:32,375 --> 01:03:35,030
 <font color=#FFFF00>Vamos sair daqui.
-Os militares lanÁaram uma arma.</font>
+Os militares lan√ßaram uma arma.</font>
 
 798
 01:03:35,031 --> 01:03:38,213
-<font color=#FFFF00>- Isso vai mat·-los.
-- N„o È a pior ideia.</font>
+<font color=#FFFF00>- Isso vai mat√°-los.
+- N√£o √© a pior ideia.</font>
 
 799
 01:03:46,027 --> 01:03:47,327
@@ -3710,7 +3710,7 @@ Os militares lanÁaram uma arma.</font>
 
 803
 01:04:03,902 --> 01:04:05,381
-<font color=#FFFF00>TrÍs.</font>
+<font color=#FFFF00>Tr√™s.</font>
 
 804
 01:04:05,784 --> 01:04:07,084
@@ -3732,16 +3732,16 @@ consegue localizar o <i>Gojira</i>?</font>
 808
 01:05:03,495 --> 01:05:05,488
 <font color=#FFFF00>Os sinais vitais dele
-est„o sumindo.</font>
+est√£o sumindo.</font>
 
 809
 01:05:06,301 --> 01:05:08,341
-<font color=#FFFF00>Os nÌveis de radiaÁ„o
-est„o caindo.</font>
+<font color=#FFFF00>Os n√≠veis de radia√ß√£o
+est√£o caindo.</font>
 
 810
 01:05:10,545 --> 01:05:12,382
-<font color=#FFFF00>Vamos, grand„o, lute.</font>
+<font color=#FFFF00>Vamos, grand√£o, lute.</font>
 
 811
 01:05:22,608 --> 01:05:23,908
@@ -3754,27 +3754,27 @@ o que queria, Mark.</font>
 
 813
 01:06:16,158 --> 01:06:19,689
-<font color=#FFFF00>POSTO AVAN«ADO MONARCA 55
+<font color=#FFFF00>POSTO AVAN√áADO MONARCA 55
 SEDONA, ARIZONA</font>
 
 814
 01:06:30,814 --> 01:06:33,797
-<font color=#FFFF00>POSTO AVAN«ADO MONARCA 67
+<font color=#FFFF00>POSTO AVAN√áADO MONARCA 67
 MUNIQUE, ALEMANHA</font>
 
 815
 01:06:47,411 --> 01:06:49,558
-<font color=#FFFF00>POSTO AVAN«ADO MONARCA 41
-MONTE FUJI, JAP√O</font>
+<font color=#FFFF00>POSTO AVAN√áADO MONARCA 41
+MONTE FUJI, JAP√ÉO</font>
 
 816
 01:06:49,864 --> 01:06:52,074
-<font color=#FFFF00>POSTO AVAN«ADO MONARCA 75
-JEBEL BARCAL, SUD√O</font>
+<font color=#FFFF00>POSTO AVAN√áADO MONARCA 75
+JEBEL BARCAL, SUD√ÉO</font>
 
 817
 01:06:54,973 --> 01:06:57,967
-<font color=#FFFF00>Pensei que os soltarÌamos
+<font color=#FFFF00>Pensei que os soltar√≠amos
 gradualmente.</font>
 
 818
@@ -3783,7 +3783,7 @@ gradualmente.</font>
 
 819
 01:07:01,060 --> 01:07:03,411
-<font color=#FFFF00>N„o sou eu quem est·
+<font color=#FFFF00>N√£o sou eu quem est√°
 fazendo isso.</font>
 
 820
@@ -3792,7 +3792,7 @@ fazendo isso.</font>
 
 821
 01:07:22,805 --> 01:07:24,345
-<font color=#FFFF00>VocÍ È um monstro.</font>
+<font color=#FFFF00>Voc√™ √© um monstro.</font>
 
 822
 01:07:35,281 --> 01:07:36,659
@@ -3800,12 +3800,12 @@ fazendo isso.</font>
 
 823
 01:07:36,660 --> 01:07:40,315
-<font color=#FFFF00><i>Castle Bravo, È a equipe
-do Mosura, est„o aÌ? C‚mbio.</i></font>
+<font color=#FFFF00><i>Castle Bravo, √© a equipe
+do Mosura, est√£o a√≠? C√¢mbio.</i></font>
 
 824
 01:07:40,855 --> 01:07:43,049
-<font color=#FFFF00>- Castle Bravo, aqui È...
+<font color=#FFFF00>- Castle Bravo, aqui √©...
 - Alguma coisa?</font>
 
 825
@@ -3816,7 +3816,7 @@ com o Argo.</font>
 826
 01:07:45,958 --> 01:07:48,428
 <font color=#FFFF00>Castle Bravo e as outras equipes
-de contenÁ„o.</font>
+de conten√ß√£o.</font>
 
 827
 01:07:48,429 --> 01:07:51,248
@@ -3825,16 +3825,16 @@ Stone Mountain.</font>
 
 828
 01:07:51,249 --> 01:07:52,755
-<font color=#FFFF00>Todos os Tit„s.</font>
+<font color=#FFFF00>Todos os Tit√£s.</font>
 
 829
 01:07:52,756 --> 01:07:54,146
-<font color=#FFFF00>Est„o escapando.</font>
+<font color=#FFFF00>Est√£o escapando.</font>
 
 830
 01:07:54,147 --> 01:07:56,051
 <font color=#FFFF00><i>Essa pode ser
-nossa ˙nica comunicaÁ„o.</i></font>
+nossa √∫nica comunica√ß√£o.</i></font>
 
 831
 01:07:58,054 --> 01:07:59,498
@@ -3842,15 +3842,15 @@ nossa ˙nica comunicaÁ„o.</i></font>
 
 832
 01:07:59,968 --> 01:08:01,652
-<font color=#FFFF00>… ele.</font>
+<font color=#FFFF00>√â ele.</font>
 
 833
 01:08:01,653 --> 01:08:03,379
-<font color=#FFFF00>Ele È quem est· fazendo isso.</font>
+<font color=#FFFF00>Ele √© quem est√° fazendo isso.</font>
 
 834
 01:08:03,682 --> 01:08:06,146
-<font color=#FFFF00>Eles est„o respondendo
+<font color=#FFFF00>Eles est√£o respondendo
 ao chamado dele.</font>
 
 835
@@ -3859,11 +3859,11 @@ ao chamado dele.</font>
 
 836
 01:08:09,039 --> 01:08:10,458
-<font color=#FFFF00>Onde est· a Dra. Ling?</font>
+<font color=#FFFF00>Onde est√° a Dra. Ling?</font>
 
 837
 01:08:11,086 --> 01:08:12,386
-<font color=#FFFF00>Est· l· fora.</font>
+<font color=#FFFF00>Est√° l√° fora.</font>
 
 838
 01:08:14,200 --> 01:08:17,661
@@ -3881,7 +3881,7 @@ o contato com a Monarca.</font>
 
 841
 01:09:34,189 --> 01:09:37,295
-<font color=#FFFF00>Sei que as coisas n„o saÌram
+<font color=#FFFF00>Sei que as coisas n√£o sa√≠ram
 como planejado, mas...</font>
 
 842
@@ -3896,21 +3896,21 @@ que soltariam um por vez,</font>
 
 844
 01:09:41,968 --> 01:09:43,474
-<font color=#FFFF00>que restauraria o equilÌbrio.</font>
+<font color=#FFFF00>que restauraria o equil√≠brio.</font>
 
 845
 01:09:43,475 --> 01:09:45,580
 <font color=#FFFF00>Iriam assumir a Monarca
-e matar os Tit„s.</font>
+e matar os Tit√£s.</font>
 
 846
 01:09:45,581 --> 01:09:47,796
-<font color=#FFFF00>- N„o tive escolha.
+<font color=#FFFF00>- N√£o tive escolha.
 - Mentira.</font>
 
 847
 01:09:51,809 --> 01:09:55,080
-<font color=#FFFF00>VocÍ disse que est·vamos
+<font color=#FFFF00>Voc√™ disse que est√°vamos
 fazendo isso pelo Andrew.</font>
 
 848
@@ -3945,40 +3945,40 @@ que ele iria querer?</font>
 855
 01:10:39,764 --> 01:10:42,869
 <font color=#FFFF00>que Emma usou no sinal
-do Orca, n„o conheÁo.</font>
+do Orca, n√£o conhe√ßo.</font>
 
 856
 01:10:43,214 --> 01:10:44,514
-<font color=#FFFF00>Como est· indo?</font>
+<font color=#FFFF00>Como est√° indo?</font>
 
 857
 01:10:46,490 --> 01:10:49,313
-<font color=#FFFF00>- Como È?
-- FaÁa disso nossa b˙ssola.</font>
+<font color=#FFFF00>- Como √©?
+- Fa√ßa disso nossa b√∫ssola.</font>
 
 858
 01:10:50,107 --> 01:10:52,281
-<font color=#FFFF00>… algo que minha m„e falava.</font>
+<font color=#FFFF00>√â algo que minha m√£e falava.</font>
 
 859
 01:10:52,282 --> 01:10:55,374
 <font color=#FFFF00>Ela acreditava que nossas
-histÛrias de monstros e dragıes,</font>
+hist√≥rias de monstros e drag√µes,</font>
 
 860
 01:10:55,375 --> 01:10:57,408
 <font color=#FFFF00>poderiam ajudar
-a encontrar os Tit„s</font>
+a encontrar os Tit√£s</font>
 
 861
 01:10:57,409 --> 01:10:59,804
 <font color=#FFFF00>e restaurar
-a conex„o com a natureza.</font>
+a conex√£o com a natureza.</font>
 
 862
 01:10:59,805 --> 01:11:02,886
-<font color=#FFFF00>- Sua m„e?
-- VocÍ È da segunda geraÁ„o?</font>
+<font color=#FFFF00>- Sua m√£e?
+- Voc√™ √© da segunda gera√ß√£o?</font>
 
 863
 01:11:02,887 --> 01:11:04,187
@@ -3986,53 +3986,53 @@ a conex„o com a natureza.</font>
 
 864
 01:11:04,546 --> 01:11:06,351
-<font color=#FFFF00>… coisa de famÌlia.</font>
+<font color=#FFFF00>√â coisa de fam√≠lia.</font>
 
 865
 01:11:06,965 --> 01:11:08,420
-<font color=#FFFF00>Isso È incrÌvel.</font>
+<font color=#FFFF00>Isso √© incr√≠vel.</font>
 
 866
 01:11:08,421 --> 01:11:11,193
-<font color=#FFFF00>Sua famÌlia n„o tem dicas
-de como matar dragıes?</font>
+<font color=#FFFF00>Sua fam√≠lia n√£o tem dicas
+de como matar drag√µes?</font>
 
 867
 01:11:11,194 --> 01:11:13,958
-<font color=#FFFF00>Matar dragıes
-È um conceito do povo ocidental.</font>
+<font color=#FFFF00>Matar drag√µes
+√© um conceito do povo ocidental.</font>
 
 868
 01:11:13,959 --> 01:11:17,378
-<font color=#FFFF00>No Oriente, s„o criaturas
+<font color=#FFFF00>No Oriente, s√£o criaturas
 divinas e sagradas</font>
 
 869
 01:11:17,379 --> 01:11:19,883
 <font color=#FFFF00>que trouxeram sabedoria,
-forÁa...</font>
+for√ßa...</font>
 
 870
 01:11:20,722 --> 01:11:22,412
-<font color=#FFFF00>AtÈ redenÁ„o.</font>
+<font color=#FFFF00>At√© reden√ß√£o.</font>
 
 871
 01:11:24,432 --> 01:11:25,974
-<font color=#FFFF00>Esse Destruidor de OxigÍnio...</font>
+<font color=#FFFF00>Esse Destruidor de Oxig√™nio...</font>
 
 872
 01:11:25,975 --> 01:11:28,186
 <font color=#FFFF00>Por que o Monstro Zero
-n„o foi afetado?</font>
+n√£o foi afetado?</font>
 
 873
 01:11:28,187 --> 01:11:30,497
-<font color=#FFFF00>N„o sou cientista,
+<font color=#FFFF00>N√£o sou cientista,
 mas acho que tem a ver</font>
 
 874
 01:11:30,498 --> 01:11:31,977
-<font color=#FFFF00>com sua cabeÁa
+<font color=#FFFF00>com sua cabe√ßa
 se regenerar.</font>
 
 875
@@ -4046,7 +4046,7 @@ sobre a ordem natural.</font>
 
 877
 01:11:36,592 --> 01:11:39,220
-<font color=#FFFF00>A menos que ele n„o faÁa
+<font color=#FFFF00>A menos que ele n√£o fa√ßa
 parte da ordem natural.</font>
 
 878
@@ -4061,7 +4061,7 @@ vagamente familiar.</font>
 
 880
 01:11:47,377 --> 01:11:50,686
-<font color=#FFFF00>Fala sobre um drag„o
+<font color=#FFFF00>Fala sobre um drag√£o
 que caiu das estrelas.</font>
 
 881
@@ -4071,17 +4071,17 @@ engoliram homens e deuses.</font>
 
 882
 01:11:55,022 --> 01:11:56,912
-<font color=#FFFF00>- Quer dizer um alienÌgena?
+<font color=#FFFF00>- Quer dizer um alien√≠gena?
 - Sim.</font>
 
 883
 01:11:56,913 --> 01:11:59,235
-<font color=#FFFF00>Ele n„o faz parte
+<font color=#FFFF00>Ele n√£o faz parte
 da ordem natural.</font>
 
 884
 01:11:59,236 --> 01:12:01,334
-<font color=#FFFF00>E ele n„o deveria estar aqui.</font>
+<font color=#FFFF00>E ele n√£o deveria estar aqui.</font>
 
 885
 01:12:01,335 --> 01:12:02,787
@@ -4089,7 +4089,7 @@ da ordem natural.</font>
 
 886
 01:12:02,788 --> 01:12:04,502
-<font color=#FFFF00>A espÈcie invasora.</font>
+<font color=#FFFF00>A esp√©cie invasora.</font>
 
 887
 01:12:04,503 --> 01:12:07,342
@@ -4099,11 +4099,11 @@ como ele cria essas tempestades</font>
 888
 01:12:07,343 --> 01:12:09,399
 <font color=#FFFF00>e o efeito que ele tem
-nos outros Tit„s.</font>
+nos outros Tit√£s.</font>
 
 889
 01:12:09,400 --> 01:12:12,385
-<font color=#FFFF00>… como se tivesse mudando
+<font color=#FFFF00>√â como se tivesse mudando
 o planeta ao gosto dele.</font>
 
 890
@@ -4121,7 +4121,7 @@ como chamaram ele?</font>
 
 893
 01:12:18,774 --> 01:12:21,173
-<font color=#FFFF00>- Gi, o quÍ?
+<font color=#FFFF00>- Gi, o qu√™?
 - Ela disse gonorreia?</font>
 
 894
@@ -4139,7 +4139,7 @@ mas tem algo que deveria ver.</font>
 
 897
 01:12:31,596 --> 01:12:34,321
-<font color=#FFFF00>Imagino que n„o estava
+<font color=#FFFF00>Imagino que n√£o estava
 esperando por esse pessoal.</font>
 
 898
@@ -4152,16 +4152,16 @@ esperando por esse pessoal.</font>
 
 900
 01:12:40,040 --> 01:12:41,889
-<font color=#FFFF00><i>Est„o todos sob ataque.</i></font>
+<font color=#FFFF00><i>Est√£o todos sob ataque.</i></font>
 
 901
 01:12:41,890 --> 01:12:45,133
-<font color=#FFFF00><i>Em cada continente, os Tit„s
-est„o criando terremotos,</i></font>
+<font color=#FFFF00><i>Em cada continente, os Tit√£s
+est√£o criando terremotos,</i></font>
 
 902
 01:12:45,134 --> 01:12:47,199
-<font color=#FFFF00><i>incÍndios, tsunamis</i></font>
+<font color=#FFFF00><i>inc√™ndios, tsunamis</i></font>
 
 903
 01:12:47,200 --> 01:12:50,198
@@ -4179,7 +4179,7 @@ com material nuclear.</font>
 
 906
 01:12:54,857 --> 01:12:57,039
-<font color=#FFFF00>Mas eles n„o morderam a isca
+<font color=#FFFF00>Mas eles n√£o morderam a isca
 dessa vez.</font>
 
 907
@@ -4189,11 +4189,11 @@ se tornou...</font>
 
 908
 01:12:59,357 --> 01:13:01,399
-<font color=#FFFF00>aleatÛrio e err·tico.</font>
+<font color=#FFFF00>aleat√≥rio e err√°tico.</font>
 
 909
 01:13:01,400 --> 01:13:04,511
-<font color=#FFFF00>E com nossos exÈrcitos
+<font color=#FFFF00>E com nossos ex√©rcitos
 minguando rapidamente</font>
 
 910
@@ -4203,7 +4203,7 @@ pelo mundo sem impedimentos,</font>
 
 911
 01:13:07,263 --> 01:13:09,451
-<font color=#FFFF00>estamos ficando sem opÁıes.</font>
+<font color=#FFFF00>estamos ficando sem op√ß√µes.</font>
 
 912
 01:13:09,452 --> 01:13:11,087
@@ -4211,31 +4211,31 @@ pelo mundo sem impedimentos,</font>
 
 913
 01:13:11,088 --> 01:13:12,944
-<font color=#FFFF00>LicenÁa,
+<font color=#FFFF00>Licen√ßa,
 tem algo para adicionar?</font>
 
 914
 01:13:13,377 --> 01:13:15,880
 <font color=#FFFF00>Tenho.
-VocÍ est· errado.</font>
+Voc√™ est√° errado.</font>
 
 915
 01:13:15,881 --> 01:13:19,331
 <font color=#FFFF00>O comportamento deles
-n„o È aleatÛrio e nem err·tico.</font>
+n√£o √© aleat√≥rio e nem err√°tico.</font>
 
 916
 01:13:19,332 --> 01:13:22,423
 <font color=#FFFF00>Me permite, senhor?
-Por incrÌvel que pareÁa,</font>
+Por incr√≠vel que pare√ßa,</font>
 
 917
 01:13:22,424 --> 01:13:23,994
-<font color=#FFFF00>est„o se movendo em bando.</font>
+<font color=#FFFF00>est√£o se movendo em bando.</font>
 
 918
 01:13:23,995 --> 01:13:25,333
-<font color=#FFFF00>Eles est„o caÁando.</font>
+<font color=#FFFF00>Eles est√£o ca√ßando.</font>
 
 919
 01:13:25,334 --> 01:13:28,623
@@ -4249,16 +4249,16 @@ diretamente ao alfa.</font>
 
 921
 01:13:31,358 --> 01:13:33,155
-<font color=#FFFF00>E esse <i>Ghidorah</i> È o novo alfa</font>
+<font color=#FFFF00>E esse <i>Ghidorah</i> √© o novo alfa</font>
 
 922
 01:13:33,156 --> 01:13:35,777
-<font color=#FFFF00>e sÛ est„o fazendo
+<font color=#FFFF00>e s√≥ est√£o fazendo
 o que ele manda.</font>
 
 923
 01:13:35,778 --> 01:13:37,672
-<font color=#FFFF00>S„o uma extens„o dele.</font>
+<font color=#FFFF00>S√£o uma extens√£o dele.</font>
 
 924
 01:13:38,058 --> 01:13:39,508
@@ -4271,26 +4271,26 @@ o que ele manda.</font>
 926
 01:13:41,702 --> 01:13:44,624
 <font color=#FFFF00>Tem outra criatura
-que possa vencÍ-lo?</font>
+que possa venc√™-lo?</font>
 
 927
 01:13:44,625 --> 01:13:46,681
-<font color=#FFFF00>N„o tem.
+<font color=#FFFF00>N√£o tem.
 A rivalidade do <i>Ghidorah</i></font>
 
 928
 01:13:46,682 --> 01:13:49,454
 <font color=#FFFF00>com o <i>Gojira</i>
-era ˙nica e antiga.</font>
+era √∫nica e antiga.</font>
 
 929
 01:13:49,455 --> 01:13:53,337
-<font color=#FFFF00>Ent„o, matamos a melhor chance
+<font color=#FFFF00>Ent√£o, matamos a melhor chance
 de vencer essa coisa?</font>
 
 930
 01:13:53,956 --> 01:13:56,577
-<font color=#FFFF00><i>Jonah, vocÍ n„o entende.
+<font color=#FFFF00><i>Jonah, voc√™ n√£o entende.
 Isso muda tudo.</i></font>
 
 931
@@ -4300,65 +4300,65 @@ o Monstro Zero</i></font>
 
 932
 01:13:58,513 --> 01:14:01,040
-<font color=#FFFF00>n„o est· usando os Tit„s
+<font color=#FFFF00>n√£o est√° usando os Tit√£s
 para restaurar o planeta.</font>
 
 933
 01:14:01,041 --> 01:14:03,346
-<font color=#FFFF00>Ele est· usando-os
+<font color=#FFFF00>Ele est√° usando-os
 para destruir.</font>
 
 934
 01:14:03,347 --> 01:14:06,337
-<font color=#FFFF00>Isso n„o È coexistÍncia.
-Isso È extinÁ„o.</font>
+<font color=#FFFF00>Isso n√£o √© coexist√™ncia.
+Isso √© extin√ß√£o.</font>
 
 935
 01:14:06,338 --> 01:14:09,726
-<font color=#FFFF00>Enquanto vocÍ estava
-em algum laboratÛrio,</font>
+<font color=#FFFF00>Enquanto voc√™ estava
+em algum laborat√≥rio,</font>
 
 936
 01:14:09,727 --> 01:14:11,903
-<font color=#FFFF00>est·vamos lutando
-por dÈcadas</font>
+<font color=#FFFF00>est√°vamos lutando
+por d√©cadas</font>
 
 937
 01:14:11,904 --> 01:14:13,911
 <font color=#FFFF00>uma guerra suja
-atr·s da outra.</font>
+atr√°s da outra.</font>
 
 938
 01:14:13,912 --> 01:14:16,400
 <font color=#FFFF00>Vi a natureza humana
-em primeira m„o.</font>
+em primeira m√£o.</font>
 
 939
 01:14:16,401 --> 01:14:18,377
-<font color=#FFFF00>E digo que ela n„o melhora.</font>
+<font color=#FFFF00>E digo que ela n√£o melhora.</font>
 
 940
 01:14:18,378 --> 01:14:20,176
-<font color=#FFFF00>SÛ ir· piorar.</font>
+<font color=#FFFF00>S√≥ ir√° piorar.</font>
 
 941
 01:14:20,177 --> 01:14:24,697
 <font color=#FFFF00>Lamento que o Monstro Zero
-n„o È bem o que esper·vamos.</font>
+n√£o √© bem o que esper√°vamos.</font>
 
 942
 01:14:25,472 --> 01:14:27,856
-<font color=#FFFF00>Mas nÛs abrimos
+<font color=#FFFF00>Mas n√≥s abrimos
 a Caixa de Pandora.</font>
 
 943
 01:14:27,857 --> 01:14:30,324
-<font color=#FFFF00>E n„o podemos fech·-la agora.</font>
+<font color=#FFFF00>E n√£o podemos fech√°-la agora.</font>
 
 944
 01:14:33,033 --> 01:14:35,461
 <font color=#FFFF00>- Talvez, possamos.
-- N„o seja idiota.</font>
+- N√£o seja idiota.</font>
 
 945
 01:14:35,462 --> 01:14:37,285
@@ -4366,7 +4366,7 @@ a Caixa de Pandora.</font>
 
 946
 01:14:37,286 --> 01:14:39,173
-<font color=#FFFF00>vai expor a todos nÛs.</font>
+<font color=#FFFF00>vai expor a todos n√≥s.</font>
 
 947
 01:14:39,174 --> 01:14:41,374
@@ -4376,7 +4376,7 @@ como baleias.</font>
 948
 01:14:41,375 --> 01:14:44,414
 <font color=#FFFF00><i>Conseguem ouvir o sonar
-a milhares de quilÙmetros.</i></font>
+a milhares de quil√¥metros.</i></font>
 
 949
 01:14:44,963 --> 01:14:46,446
@@ -4389,11 +4389,11 @@ de Fenway.</i></font>
 
 951
 01:14:48,503 --> 01:14:50,306
-<font color=#FFFF00><i>… sÛ uns quilÙmetros daqui.</i></font>
+<font color=#FFFF00><i>√â s√≥ uns quil√¥metros daqui.</i></font>
 
 952
 01:14:50,307 --> 01:14:52,712
-<font color=#FFFF00>Posso usar o est·dio
+<font color=#FFFF00>Posso usar o est√°dio
 para amplificar o sinal</font>
 
 953
@@ -4402,18 +4402,18 @@ para amplificar o sinal</font>
 
 954
 01:14:54,616 --> 01:14:57,414
-<font color=#FFFF00><i>A cidade j· est· sendo evacuada,
-ent„o ser· seguro.</i></font>
+<font color=#FFFF00><i>A cidade j√° est√° sendo evacuada,
+ent√£o ser√° seguro.</i></font>
 
 955
 01:14:57,415 --> 01:14:58,899
 <font color=#FFFF00><i>- E depois?
-- N„o sei.</i></font>
+- N√£o sei.</i></font>
 
 956
 01:14:58,900 --> 01:15:02,435
-<font color=#FFFF00><i>Descobrir o que È o Monstro Zero
-e tentar detÍ-lo.</i></font>
+<font color=#FFFF00><i>Descobrir o que √© o Monstro Zero
+e tentar det√™-lo.</i></font>
 
 957
 01:15:02,436 --> 01:15:04,201
@@ -4423,21 +4423,21 @@ nos encontrar.</i></font>
 958
 01:15:04,202 --> 01:15:07,210
 <font color=#FFFF00><i>Imagino que seus velhos amigos
-ficariam felizes em revÍ-la.</i></font>
+ficariam felizes em rev√™-la.</i></font>
 
 959
 01:15:07,211 --> 01:15:09,163
-<font color=#FFFF00><i>N„o podemos
+<font color=#FFFF00><i>N√£o podemos
 ficar aqui parados.</i></font>
 
 960
 01:15:09,164 --> 01:15:10,891
-<font color=#FFFF00><i>N„o È este o mundo
-que querÌamos.</i></font>
+<font color=#FFFF00><i>N√£o √© este o mundo
+que quer√≠amos.</i></font>
 
 961
 01:15:10,892 --> 01:15:12,630
-<font color=#FFFF00><i>Lembro de vocÍ me dizendo</i></font>
+<font color=#FFFF00><i>Lembro de voc√™ me dizendo</i></font>
 
 962
 01:15:12,631 --> 01:15:16,108
@@ -4456,35 +4456,35 @@ de devolvermos.</i></font>
 965
 01:15:24,045 --> 01:15:26,175
 <font color=#FFFF00>Mark, espere.
-O que est· fazendo?</font>
+O que est√° fazendo?</font>
 
 966
 01:15:26,733 --> 01:15:29,443
-<font color=#FFFF00>N„o posso ficar aqui parado.
+<font color=#FFFF00>N√£o posso ficar aqui parado.
 Preciso fazer algo.</font>
 
 967
 01:15:29,444 --> 01:15:31,809
-<font color=#FFFF00>- Tipo o quÍ?
+<font color=#FFFF00>- Tipo o qu√™?
 - Tipo procurar minha filha.</font>
 
 968
 01:15:31,810 --> 01:15:34,198
 <font color=#FFFF00>Como?
-Aonde vocÍ vai?</font>
+Aonde voc√™ vai?</font>
 
 969
 01:15:36,057 --> 01:15:38,248
-<font color=#FFFF00>Ela È a ˙nica coisa
+<font color=#FFFF00>Ela √© a √∫nica coisa
 que me restou, Sam.</font>
 
 970
 01:15:40,284 --> 01:15:41,910
-<font color=#FFFF00>Eu preciso ajud·-la.</font>
+<font color=#FFFF00>Eu preciso ajud√°-la.</font>
 
 971
 01:15:41,911 --> 01:15:43,698
-<font color=#FFFF00>N„o deixarei aquilo
+<font color=#FFFF00>N√£o deixarei aquilo
 se repetir.</font>
 
 972
@@ -4493,7 +4493,7 @@ se repetir.</font>
 
 973
 01:16:59,148 --> 01:17:00,702
-<font color=#FFFF00>IncrÌvel.</font>
+<font color=#FFFF00>Incr√≠vel.</font>
 
 974
 01:17:02,368 --> 01:17:03,822
@@ -4505,7 +4505,7 @@ se repetir.</font>
 
 976
 01:17:06,978 --> 01:17:09,197
-<font color=#FFFF00>Est· gravando isso, Stanton?</font>
+<font color=#FFFF00>Est√° gravando isso, Stanton?</font>
 
 977
 01:17:11,211 --> 01:17:13,231
@@ -4517,11 +4517,11 @@ se repetir.</font>
 
 979
 01:17:17,254 --> 01:17:19,535
-<font color=#FFFF00>… como uma m˙sica.</font>
+<font color=#FFFF00>√â como uma m√∫sica.</font>
 
 980
 01:17:19,917 --> 01:17:23,111
-<font color=#FFFF00>Aposto que sÛ h· uma coisa
+<font color=#FFFF00>Aposto que s√≥ h√° uma coisa
 que consegue entender isso.</font>
 
 981
@@ -4535,35 +4535,35 @@ Reproduzindo.</font>
 
 983
 01:17:39,874 --> 01:17:41,447
-<font color=#FFFF00>Ele ainda est· vivo.</font>
+<font color=#FFFF00>Ele ainda est√° vivo.</font>
 
 984
 01:17:44,287 --> 01:17:47,982
-<font color=#FFFF00>Ent„o, ela...
-e Godzilla s„o tipo...</font>
+<font color=#FFFF00>Ent√£o, ela...
+e Godzilla s√£o tipo...</font>
 
 985
 01:17:47,983 --> 01:17:50,990
-<font color=#FFFF00>eles tÍm um lance?
-Isso È loucura, n„o È?</font>
+<font color=#FFFF00>eles t√™m um lance?
+Isso √© loucura, n√£o √©?</font>
 
 986
 01:17:50,991 --> 01:17:54,468
-<font color=#FFFF00>RelaÁıes simbiÛticas
-entre duas espÈcies diferentes</font>
+<font color=#FFFF00>Rela√ß√µes simbi√≥ticas
+entre duas esp√©cies diferentes</font>
 
 987
 01:17:54,469 --> 01:17:56,662
-<font color=#FFFF00>n„o s„o t„o incomuns.</font>
+<font color=#FFFF00>n√£o s√£o t√£o incomuns.</font>
 
 988
 01:17:57,146 --> 01:17:58,601
-<font color=#FFFF00>Consegue rastre·-lo?</font>
+<font color=#FFFF00>Consegue rastre√°-lo?</font>
 
 989
 01:17:58,602 --> 01:18:00,937
-<font color=#FFFF00>N„o.
-O sinal est· muito fraco.</font>
+<font color=#FFFF00>N√£o.
+O sinal est√° muito fraco.</font>
 
 990
 01:18:03,038 --> 01:18:04,727
@@ -4571,59 +4571,59 @@ O sinal est· muito fraco.</font>
 
 991
 01:18:08,734 --> 01:18:10,568
-<font color=#FFFF00>Quantas ogivas vocÍ tem?</font>
+<font color=#FFFF00>Quantas ogivas voc√™ tem?</font>
 
 992
 01:18:11,562 --> 01:18:12,862
-<font color=#FFFF00>Por quÍ?</font>
+<font color=#FFFF00>Por qu√™?</font>
 
 993
 01:18:13,325 --> 01:18:14,693
-<font color=#FFFF00>Podemos ajud·-lo.</font>
+<font color=#FFFF00>Podemos ajud√°-lo.</font>
 
 994
 01:18:21,016 --> 01:18:23,507
-<font color=#FFFF00>Esse furac„o categoria 6
+<font color=#FFFF00>Esse furac√£o categoria 6
 sobre Washington</font>
 
 995
 01:18:23,508 --> 01:18:25,640
-<font color=#FFFF00>È onde o Rei <i>Ghidorah</i>
+<font color=#FFFF00>√© onde o Rei <i>Ghidorah</i>
 fez o ninho.</font>
 
 996
 01:18:25,641 --> 01:18:29,455
-<font color=#FFFF00>As quatro forÁas militares
-far„o uma operaÁ„o conjunta.</font>
+<font color=#FFFF00>As quatro for√ßas militares
+far√£o uma opera√ß√£o conjunta.</font>
 
 997
 01:18:29,456 --> 01:18:31,582
-<font color=#FFFF00>Para atraÌ-lo
+<font color=#FFFF00>Para atra√≠-lo
 para fora do continente</font>
 
 998
 01:18:31,583 --> 01:18:33,638
 <font color=#FFFF00><i>para continuarmos
-com as evacuaÁıes,</i></font>
+com as evacua√ß√µes,</i></font>
 
 999
 01:18:33,639 --> 01:18:37,022
 <font color=#FFFF00><i>dando tempo para a equipe
-submersa completar a miss„o.</i></font>
+submersa completar a miss√£o.</i></font>
 
 1000
 01:18:40,387 --> 01:18:44,609
-<font color=#FFFF00>Esse plano È o que se chama
+<font color=#FFFF00>Esse plano √© o que se chama
 de "vai ou racha", certo?</font>
 
 1001
 01:18:44,610 --> 01:18:47,591
 <font color=#FFFF00>O que esses nerds acham
-que far„o l· com v·rias ogivas?</font>
+que far√£o l√° com v√°rias ogivas?</font>
 
 1002
 01:18:47,592 --> 01:18:48,992
-<font color=#FFFF00>N„o ouviu, Griffin?</font>
+<font color=#FFFF00>N√£o ouviu, Griffin?</font>
 
 1003
 01:18:49,475 --> 01:18:51,622
@@ -4632,12 +4632,12 @@ de volta dos mortos.</font>
 
 1004
 01:18:59,351 --> 01:19:01,016
-<font color=#FFFF00><i>Estar„o fora de alcance.</i></font>
+<font color=#FFFF00><i>Estar√£o fora de alcance.</i></font>
 
 1005
 01:19:01,017 --> 01:19:04,064
-<font color=#FFFF00>Mas um esquadr„o recuado
-ficar· de olho em vocÍs.</font>
+<font color=#FFFF00>Mas um esquadr√£o recuado
+ficar√° de olho em voc√™s.</font>
 
 1006
 01:19:04,065 --> 01:19:05,913
@@ -4664,11 +4664,11 @@ Profundidade de 150 metros.</font>
 
 1011
 01:19:40,238 --> 01:19:41,738
-<font color=#FFFF00>Que horas s„o?</font>
+<font color=#FFFF00>Que horas s√£o?</font>
 
 1012
 01:19:44,408 --> 01:19:46,495
-<font color=#FFFF00>Hora de comprar um relÛgio.</font>
+<font color=#FFFF00>Hora de comprar um rel√≥gio.</font>
 
 1013
 01:19:48,302 --> 01:19:50,220
@@ -4676,8 +4676,8 @@ Profundidade de 150 metros.</font>
 
 1014
 01:19:51,358 --> 01:19:53,440
-<font color=#FFFF00>VocÍ nunca tirava
-o relÛgio do bolso</font>
+<font color=#FFFF00>Voc√™ nunca tirava
+o rel√≥gio do bolso</font>
 
 1015
 01:19:53,441 --> 01:19:55,446
@@ -4686,7 +4686,7 @@ o relÛgio do bolso</font>
 1016
 01:19:58,798 --> 01:20:01,118
 <font color=#FFFF00>Se me dissesse
-h· cinco anos...</font>
+h√° cinco anos...</font>
 
 1017
 01:20:02,296 --> 01:20:05,455
@@ -4696,20 +4696,20 @@ a coisa que matou meu filho...</font>
 1018
 01:20:06,356 --> 01:20:08,960
 <font color=#FFFF00>Ou que seria a forma
-de salvar a famÌlia que amo...</font>
+de salvar a fam√≠lia que amo...</font>
 
 1019
 01:20:08,961 --> 01:20:10,361
-<font color=#FFFF00>¿s vezes...</font>
+<font color=#FFFF00>√Äs vezes...</font>
 
 1020
 01:20:11,284 --> 01:20:14,621
-<font color=#FFFF00>O ˙nico modo de curar nossas
-feridas È fazendo as pazes</font>
+<font color=#FFFF00>O √∫nico modo de curar nossas
+feridas √© fazendo as pazes</font>
 
 1021
 01:20:14,622 --> 01:20:17,054
-<font color=#FFFF00>com os demÙnios
+<font color=#FFFF00>com os dem√¥nios
 que as criaram.</font>
 
 1022
@@ -4718,16 +4718,16 @@ que as criaram.</font>
 
 1023
 01:20:19,198 --> 01:20:20,598
-<font color=#FFFF00>VocÍ n„o acredita?</font>
+<font color=#FFFF00>Voc√™ n√£o acredita?</font>
 
 1024
 01:20:21,659 --> 01:20:23,558
-<font color=#FFFF00>N„o È por isso que est· aqui?</font>
+<font color=#FFFF00>N√£o √© por isso que est√° aqui?</font>
 
 1025
 01:20:26,818 --> 01:20:29,525
-<font color=#FFFF00>H· coisas alÈm
-da nossa compreens„o, Mark.</font>
+<font color=#FFFF00>H√° coisas al√©m
+da nossa compreens√£o, Mark.</font>
 
 1026
 01:20:31,049 --> 01:20:34,057
@@ -4741,8 +4741,8 @@ de crises</font>
 
 1028
 01:20:36,737 --> 01:20:39,182
-<font color=#FFFF00>tambÈm s„o potenciais
-momentos de fÈ.</font>
+<font color=#FFFF00>tamb√©m s√£o potenciais
+momentos de f√©.</font>
 
 1029
 01:20:40,656 --> 01:20:42,137
@@ -4760,7 +4760,7 @@ uma maneira de se equilibrar.</font>
 
 1032
 01:20:52,159 --> 01:20:53,867
-<font color=#FFFF00>A ˙nica quest„o È:</font>
+<font color=#FFFF00>A √∫nica quest√£o √©:</font>
 
 1033
 01:20:55,831 --> 01:20:57,261
@@ -4768,7 +4768,7 @@ uma maneira de se equilibrar.</font>
 
 1034
 01:20:58,031 --> 01:20:59,552
-<font color=#FFFF00>nÛs assumiremos?</font>
+<font color=#FFFF00>n√≥s assumiremos?</font>
 
 1035
 01:21:00,416 --> 01:21:02,145
@@ -4776,7 +4776,7 @@ uma maneira de se equilibrar.</font>
 
 1036
 01:21:02,533 --> 01:21:05,851
-<font color=#FFFF00>N„o. Li isso
+<font color=#FFFF00>N√£o. Li isso
 em um biscoito da sorte.</font>
 
 1037
@@ -4786,12 +4786,12 @@ bem grande.</font>
 
 1038
 01:21:15,307 --> 01:21:17,823
-<font color=#FFFF00>- SituaÁ„o do submarino?
-- Um vÛrtice nos pegou.</font>
+<font color=#FFFF00>- Situa√ß√£o do submarino?
+- Um v√≥rtice nos pegou.</font>
 
 1039
 01:21:17,824 --> 01:21:20,549
-<font color=#FFFF00>- Est· nos puxando.
+<font color=#FFFF00>- Est√° nos puxando.
 -Impacto em 487 metros.</font>
 
 1040
@@ -4800,7 +4800,7 @@ bem grande.</font>
 
 1041
 01:21:27,388 --> 01:21:29,701
-<font color=#FFFF00>EmergÍncia, 60 metros!</font>
+<font color=#FFFF00>Emerg√™ncia, 60 metros!</font>
 
 1042
 01:21:29,702 --> 01:21:31,124
@@ -4816,13 +4816,13 @@ bem grande.</font>
 
 1045
 01:22:53,578 --> 01:22:57,255
-<font color=#FFFF00><i>Argo, aqui È o USS Brody em rota
-para o perÌmetro de evacuaÁ„o.</i></font>
+<font color=#FFFF00><i>Argo, aqui √© o USS Brody em rota
+para o per√≠metro de evacua√ß√£o.</i></font>
 
 1046
 01:22:57,256 --> 01:23:00,470
 <font color=#FFFF00><i>Armas prontas para atacar
-os Tit„s ao seu comando.</i></font>
+os Tit√£s ao seu comando.</i></font>
 
 1047
 01:23:02,298 --> 01:23:03,664
@@ -4830,28 +4830,28 @@ os Tit„s ao seu comando.</i></font>
 
 1048
 01:23:03,665 --> 01:23:06,097
-<font color=#FFFF00>Parece que o cÈu est· vivo.</font>
+<font color=#FFFF00>Parece que o c√©u est√° vivo.</font>
 
 1049
 01:23:07,885 --> 01:23:09,619
-<font color=#FFFF00>… porque est·.</font>
+<font color=#FFFF00>√â porque est√°.</font>
 
 1050
 01:23:12,036 --> 01:23:13,336
-<font color=#FFFF00>L· vamos nÛs.</font>
+<font color=#FFFF00>L√° vamos n√≥s.</font>
 
 1051
 01:23:17,407 --> 01:23:18,776
-<font color=#FFFF00>RelatÛrio.</font>
+<font color=#FFFF00>Relat√≥rio.</font>
 
 1052
 01:23:18,777 --> 01:23:20,730
-<font color=#FFFF00>N„o sei nossa posiÁ„o,
+<font color=#FFFF00>N√£o sei nossa posi√ß√£o,
 o GPS caiu.</font>
 
 1053
 01:23:20,731 --> 01:23:22,440
-<font color=#FFFF00>Mas a navegaÁ„o
+<font color=#FFFF00>Mas a navega√ß√£o
 diz que estamos...</font>
 
 1054
@@ -4861,23 +4861,23 @@ do ponto de partida.</font>
 
 1055
 01:23:24,518 --> 01:23:27,130
-<font color=#FFFF00>- N„o È possÌvel.
+<font color=#FFFF00>- N√£o √© poss√≠vel.
 - Eu sabia!</font>
 
 1056
 01:23:27,131 --> 01:23:30,419
-<font color=#FFFF00>O vÛrtice era um t˙nel
+<font color=#FFFF00>O v√≥rtice era um t√∫nel
 pela Terra Oca.</font>
 
 1057
 01:23:30,420 --> 01:23:34,240
-<font color=#FFFF00>… um sistema subterr‚neo
+<font color=#FFFF00>√â um sistema subterr√¢neo
 que conecta o planeta inteiro.</font>
 
 1058
 01:23:34,241 --> 01:23:36,766
-<font color=#FFFF00>N„o importa, eu sabia
-que tinha raz„o. Falei, Chen!</font>
+<font color=#FFFF00>N√£o importa, eu sabia
+que tinha raz√£o. Falei, Chen!</font>
 
 1059
 01:23:36,767 --> 01:23:38,167
@@ -4886,7 +4886,7 @@ que tinha raz„o. Falei, Chen!</font>
 1060
 01:23:38,478 --> 01:23:40,317
 <font color=#FFFF00>Daremos um impulso
-de emergÍncia.</font>
+de emerg√™ncia.</font>
 
 1061
 01:23:50,013 --> 01:23:51,313
@@ -4894,7 +4894,7 @@ de emergÍncia.</font>
 
 1062
 01:23:52,133 --> 01:23:53,583
-<font color=#FFFF00>LanÁar sondas.</font>
+<font color=#FFFF00>Lan√ßar sondas.</font>
 
 1063
 01:24:07,646 --> 01:24:10,213
@@ -4902,7 +4902,7 @@ de emergÍncia.</font>
 
 1064
 01:24:10,837 --> 01:24:12,752
-<font color=#FFFF00>C‚mera pegando.</font>
+<font color=#FFFF00>C√¢mera pegando.</font>
 
 1065
 01:24:13,773 --> 01:24:15,506
@@ -4910,7 +4910,7 @@ de emergÍncia.</font>
 
 1066
 01:24:15,807 --> 01:24:17,307
-<font color=#FFFF00>Est·vel.</font>
+<font color=#FFFF00>Est√°vel.</font>
 
 1067
 01:24:21,346 --> 01:24:22,746
@@ -4922,21 +4922,21 @@ de emergÍncia.</font>
 
 1069
 01:24:49,129 --> 01:24:50,620
-<font color=#FFFF00>Parece egÌpcio.</font>
+<font color=#FFFF00>Parece eg√≠pcio.</font>
 
 1070
 01:24:50,621 --> 01:24:52,073
 <font color=#FFFF00>- Ou Romano.
-- N„o.</font>
+- N√£o.</font>
 
 1071
 01:24:52,074 --> 01:24:54,667
-<font color=#FFFF00>Isso È algo diferente.
-Isso È...</font>
+<font color=#FFFF00>Isso √© algo diferente.
+Isso √©...</font>
 
 1072
 01:24:54,668 --> 01:24:56,278
-<font color=#FFFF00>… muito mais antigo.</font>
+<font color=#FFFF00>√â muito mais antigo.</font>
 
 1073
 01:25:05,392 --> 01:25:06,692
@@ -4948,21 +4948,21 @@ Isso È...</font>
 
 1075
 01:25:19,595 --> 01:25:20,995
-<font color=#FFFF00><i>As histÛrias.</i></font>
+<font color=#FFFF00><i>As hist√≥rias.</i></font>
 
 1076
 01:25:21,478 --> 01:25:22,969
-<font color=#FFFF00>Elas s„o verdadeiras.</font>
+<font color=#FFFF00>Elas s√£o verdadeiras.</font>
 
 1077
 01:25:22,970 --> 01:25:25,198
 <font color=#FFFF00>Eles realmente
-s„o os primeiros deuses.</font>
+s√£o os primeiros deuses.</font>
 
 1078
 01:25:25,199 --> 01:25:29,297
 <font color=#FFFF00>Se terra e as pedras falassem,
-veja as histÛrias que contariam.</font>
+veja as hist√≥rias que contariam.</font>
 
 1079
 01:25:29,298 --> 01:25:32,321
@@ -4971,12 +4971,12 @@ algum sinal do Godzilla?</font>
 
 1080
 01:25:32,322 --> 01:25:36,133
-<font color=#FFFF00>Sim, a sonda est· captando
+<font color=#FFFF00>Sim, a sonda est√° captando
 uma bolha radioativa</font>
 
 1081
 01:25:36,134 --> 01:25:38,274
-<font color=#FFFF00>logo apÛs aquele pico.</font>
+<font color=#FFFF00>logo ap√≥s aquele pico.</font>
 
 1082
 01:25:39,017 --> 01:25:40,344
@@ -4984,22 +4984,22 @@ uma bolha radioativa</font>
 
 1083
 01:25:48,427 --> 01:25:50,019
-<font color=#FFFF00><i>AtenÁ„o, por favor.</i></font>
+<font color=#FFFF00><i>Aten√ß√£o, por favor.</i></font>
 
 1084
 01:25:50,020 --> 01:25:53,624
-<font color=#FFFF00><i>A lei marcial est· instaurada
+<font color=#FFFF00><i>A lei marcial est√° instaurada
 por ordem do presidente.</i></font>
 
 1085
 01:25:53,625 --> 01:25:57,572
-<font color=#FFFF00><i>A ·rea da grande Boston
-est· sob supervis„o militar.</i></font>
+<font color=#FFFF00><i>A √°rea da grande Boston
+est√° sob supervis√£o militar.</i></font>
 
 1086
 01:25:57,573 --> 01:26:00,904
 <font color=#FFFF00><i>Todos devem se dirigir ao centro
-de evacuaÁ„o mais prÛximo</i></font>
+de evacua√ß√£o mais pr√≥ximo</i></font>
 
 1087
 01:26:00,905 --> 01:26:02,603
@@ -5012,22 +5012,22 @@ de evacuaÁ„o mais prÛximo</i></font>
 1089
 01:26:03,905 --> 01:26:06,885
 <font color=#FFFF00><i>Todos devem se dirigir
-ao centro de evacuaÁ„o...</i></font>
+ao centro de evacua√ß√£o...</i></font>
 
 1090
 01:26:06,886 --> 01:26:09,666
 <font color=#FFFF00><i>Tempestades e outros desastres
-iniciados pelos Tit„s</i></font>
+iniciados pelos Tit√£s</i></font>
 
 1091
 01:26:09,667 --> 01:26:12,249
-<font color=#FFFF00><i>forÁaram milhıes a fugir
+<font color=#FFFF00><i>for√ßaram milh√µes a fugir
 das grandes cidades.</i></font>
 
 1092
 01:26:12,250 --> 01:26:15,911
 <font color=#FFFF00><i>Como a capital foi atingida
-por um furac„o categoria 6</i></font>
+por um furac√£o categoria 6</i></font>
 
 1093
 01:26:15,912 --> 01:26:18,233
@@ -5036,8 +5036,8 @@ completamente inundada.</i></font>
 
 1094
 01:26:18,234 --> 01:26:22,102
-<font color=#FFFF00><i>Esse È o maior desastre
-na histÛria da humanidade.</i></font>
+<font color=#FFFF00><i>Esse √© o maior desastre
+na hist√≥ria da humanidade.</i></font>
 
 1095
 01:26:22,103 --> 01:26:25,205
@@ -5047,35 +5047,35 @@ e pessoas ao redor do mundo</i></font>
 1096
 01:26:25,206 --> 01:26:27,157
 <font color=#FFFF00><i>vasculham escombros
-de casas destruÌdas</i></font>
+de casas destru√≠das</i></font>
 
 1097
 01:26:27,158 --> 01:26:29,454
-<font color=#FFFF00><i>na esperanÁa de encontrar
+<font color=#FFFF00><i>na esperan√ßa de encontrar
 entes desaparecidos.</i></font>
 
 1098
 01:26:29,455 --> 01:26:33,290
-<font color=#FFFF00><i>Embora isso parta o coraÁ„o,
-infelizmente, n„o È incomum.</i></font>
+<font color=#FFFF00><i>Embora isso parta o cora√ß√£o,
+infelizmente, n√£o √© incomum.</i></font>
 
 1099
 01:26:33,291 --> 01:26:36,294
 <font color=#FFFF00><i>Cidades de todo o mundo
-ruÌram em decorrÍncia</i></font>
+ru√≠ram em decorr√™ncia</i></font>
 
 1100
 01:26:36,295 --> 01:26:39,585
 <font color=#FFFF00><i>do que muitos chamam
-"A Ascens„o dos Tit„s".</i></font>
+"A Ascens√£o dos Tit√£s".</i></font>
 
 1101
 01:26:44,901 --> 01:26:47,059
-<font color=#FFFF00>Acho que deverÌamos parar.</font>
+<font color=#FFFF00>Acho que dever√≠amos parar.</font>
 
 1102
 01:26:47,060 --> 01:26:48,360
-<font color=#FFFF00>Por quÍ?</font>
+<font color=#FFFF00>Por qu√™?</font>
 
 1103
 01:26:48,361 --> 01:26:50,599
@@ -5084,7 +5084,7 @@ ter filhos um dia.</font>
 
 1104
 01:26:50,600 --> 01:26:53,462
-<font color=#FFFF00>De preferÍncia,
+<font color=#FFFF00>De prefer√™ncia,
 sem nadadeiras.</font>
 
 1105
@@ -5094,13 +5094,13 @@ fique flutuando.</font>
 
 1106
 01:27:07,437 --> 01:27:09,886
-<font color=#FFFF00>Captei oxigÍnio,
-diÛxido de carbono e metano.</font>
+<font color=#FFFF00>Captei oxig√™nio,
+di√≥xido de carbono e metano.</font>
 
 1107
 01:27:09,887 --> 01:27:12,450
 <font color=#FFFF00>Parece que existe
-um bols„o de ar l· dentro.</font>
+um bols√£o de ar l√° dentro.</font>
 
 1108
 01:27:25,330 --> 01:27:27,538
@@ -5110,19 +5110,19 @@ um bols„o de ar l· dentro.</font>
 1109
 01:27:29,115 --> 01:27:31,756
 <font color=#FFFF00>- E boa noite, Gracie.
-- Mostre a ˙ltima imagem.</font>
+- Mostre a √∫ltima imagem.</font>
 
 1110
 01:27:32,320 --> 01:27:34,787
-<font color=#FFFF00>Ali, a fonte da radiaÁ„o.</font>
+<font color=#FFFF00>Ali, a fonte da radia√ß√£o.</font>
 
 1111
 01:27:34,788 --> 01:27:36,723
-<font color=#FFFF00>Por isso ele voltou para c·.</font>
+<font color=#FFFF00>Por isso ele voltou para c√°.</font>
 
 1112
 01:27:36,724 --> 01:27:38,058
-<font color=#FFFF00>Est· se alimentando.</font>
+<font color=#FFFF00>Est√° se alimentando.</font>
 
 1113
 01:27:38,579 --> 01:27:39,879
@@ -5130,7 +5130,7 @@ um bols„o de ar l· dentro.</font>
 
 1114
 01:27:41,189 --> 01:27:43,257
-<font color=#FFFF00>Essa È a casa dele.</font>
+<font color=#FFFF00>Essa √© a casa dele.</font>
 
 1115
 01:27:44,492 --> 01:27:47,242
@@ -5147,17 +5147,17 @@ por tanto tempo.</font>
 
 1118
 01:27:50,672 --> 01:27:52,823
-<font color=#FFFF00>- … incrÌvel.
-- Ent„o...</font>
+<font color=#FFFF00>- √â incr√≠vel.
+- Ent√£o...</font>
 
 1119
 01:27:52,824 --> 01:27:55,029
-<font color=#FFFF00>ele j· se arranjou, certo?</font>
+<font color=#FFFF00>ele j√° se arranjou, certo?</font>
 
 1120
 01:27:55,030 --> 01:27:57,473
-<font color=#FFFF00>- Ele sÛ precisa de uma soneca.
-- N„o!</font>
+<font color=#FFFF00>- Ele s√≥ precisa de uma soneca.
+- N√£o!</font>
 
 1121
 01:27:57,474 --> 01:27:59,279
@@ -5170,7 +5170,7 @@ por tanto tempo.</font>
 
 1123
 01:28:02,183 --> 01:28:04,401
-<font color=#FFFF00>Vamos lanÁar
+<font color=#FFFF00>Vamos lan√ßar
 um torpedo nuclear</font>
 
 1124
@@ -5180,12 +5180,12 @@ um monstro gigante.</font>
 
 1125
 01:28:06,949 --> 01:28:10,667
-<font color=#FFFF00>N„o È como fazer chupeta
+<font color=#FFFF00>N√£o √© como fazer chupeta
 em um carro.</font>
 
 1126
 01:28:10,668 --> 01:28:12,038
-<font color=#FFFF00>Temos outra complicaÁ„o.</font>
+<font color=#FFFF00>Temos outra complica√ß√£o.</font>
 
 1127
 01:28:12,039 --> 01:28:14,826
@@ -5194,17 +5194,17 @@ foram danificados no acidente.</font>
 
 1128
 01:28:14,827 --> 01:28:17,080
-<font color=#FFFF00>- N„o podemos lanÁar.
+<font color=#FFFF00>- N√£o podemos lan√ßar.
 - Pode ser concertado?</font>
 
 1129
 01:28:17,445 --> 01:28:18,809
-<font color=#FFFF00>Acredito que n„o.</font>
+<font color=#FFFF00>Acredito que n√£o.</font>
 
 1130
 01:28:19,310 --> 01:28:22,474
-<font color=#FFFF00>Certo. E se formos l· dentro,
-colocarmos um cronÙmetro</font>
+<font color=#FFFF00>Certo. E se formos l√° dentro,
+colocarmos um cron√¥metro</font>
 
 1131
 01:28:22,475 --> 01:28:24,392
@@ -5214,11 +5214,11 @@ a ogiva manualmente?</font>
 1132
 01:28:24,393 --> 01:28:26,705
 <font color=#FFFF00>Sem chance!
-Se o calor n„o te matar,</font>
+Se o calor n√£o te matar,</font>
 
 1133
 01:28:26,706 --> 01:28:28,570
-<font color=#FFFF00>a radiaÁ„o ir·.</font>
+<font color=#FFFF00>a radia√ß√£o ir√°.</font>
 
 1134
 01:28:31,621 --> 01:28:33,015
@@ -5234,7 +5234,7 @@ Se o calor n„o te matar,</font>
 
 1137
 01:28:36,286 --> 01:28:38,030
-<font color=#FFFF00>N„o temos tempo para debater.</font>
+<font color=#FFFF00>N√£o temos tempo para debater.</font>
 
 1138
 01:28:39,200 --> 01:28:40,500
@@ -5242,22 +5242,22 @@ Se o calor n„o te matar,</font>
 
 1139
 01:28:59,099 --> 01:29:01,568
-<font color=#FFFF00>Argo! Estamos sem muniÁ„o
-e sem combustÌvel!</font>
+<font color=#FFFF00>Argo! Estamos sem muni√ß√£o
+e sem combust√≠vel!</font>
 
 1140
 01:29:01,569 --> 01:29:03,491
-<font color=#FFFF00><i>- N„o suportaremos mais!</i>
+<font color=#FFFF00><i>- N√£o suportaremos mais!</i>
 - Tudo bem...</font>
 
 1141
 01:29:03,492 --> 01:29:05,416
-<font color=#FFFF00>Segure-os o m·ximo que puder!</font>
+<font color=#FFFF00>Segure-os o m√°ximo que puder!</font>
 
 1142
 01:29:05,417 --> 01:29:07,956
 <font color=#FFFF00>Coronel, veja isso.
-Todos os Tit„s pararam.</font>
+Todos os Tit√£s pararam.</font>
 
 1143
 01:29:13,039 --> 01:29:15,321
@@ -5271,21 +5271,21 @@ cessaram por hora.</i></font>
 1145
 01:29:25,485 --> 01:29:29,666
 <font color=#FFFF00><i>As criaturas de destrutivas
-ficaram dÛceis em minutos.</i></font>
+ficaram d√≥ceis em minutos.</i></font>
 
 1146
 01:29:29,667 --> 01:29:31,867
-<font color=#FFFF00><i>NinguÈm sabe realmente
-como ou por quÍ,</i></font>
+<font color=#FFFF00><i>Ningu√©m sabe realmente
+como ou por qu√™,</i></font>
 
 1147
 01:29:31,868 --> 01:29:35,891
-<font color=#FFFF00><i>tudo indica È algo simult‚neo
+<font color=#FFFF00><i>tudo indica √© algo simult√¢neo
 no mundo todo.</i></font>
 
 1148
 01:29:38,207 --> 01:29:39,507
-<font color=#FFFF00>O que est· acontecendo?</font>
+<font color=#FFFF00>O que est√° acontecendo?</font>
 
 1149
 01:29:39,881 --> 01:29:41,181
@@ -5293,7 +5293,7 @@ no mundo todo.</i></font>
 
 1150
 01:29:42,301 --> 01:29:43,601
-<font color=#FFFF00>O quÍ?</font>
+<font color=#FFFF00>O qu√™?</font>
 
 1151
 01:29:44,214 --> 01:29:46,510
@@ -5311,17 +5311,17 @@ ter feito isso.</font>
 1154
 01:30:06,663 --> 01:30:08,438
 <font color=#FFFF00>No primeiro contato,
-vocÍ comeÁar·</font>
+voc√™ come√ßar√°</font>
 
 1155
 01:30:08,439 --> 01:30:10,311
-<font color=#FFFF00>perdendo sua vis„o
+<font color=#FFFF00>perdendo sua vis√£o
 de longo alcance.</font>
 
 1156
 01:30:10,312 --> 01:30:13,013
 <font color=#FFFF00>Quando emergir,
-habilidades motoras falhar„o,</font>
+habilidades motoras falhar√£o,</font>
 
 1157
 01:30:13,014 --> 01:30:16,510
@@ -5330,7 +5330,7 @@ no tanque, o que...</font>
 
 1158
 01:30:16,511 --> 01:30:19,244
-<font color=#FFFF00>ajudar· a deix·-lo est·vel
+<font color=#FFFF00>ajudar√° a deix√°-lo est√°vel
 por mais tempo.</font>
 
 1159
@@ -5343,7 +5343,7 @@ por mais tempo.</font>
 
 1161
 01:30:43,809 --> 01:30:45,109
-<font color=#FFFF00>Minhas anotaÁıes.</font>
+<font color=#FFFF00>Minhas anota√ß√µes.</font>
 
 1162
 01:30:47,916 --> 01:30:49,216
@@ -5351,17 +5351,17 @@ por mais tempo.</font>
 
 1163
 01:30:51,432 --> 01:30:54,335
-<font color=#FFFF00>Ele lutou por nÛs,
-morreu por nÛs.</font>
+<font color=#FFFF00>Ele lutou por n√≥s,
+morreu por n√≥s.</font>
 
 1164
 01:30:54,336 --> 01:30:57,846
-<font color=#FFFF00>Ele n„o È apenas a prova
-que coexistÍncia È possÌvel.</font>
+<font color=#FFFF00>Ele n√£o √© apenas a prova
+que coexist√™ncia √© poss√≠vel.</font>
 
 1165
 01:30:59,999 --> 01:31:01,514
-<font color=#FFFF00>Ele È...</font>
+<font color=#FFFF00>Ele √©...</font>
 
 1166
 01:31:01,515 --> 01:31:03,015
@@ -5378,7 +5378,7 @@ nos tire daqui logo.</font>
 
 1169
 01:32:14,449 --> 01:32:15,749
-<font color=#FFFF00>Sim, Capit„o.</font>
+<font color=#FFFF00>Sim, Capit√£o.</font>
 
 1170
 01:32:18,802 --> 01:32:20,102
@@ -5407,31 +5407,31 @@ ao Argo.</font>
 
 1176
 01:35:18,135 --> 01:35:19,435
-<font color=#FFFF00>Sim, Capit„o.</font>
+<font color=#FFFF00>Sim, Capit√£o.</font>
 
 1177
 01:35:37,558 --> 01:35:38,949
-<font color=#FFFF00>VÍ alguma coisa?</font>
+<font color=#FFFF00>V√™ alguma coisa?</font>
 
 1178
 01:36:46,551 --> 01:36:48,001
-<font color=#FFFF00>NinguÈm se mexe!</font>
+<font color=#FFFF00>Ningu√©m se mexe!</font>
 
 1179
 01:37:25,704 --> 01:37:27,004
-<font color=#FFFF00>Est· tudo bem?</font>
+<font color=#FFFF00>Est√° tudo bem?</font>
 
 1180
 01:37:27,554 --> 01:37:29,054
-<font color=#FFFF00>Sei como encontr·-lo.</font>
+<font color=#FFFF00>Sei como encontr√°-lo.</font>
 
 1181
 01:37:34,780 --> 01:37:36,508
-<font color=#FFFF00>Sei como encontr·-lo!</font>
+<font color=#FFFF00>Sei como encontr√°-lo!</font>
 
 1182
 01:37:38,451 --> 01:37:40,681
-<font color=#FFFF00>Vamos deix·-lo orgulhoso,
+<font color=#FFFF00>Vamos deix√°-lo orgulhoso,
 sem estragar tudo.</font>
 
 1183
@@ -5441,49 +5441,49 @@ sem estragar tudo.</font>
 
 1184
 01:37:48,219 --> 01:37:49,904
-<font color=#FFFF00>Sam, o que est· acontecendo?</font>
+<font color=#FFFF00>Sam, o que est√° acontecendo?</font>
 
 1185
 01:37:49,905 --> 01:37:52,780
 <font color=#FFFF00>Achamos que Emma
-ativou o Orca prÛximo de Boston.</font>
+ativou o Orca pr√≥ximo de Boston.</font>
 
 1186
 01:37:52,781 --> 01:37:55,621
 <font color=#FFFF00>Por isso, <i>Ghidorah</i> e Godzilla
-est„o indo para l·.</font>
+est√£o indo para l√°.</font>
 
 1187
 01:37:55,622 --> 01:37:57,779
-<font color=#FFFF00>Mas n„o conseguimos
-a localizaÁ„o exata</font>
+<font color=#FFFF00>Mas n√£o conseguimos
+a localiza√ß√£o exata</font>
 
 1188
 01:37:57,780 --> 01:37:59,760
-<font color=#FFFF00>sem a peÁa faltante
+<font color=#FFFF00>sem a pe√ßa faltante
 do sinal do Orca.</font>
 
 1189
 01:37:59,761 --> 01:38:01,199
-<font color=#FFFF00>Tenho a peÁa que falta.</font>
+<font color=#FFFF00>Tenho a pe√ßa que falta.</font>
 
 1190
 01:38:02,296 --> 01:38:03,683
-<font color=#FFFF00>… o Godzilla, certo?</font>
+<font color=#FFFF00>√â o Godzilla, certo?</font>
 
 1191
 01:38:03,684 --> 01:38:06,210
-<font color=#FFFF00>- J· tentamos...
-- N„o È o Godzilla.</font>
+<font color=#FFFF00>- J√° tentamos...
+- N√£o √© o Godzilla.</font>
 
 1192
 01:38:06,211 --> 01:38:08,193
-<font color=#FFFF00>- Somos nÛs.
-- Como assim "nÛs"?</font>
+<font color=#FFFF00>- Somos n√≥s.
+- Como assim "n√≥s"?</font>
 
 1193
 01:38:08,194 --> 01:38:10,914
-<font color=#FFFF00>Emma uniu as bioac˙sticas
+<font color=#FFFF00>Emma uniu as bioac√∫sticas
 do Godzilla e dos humanos.</font>
 
 1194
@@ -5494,16 +5494,16 @@ o sinal do Orca.</font>
 1195
 01:38:12,853 --> 01:38:14,913
 <font color=#FFFF00>As criaturas acham
-que È um predador alfa.</font>
+que √© um predador alfa.</font>
 
 1196
 01:38:14,914 --> 01:38:18,214
 <font color=#FFFF00>Faz sentido. Somos vorazes
-assassinos carnÌvoros.</font>
+assassinos carn√≠voros.</font>
 
 1197
 01:38:18,215 --> 01:38:20,088
-<font color=#FFFF00>Isso È muito poÈtico!
+<font color=#FFFF00>Isso √© muito po√©tico!
 Mas e agora?</font>
 
 1198
@@ -5518,7 +5518,7 @@ bem aqui?</font>
 
 1200
 01:38:25,478 --> 01:38:27,707
-<font color=#FFFF00>Godzilla trar· o equilÌbrio.</font>
+<font color=#FFFF00>Godzilla trar√° o equil√≠brio.</font>
 
 1201
 01:38:27,708 --> 01:38:29,023
@@ -5526,7 +5526,7 @@ bem aqui?</font>
 
 1202
 01:38:29,024 --> 01:38:31,880
-<font color=#FFFF00>Um pouco da aÁ„o de Serizawa.</font>
+<font color=#FFFF00>Um pouco da a√ß√£o de Serizawa.</font>
 
 1203
 01:38:31,881 --> 01:38:34,082
@@ -5535,36 +5535,36 @@ quando ele falava isso.</font>
 
 1204
 01:38:34,083 --> 01:38:36,570
-<font color=#FFFF00>N„o, dessa vez
-lutaremos tambÈm.</font>
+<font color=#FFFF00>N√£o, dessa vez
+lutaremos tamb√©m.</font>
 
 1205
 01:38:41,061 --> 01:38:42,461
-<font color=#FFFF00>O que acha que est· fazendo?</font>
+<font color=#FFFF00>O que acha que est√° fazendo?</font>
 
 1206
 01:38:42,462 --> 01:38:44,367
-<font color=#FFFF00>N„o h· tempo para discutir,
+<font color=#FFFF00>N√£o h√° tempo para discutir,
 Jonah.</font>
 
 1207
 01:38:44,368 --> 01:38:47,279
 <font color=#FFFF00>- Trarei a Maddie de volta.
-- N„o com os meus homens.</font>
+- N√£o com os meus homens.</font>
 
 1208
 01:38:47,646 --> 01:38:50,321
-<font color=#FFFF00>Emma, vocÍ falou que isso
+<font color=#FFFF00>Emma, voc√™ falou que isso
 era para um bem maior,</font>
 
 1209
 01:38:50,322 --> 01:38:52,942
 <font color=#FFFF00>e o planeta merecia
-um novo comeÁo.</font>
+um novo come√ßo.</font>
 
 1210
 01:38:52,943 --> 01:38:55,246
-<font color=#FFFF00>Mas est· disposta a arriscar
+<font color=#FFFF00>Mas est√° disposta a arriscar
 nossas vidas</font>
 
 1211
@@ -5573,25 +5573,25 @@ nossas vidas</font>
 
 1212
 01:38:56,768 --> 01:38:59,154
-<font color=#FFFF00>- O Orca est·...
-- O Orca n„o importa mais.</font>
+<font color=#FFFF00>- O Orca est√°...
+- O Orca n√£o importa mais.</font>
 
 1213
 01:38:59,155 --> 01:39:02,120
-<font color=#FFFF00>O homem n„o pode controlar
+<font color=#FFFF00>O homem n√£o pode controlar
 as leis da natureza.</font>
 
 1214
 01:39:03,296 --> 01:39:04,901
-<font color=#FFFF00>E nem vocÍ.</font>
+<font color=#FFFF00>E nem voc√™.</font>
 
 1215
 01:39:14,622 --> 01:39:16,701
-<font color=#FFFF00>J· perdi um filho.</font>
+<font color=#FFFF00>J√° perdi um filho.</font>
 
 1216
 01:39:17,287 --> 01:39:19,044
-<font color=#FFFF00>N„o vou perder outro.</font>
+<font color=#FFFF00>N√£o vou perder outro.</font>
 
 1217
 01:39:19,741 --> 01:39:21,405
@@ -5611,13 +5611,13 @@ as leis da natureza.</font>
 
 1221
 01:43:00,924 --> 01:43:03,795
-<font color=#FFFF00>Certo, temos a ˙ltima
-localizaÁ„o da Orca.</font>
+<font color=#FFFF00>Certo, temos a √∫ltima
+localiza√ß√£o da Orca.</font>
 
 1222
 01:43:03,796 --> 01:43:05,281
 <font color=#FFFF00>Parque Fenway,
-logo ‡ frente.</font>
+logo √† frente.</font>
 
 1223
 01:43:05,282 --> 01:43:07,722
@@ -5630,8 +5630,8 @@ para distrair o Ghidorah.</i></font>
 
 1225
 01:43:10,806 --> 01:43:13,094
-<font color=#FFFF00>Coronel, todo o esquadr„o
-tÍm o alvo na mira.</font>
+<font color=#FFFF00>Coronel, todo o esquadr√£o
+t√™m o alvo na mira.</font>
 
 1226
 01:43:13,937 --> 01:43:15,591
@@ -5639,12 +5639,12 @@ tÍm o alvo na mira.</font>
 
 1227
 01:43:50,287 --> 01:43:53,007
-<font color=#FFFF00>Impress„o minha,
+<font color=#FFFF00>Impress√£o minha,
 ou ele tem malhado?</font>
 
 1228
 01:43:53,008 --> 01:43:54,398
-<font color=#FFFF00>Est· brincando?</font>
+<font color=#FFFF00>Est√° brincando?</font>
 
 1229
 01:43:54,399 --> 01:43:56,972
@@ -5653,12 +5653,12 @@ aquele lagarto.</font>
 
 1230
 01:43:56,973 --> 01:43:58,273
-<font color=#FFFF00>Tem toda raz„o.</font>
+<font color=#FFFF00>Tem toda raz√£o.</font>
 
 1231
 01:43:59,167 --> 01:44:02,799
-<font color=#FFFF00>Cara, os nÌveis de radiaÁ„o
-do Godzilla est„o no teto.</font>
+<font color=#FFFF00>Cara, os n√≠veis de radia√ß√£o
+do Godzilla est√£o no teto.</font>
 
 1232
 01:44:02,800 --> 01:44:05,698
@@ -5676,8 +5676,8 @@ que em 12 minutos</font>
 
 1235
 01:44:10,312 --> 01:44:12,929
-<font color=#FFFF00>ser· um pÈssimo dia
-para ser f„ dos Red Sox.</font>
+<font color=#FFFF00>ser√° um p√©ssimo dia
+para ser f√£ dos Red Sox.</font>
 
 1236
 01:44:13,910 --> 01:44:15,927
@@ -5687,7 +5687,7 @@ Precisam achar o Orca,</font>
 1237
 01:44:15,928 --> 01:44:17,809
 <font color=#FFFF00>pegar a Madison
-e saÌrem daÌ!</font>
+e sa√≠rem da√≠!</font>
 
 1238
 01:44:17,810 --> 01:44:20,591
@@ -5696,7 +5696,7 @@ ao Godzilla deu certo demais.</i></font>
 
 1239
 01:44:20,592 --> 01:44:23,245
-<font color=#FFFF00><i>Ele est· prestes a explodir
+<font color=#FFFF00><i>Ele est√° prestes a explodir
 como uma bomba-A.</i></font>
 
 1240
@@ -5706,7 +5706,7 @@ como uma bomba-A.</i></font>
 
 1241
 01:44:46,329 --> 01:44:48,108
-<font color=#FFFF00>V„o! V„o!</font>
+<font color=#FFFF00>V√£o! V√£o!</font>
 
 1242
 01:44:48,815 --> 01:44:50,729
@@ -5728,7 +5728,7 @@ Aqui!</i></font>
 
 1246
 01:45:14,084 --> 01:45:15,384
-<font color=#FFFF00>VocÍ est· bem?</font>
+<font color=#FFFF00>Voc√™ est√° bem?</font>
 
 1247
 01:45:16,084 --> 01:45:17,769
@@ -5744,7 +5744,7 @@ Aqui!</i></font>
 
 1250
 01:45:27,481 --> 01:45:28,965
-<font color=#FFFF00>Ela n„o est· aqui!</font>
+<font color=#FFFF00>Ela n√£o est√° aqui!</font>
 
 1251
 01:45:28,966 --> 01:45:31,353
@@ -5757,26 +5757,26 @@ Aqui!</i></font>
 
 1253
 01:46:50,656 --> 01:46:52,308
-<font color=#FFFF00>Est· vindo!</font>
+<font color=#FFFF00>Est√° vindo!</font>
 
 1254
 01:46:54,691 --> 01:46:57,569
 <font color=#FFFF00>- Entrem!
-- Griffin, vocÍ est· bem?</font>
+- Griffin, voc√™ est√° bem?</font>
 
 1255
 01:46:57,981 --> 01:46:59,553
-<font color=#FFFF00>Martinez, vamos lev·-la!</font>
+<font color=#FFFF00>Martinez, vamos lev√°-la!</font>
 
 1256
 01:47:08,273 --> 01:47:09,736
-<font color=#FFFF00>- CadÍ a Madison?
-- N„o sei!</font>
+<font color=#FFFF00>- Cad√™ a Madison?
+- N√£o sei!</font>
 
 1257
 01:47:09,737 --> 01:47:12,231
-<font color=#FFFF00>- Achei que estava l·!
-- Mas n„o est·!</font>
+<font color=#FFFF00>- Achei que estava l√°!
+- Mas n√£o est√°!</font>
 
 1258
 01:47:14,473 --> 01:47:15,774
@@ -5793,23 +5793,23 @@ Aqui!</i></font>
 
 1261
 01:47:23,304 --> 01:47:25,069
-<font color=#FFFF00>Tomar· que seja
-t„o boa em ach·-la</font>
+<font color=#FFFF00>Tomar√° que seja
+t√£o boa em ach√°-la</font>
 
 1262
 01:47:25,070 --> 01:47:27,554
-<font color=#FFFF00>- como em perdÍ-la.
-- N„o perdi, ela fugiu!</font>
+<font color=#FFFF00>- como em perd√™-la.
+- N√£o perdi, ela fugiu!</font>
 
 1263
 01:47:27,555 --> 01:47:29,790
-<font color=#FFFF00>- Por que ser·, nÈ?
-- N„o a culpo.</font>
+<font color=#FFFF00>- Por que ser√°, n√©?
+- N√£o a culpo.</font>
 
 1264
 01:47:29,791 --> 01:47:33,182
 <font color=#FFFF00>Se eu tivesse pais assim,
-tambÈm fugiria de casa!</font>
+tamb√©m fugiria de casa!</font>
 
 1265
 01:47:36,141 --> 01:47:37,442
@@ -5818,7 +5818,7 @@ tambÈm fugiria de casa!</font>
 1266
 01:47:37,443 --> 01:47:41,387
 <font color=#FFFF00>Se eu tivesse pais assim,
-tambÈm fugiria de casa!</font>
+tamb√©m fugiria de casa!</font>
 
 1267
 01:47:42,191 --> 01:47:43,542
@@ -5827,13 +5827,13 @@ tambÈm fugiria de casa!</font>
 
 1268
 01:48:56,017 --> 01:48:58,843
-<font color=#FFFF00>A radiaÁ„o do Godzilla
-est· em nÌvel crÌtico.</font>
+<font color=#FFFF00>A radia√ß√£o do Godzilla
+est√° em n√≠vel cr√≠tico.</font>
 
 1269
 01:48:58,844 --> 01:49:00,781
 <font color=#FFFF00>Seis minutos
-atÈ ele explodir!</font>
+at√© ele explodir!</font>
 
 1270
 01:49:00,782 --> 01:49:02,968
@@ -5872,11 +5872,11 @@ Martinez!</font>
 1278
 01:50:35,451 --> 01:50:36,843
 <font color=#FFFF00>Conseguimos.
-No trÍs.</font>
+No tr√™s.</font>
 
 1279
 01:50:36,844 --> 01:50:38,754
-<font color=#FFFF00>Um, dois, trÍs!</font>
+<font color=#FFFF00>Um, dois, tr√™s!</font>
 
 1280
 01:50:40,862 --> 01:50:42,389
@@ -5888,12 +5888,12 @@ No trÍs.</font>
 
 1282
 01:51:01,220 --> 01:51:03,032
-<font color=#FFFF00>Ela est· respirando?</font>
+<font color=#FFFF00>Ela est√° respirando?</font>
 
 1283
 01:51:12,873 --> 01:51:14,932
 <font color=#FFFF00>- Maddie.
-- M„e.</font>
+- M√£e.</font>
 
 1284
 01:51:15,650 --> 01:51:16,950
@@ -5901,7 +5901,7 @@ No trÍs.</font>
 
 1285
 01:51:18,053 --> 01:51:20,143
-<font color=#FFFF00>- M„e.
+<font color=#FFFF00>- M√£e.
 - Estamos aqui.</font>
 
 1286
@@ -5912,12 +5912,12 @@ em dois minutos!</font>
 1287
 01:53:15,403 --> 01:53:18,324
 <font color=#FFFF00>- Temos que nos apressar.
-- Para fazer o quÍ?</font>
+- Para fazer o qu√™?</font>
 
 1288
 01:53:21,615 --> 01:53:24,286
 <font color=#FFFF00>- Tem certeza disso?
-- … o ˙nico jeito se salv·-lo.</font>
+- √â o √∫nico jeito se salv√°-lo.</font>
 
 1289
 01:53:24,287 --> 01:53:27,632
@@ -5931,17 +5931,17 @@ se recuperar.</font>
 
 1291
 01:53:40,677 --> 01:53:42,958
-<font color=#FFFF00>- J· viu o que isso pode fazer.
+<font color=#FFFF00>- J√° viu o que isso pode fazer.
 - Eu sei.</font>
 
 1292
 01:53:42,959 --> 01:53:45,292
-<font color=#FFFF00>Ser· difÌcil,
+<font color=#FFFF00>Ser√° dif√≠cil,
 mas temos que tentar.</font>
 
 1293
 01:53:52,679 --> 01:53:54,192
-<font color=#FFFF00>- Est· pronta?
+<font color=#FFFF00>- Est√° pronta?
 - Estou.</font>
 
 1294
@@ -5951,15 +5951,15 @@ Um, dois...</font>
 
 1295
 01:53:56,656 --> 01:53:57,956
-<font color=#FFFF00>TrÍs.</font>
+<font color=#FFFF00>Tr√™s.</font>
 
 1296
 01:54:01,702 --> 01:54:03,316
-<font color=#FFFF00>… isso.</font>
+<font color=#FFFF00>√â isso.</font>
 
 1297
 01:54:03,317 --> 01:54:04,617
-<font color=#FFFF00>… isso!</font>
+<font color=#FFFF00>√â isso!</font>
 
 1298
 01:54:13,734 --> 01:54:15,326
@@ -5971,13 +5971,13 @@ Um, dois...</font>
 
 1300
 01:54:17,388 --> 01:54:19,205
-<font color=#FFFF00>- Tenho que ativ·-lo.
-- O quÍ?</font>
+<font color=#FFFF00>- Tenho que ativ√°-lo.
+- O qu√™?</font>
 
 1301
 01:54:19,206 --> 01:54:21,096
-<font color=#FFFF00>Estarei atr·s de vocÍs.
-V„o.</font>
+<font color=#FFFF00>Estarei atr√°s de voc√™s.
+V√£o.</font>
 
 1302
 01:54:33,832 --> 01:54:35,132
@@ -5985,21 +5985,21 @@ V„o.</font>
 
 1303
 01:54:35,629 --> 01:54:36,929
-<font color=#FFFF00>M„e!</font>
+<font color=#FFFF00>M√£e!</font>
 
 1304
 01:54:37,917 --> 01:54:40,518
-<font color=#FFFF00>- M„e!
+<font color=#FFFF00>- M√£e!
 - Vamos, Maddie!</font>
 
 1305
 01:54:40,519 --> 01:54:42,414
-<font color=#FFFF00>V„o, v„o!</font>
+<font color=#FFFF00>V√£o, v√£o!</font>
 
 1306
 01:54:45,555 --> 01:54:48,064
 <font color=#FFFF00>Maddie, sente dor em
-outro lugar alÈm da perna?</font>
+outro lugar al√©m da perna?</font>
 
 1307
 01:54:54,848 --> 01:54:57,562
@@ -6012,11 +6012,11 @@ outro lugar alÈm da perna?</font>
 
 1309
 01:55:08,882 --> 01:55:10,182
-<font color=#FFFF00>M„e!</font>
+<font color=#FFFF00>M√£e!</font>
 
 1310
 01:55:19,057 --> 01:55:20,394
-<font color=#FFFF00>M„e.</font>
+<font color=#FFFF00>M√£e.</font>
 
 1311
 01:55:21,095 --> 01:55:22,542
@@ -6024,24 +6024,24 @@ outro lugar alÈm da perna?</font>
 
 1312
 01:55:23,188 --> 01:55:24,709
-<font color=#FFFF00>N„o.</font>
+<font color=#FFFF00>N√£o.</font>
 
 1313
 01:55:26,308 --> 01:55:29,491
-<font color=#FFFF00>- N„o! M„e!
+<font color=#FFFF00>- N√£o! M√£e!
 - Emma!</font>
 
 1314
 01:56:07,005 --> 01:56:08,347
-<font color=#FFFF00>N„o!</font>
+<font color=#FFFF00>N√£o!</font>
 
 1315
 01:56:09,827 --> 01:56:11,426
-<font color=#FFFF00>N„o!</font>
+<font color=#FFFF00>N√£o!</font>
 
 1316
 01:56:28,808 --> 01:56:30,336
-<font color=#FFFF00>M„e!</font>
+<font color=#FFFF00>M√£e!</font>
 
 1317
 01:56:57,404 --> 01:56:58,954
@@ -6058,7 +6058,7 @@ outro lugar alÈm da perna?</font>
 1320
 01:59:21,381 --> 01:59:23,352
 <font color=#FFFF00>Que bom que ele
-est· do nosso lado.</font>
+est√° do nosso lado.</font>
 
 1321
 01:59:23,701 --> 01:59:25,001
@@ -6079,22 +6079,22 @@ REI DOS MONSTROS</b></font>
 
 1325
 02:00:44,838 --> 02:00:46,938
-<font color=#FFFF00>Tem cena apÛs os crÈditos</font>
+<font color=#FFFF00>Tem cena ap√≥s os cr√©ditos</font>
 
 1326
 02:00:49,702 --> 02:00:51,555
-<font color=#FFFF00>TIT√S RETORNAM
+<font color=#FFFF00>TIT√ÉS RETORNAM
 AOS AMBIENTES NATURAIS</font>
 
 1327
 02:00:54,954 --> 02:00:57,339
-<font color=#FFFF00>MONARCA LIBERA AO P⁄BLICO
-ESTUDO SOBRE OS TIT√S</font>
+<font color=#FFFF00>MONARCA LIBERA AO P√öBLICO
+ESTUDO SOBRE OS TIT√ÉS</font>
 
 1328
 02:01:03,097 --> 02:01:05,176
 <font color=#FFFF00>RODAN ANINHA-SE
-EM VULC√O AO NORTE DE FIJI</font>
+EM VULC√ÉO AO NORTE DE FIJI</font>
 
 1329
 02:01:05,177 --> 02:01:08,290
@@ -6104,7 +6104,7 @@ FLORESCE NO DESERTO DO SAARA</font>
 1330
 02:01:10,898 --> 02:01:12,743
 <font color=#FFFF00>MONARCA
-D…CADAS DE SEGREDOS REVELADOS</font>
+D√âCADAS DE SEGREDOS REVELADOS</font>
 
 1331
 02:01:14,285 --> 02:01:16,086
@@ -6112,38 +6112,38 @@ D…CADAS DE SEGREDOS REVELADOS</font>
 
 1332
 02:01:17,296 --> 02:01:19,569
-<font color=#FFFF00>PASSAGEM DE GODZILLA PELO PACÕFICO
-RESTAURA RECIFES E POPULA«√O DE PEIXES</font>
+<font color=#FFFF00>PASSAGEM DE GODZILLA PELO PAC√çFICO
+RESTAURA RECIFES E POPULA√á√ÉO DE PEIXES</font>
 
 1333
 02:01:26,585 --> 02:01:28,284
 <font color=#FFFF00>MONARCA CONFIRMA ANTIGA ORIGEM
-GREGA AO TIT√ CONHECIDO POR "CILA"</font>
+GREGA AO TIT√É CONHECIDO POR "CILA"</font>
 
 1334
 02:01:28,285 --> 02:01:30,554
-<font color=#FFFF00>GODZILLA MANT…M TIT√S
+<font color=#FFFF00>GODZILLA MANT√âM TIT√ÉS
 SOB CONTROLE</font>
 
 1335
 02:01:40,298 --> 02:01:42,605
-<font color=#FFFF00>BEHEMOTH RESTAURA ¡REAS
-DESMATADAS DA AMAZ‘NIA</font>
+<font color=#FFFF00>BEHEMOTH RESTAURA √ÅREAS
+DESMATADAS DA AMAZ√îNIA</font>
 
 1336
 02:01:42,606 --> 02:01:44,058
-<font color=#FFFF00>CILA REDUZ DEGELO NA ANT¡RTICA,
-ESTABILIZANDO NÕVEIS DO MAR</font>
+<font color=#FFFF00>CILA REDUZ DEGELO NA ANT√ÅRTICA,
+ESTABILIZANDO N√çVEIS DO MAR</font>
 
 1337
 02:01:44,059 --> 02:01:45,917
-<font color=#FFFF00>ECOSSISTEMAS MELHORAM E 14 ESP…CIES
-DEIXAM LISTA DE AMEA«ADOS</font>
+<font color=#FFFF00>ECOSSISTEMAS MELHORAM E 14 ESP√âCIES
+DEIXAM LISTA DE AMEA√áADOS</font>
 
 1338
 02:01:45,918 --> 02:01:47,917
 <font color=#FFFF00>SUSPEITA DE ANTIGA RIVALIDADE
-ENTRE TIT√S</font>
+ENTRE TIT√ÉS</font>
 
 1339
 02:01:51,866 --> 02:01:54,097
@@ -6152,27 +6152,27 @@ RECEBEM VISITA SURPRESA DE GODZILLA</font>
 
 1340
 02:02:01,529 --> 02:02:04,037
-<font color=#FFFF00>RESÕDUOS DE TIT√S PODEM SER
-FONTE VI¡VEL DE ENERGIA</font>
+<font color=#FFFF00>RES√çDUOS DE TIT√ÉS PODEM SER
+FONTE VI√ÅVEL DE ENERGIA</font>
 
 1341
 02:02:04,038 --> 02:02:05,994
-<font color=#FFFF00>PLANTAS PR…-HIST”RICAS
-S√O A NOVA SUPERCOMIDA?</font>
+<font color=#FFFF00>PLANTAS PR√â-HIST√ìRICAS
+S√ÉO A NOVA SUPERCOMIDA?</font>
 
 1342
 02:02:13,076 --> 02:02:15,504
-<font color=#FFFF00>DIST⁄RBIOS SÕSMICOS REPORTADOS
+<font color=#FFFF00>DIST√öRBIOS S√çSMICOS REPORTADOS
 NA ILHA DA CAVEIRA</font>
 
 1343
 02:02:17,895 --> 02:02:19,472
-<font color=#FFFF00>NOVOS TIT√S S√O ATRAÕDOS
+<font color=#FFFF00>NOVOS TIT√ÉS S√ÉO ATRA√çDOS
 PARA A ILHA DA CAVEIRA?</font>
 
 1344
 02:02:19,473 --> 02:02:21,998
-<font color=#FFFF00>MONARCA AUMENTA FOR«AS
+<font color=#FFFF00>MONARCA AUMENTA FOR√áAS
 AO REDOR DA ILHA DA CAVEIRA</font>
 
 1345
@@ -6182,7 +6182,7 @@ AO REDOR DA ILHA DA CAVEIRA</font>
 1346
 02:02:29,610 --> 02:02:31,582
 <font color=#FFFF00>ANTIGOS HUMANOS DA "TERRA OCA"
-COEXISTIAM COM OS TIT√S</font>
+COEXISTIAM COM OS TIT√ÉS</font>
 
 1347
 02:02:32,578 --> 02:02:33,943
@@ -6191,8 +6191,8 @@ A TERRA OCA</font>
 
 1348
 02:02:33,944 --> 02:02:35,264
-<font color=#FFFF00>CA«ADORES DE MONSTROS
-PROCURAM ORIGENS DOS TIT√S</font>
+<font color=#FFFF00>CA√áADORES DE MONSTROS
+PROCURAM ORIGENS DOS TIT√ÉS</font>
 
 1349
 02:02:35,265 --> 02:02:36,665
@@ -6200,7 +6200,7 @@ PROCURAM ORIGENS DOS TIT√S</font>
 
 1350
 02:02:44,877 --> 02:02:46,288
-<font color=#FFFF00>O QUE … UM REI PARA UM DEUS?</font>
+<font color=#FFFF00>O QUE √â UM REI PARA UM DEUS?</font>
 
 1351
 02:02:46,289 --> 02:02:48,016
@@ -6209,21 +6209,21 @@ PARECIDAS COM KONG E GODZILLA</font>
 
 1352
 02:02:52,871 --> 02:02:54,873
-<font color=#FFFF00>MONARCA AUTORIZA«√O NÕVEL 6
-SE«√O 8: AMEA«AS ADICIONAIS</font>
+<font color=#FFFF00>MONARCA AUTORIZA√á√ÉO N√çVEL 6
+SE√á√ÉO 8: AMEA√áAS ADICIONAIS</font>
 
 1353
 02:03:01,683 --> 02:03:04,915
-<font color=#FFFF00>Calma que ainda n„o foi
+<font color=#FFFF00>Calma que ainda n√£o foi
 a cena que falamos antes.</font>
 
 1354
 02:03:04,916 --> 02:03:06,884
-<font color=#FFFF00>Ela È sÛ em 2h10m de filme.</font>
+<font color=#FFFF00>Ela √© s√≥ em 2h10m de filme.</font>
 
 1355
 02:10:29,148 --> 02:10:31,044
-<font color=#FFFF00>EM MEM”RIA DE...</font>
+<font color=#FFFF00>EM MEM√ìRIA DE...</font>
 
 1356
 02:10:36,716 --> 02:10:41,360
@@ -6231,7 +6231,7 @@ a cena que falamos antes.</font>
 
 1357
 02:10:42,806 --> 02:10:44,776
-<font color=#FFFF00>… um admir·vel muito novo,
+<font color=#FFFF00>√â um admir√°vel muito novo,
 meu amigo.</font>
 
 1358
@@ -6241,22 +6241,22 @@ meu amigo.</font>
 1359
 02:10:46,710 --> 02:10:49,572
 <font color=#FFFF00>tornam-se muito mais valiosas
-com a ascens„o do rei.</font>
+com a ascens√£o do rei.</font>
 
 1360
 02:10:49,573 --> 02:10:51,587
 <font color=#FFFF00>Meus homens,
-eles n„o pedem muito.</font>
+eles n√£o pedem muito.</font>
 
 1361
 02:10:51,588 --> 02:10:53,521
-<font color=#FFFF00>N„o podem mais pescar aqui.</font>
+<font color=#FFFF00>N√£o podem mais pescar aqui.</font>
 
 1362
 02:10:54,050 --> 02:10:55,529
-<font color=#FFFF00>Tudo est· morto.</font>
+<font color=#FFFF00>Tudo est√° morto.</font>
 
 1363
 02:11:29,085 --> 02:11:30,756
-<font color=#FFFF00>NÛs vamos levar.</font>
+<font color=#FFFF00>N√≥s vamos levar.</font>
 
